@@ -1,1207 +1,1207 @@
 ,location,product_name,diameter,piece,cover_fill,type_r_c,fondant,fondant_type,topic,topic_type,price
-0,A,Victoria Cake,18.0,15,1,GN,1,FondantM,1,Basica,26.33
-1,A,Victoria Cake,18.0,15,1,GN,1,FondantM,1,Media,28.33
-2,A,Victoria Cake,18.0,15,1,GN,1,FondantM,1,Alta,31.33
-3,A,Victoria Cake,18.0,15,1,GN,1,FondantM,1,Muy Alta,35.33
-4,A,Victoria Cake,18.0,15,1,GN,1,FondantM,0,Sin Tematica,23.33
-5,A,Victoria Cake,18.0,15,1,GN,0,FondantM,1,Basica,22.33
-6,A,Victoria Cake,18.0,15,1,GN,0,FondantM,1,Media,24.33
-7,A,Victoria Cake,18.0,15,1,GN,0,FondantM,1,Alta,27.33
-8,A,Victoria Cake,18.0,15,1,GN,0,FondantM,1,Muy Alta,31.33
-9,A,Victoria Cake,18.0,15,1,GN,0,FondantM,0,Sin Tematica,19.33
-10,A,Victoria Cake,18.0,15,1,GNL,1,FondantM,1,Basica,30.4
-11,A,Victoria Cake,18.0,15,1,GNL,1,FondantM,1,Media,32.4
-12,A,Victoria Cake,18.0,15,1,GNL,1,FondantM,1,Alta,35.4
-13,A,Victoria Cake,18.0,15,1,GNL,1,FondantM,1,Muy Alta,39.4
-14,A,Victoria Cake,18.0,15,1,GNL,1,FondantM,0,Sin Tematica,27.4
-15,A,Victoria Cake,18.0,15,1,GNL,0,FondantM,1,Basica,26.4
-16,A,Victoria Cake,18.0,15,1,GNL,0,FondantM,1,Media,28.4
-17,A,Victoria Cake,18.0,15,1,GNL,0,FondantM,1,Alta,31.4
-18,A,Victoria Cake,18.0,15,1,GNL,0,FondantM,1,Muy Alta,35.4
-19,A,Victoria Cake,18.0,15,1,GNL,0,FondantM,0,Sin Tematica,23.4
-20,A,Victoria Cake,18.0,15,1,GB,1,FondantM,1,Basica,33.93
-21,A,Victoria Cake,18.0,15,1,GB,1,FondantM,1,Media,35.93
-22,A,Victoria Cake,18.0,15,1,GB,1,FondantM,1,Alta,38.93
-23,A,Victoria Cake,18.0,15,1,GB,1,FondantM,1,Muy Alta,42.93
-24,A,Victoria Cake,18.0,15,1,GB,1,FondantM,0,Sin Tematica,30.93
-25,A,Victoria Cake,18.0,15,1,GB,0,FondantM,1,Basica,29.93
-26,A,Victoria Cake,18.0,15,1,GB,0,FondantM,1,Media,31.93
-27,A,Victoria Cake,18.0,15,1,GB,0,FondantM,1,Alta,34.93
-28,A,Victoria Cake,18.0,15,1,GB,0,FondantM,1,Muy Alta,38.93
-29,A,Victoria Cake,18.0,15,1,GB,0,FondantM,0,Sin Tematica,26.93
-30,A,Victoria Cake,18.0,15,1,BC,1,FondantM,1,Basica,39.39
-31,A,Victoria Cake,18.0,15,1,BC,1,FondantM,1,Media,41.39
-32,A,Victoria Cake,18.0,15,1,BC,1,FondantM,1,Alta,44.39
-33,A,Victoria Cake,18.0,15,1,BC,1,FondantM,1,Muy Alta,48.39
-34,A,Victoria Cake,18.0,15,1,BC,1,FondantM,0,Sin Tematica,36.39
-35,A,Victoria Cake,18.0,15,1,BC,0,FondantM,1,Basica,35.39
-36,A,Victoria Cake,18.0,15,1,BC,0,FondantM,1,Media,37.39
-37,A,Victoria Cake,18.0,15,1,BC,0,FondantM,1,Alta,40.39
-38,A,Victoria Cake,18.0,15,1,BC,0,FondantM,1,Muy Alta,44.39
-39,A,Victoria Cake,18.0,15,1,BC,0,FondantM,0,Sin Tematica,32.39
-40,A,Victoria Cake,18.0,15,1,BCO,1,FondantM,1,Basica,42.34
-41,A,Victoria Cake,18.0,15,1,BCO,1,FondantM,1,Media,44.34
-42,A,Victoria Cake,18.0,15,1,BCO,1,FondantM,1,Alta,47.34
-43,A,Victoria Cake,18.0,15,1,BCO,1,FondantM,1,Muy Alta,51.34
-44,A,Victoria Cake,18.0,15,1,BCO,1,FondantM,0,Sin Tematica,39.34
-45,A,Victoria Cake,18.0,15,1,BCO,0,FondantM,1,Basica,38.34
-46,A,Victoria Cake,18.0,15,1,BCO,0,FondantM,1,Media,40.34
-47,A,Victoria Cake,18.0,15,1,BCO,0,FondantM,1,Alta,43.34
-48,A,Victoria Cake,18.0,15,1,BCO,0,FondantM,1,Muy Alta,47.34
-49,A,Victoria Cake,18.0,15,1,BCO,0,FondantM,0,Sin Tematica,35.34
-50,A,Victoria Cake,18.0,15,1,MerF,1,FondantM,1,Basica,37.35
-51,A,Victoria Cake,18.0,15,1,MerF,1,FondantM,1,Media,39.35
-52,A,Victoria Cake,18.0,15,1,MerF,1,FondantM,1,Alta,42.35
-53,A,Victoria Cake,18.0,15,1,MerF,1,FondantM,1,Muy Alta,46.35
-54,A,Victoria Cake,18.0,15,1,MerF,1,FondantM,0,Sin Tematica,34.35
-55,A,Victoria Cake,18.0,15,1,MerF,0,FondantM,1,Basica,41.35
-56,A,Victoria Cake,18.0,15,1,MerF,0,FondantM,1,Media,35.35
-57,A,Victoria Cake,18.0,15,1,MerF,0,FondantM,1,Alta,38.35
-58,A,Victoria Cake,18.0,15,1,MerF,0,FondantM,1,Muy Alta,42.35
-59,A,Victoria Cake,18.0,15,1,MerF,0,FondantM,0,Sin Tematica,30.35
-60,A,Victoria Cake,18.0,15,1,MerFR,1,FondantM,1,Basica,37.35
-61,A,Victoria Cake,18.0,15,1,MerFR,1,FondantM,1,Media,39.35
-62,A,Victoria Cake,18.0,15,1,MerFR,1,FondantM,1,Alta,42.35
-63,A,Victoria Cake,18.0,15,1,MerFR,1,FondantM,1,Muy Alta,46.35
-64,A,Victoria Cake,18.0,15,1,MerFR,1,FondantM,0,Sin Tematica,34.35
-65,A,Victoria Cake,18.0,15,1,MerFR,0,FondantM,1,Basica,33.35
-66,A,Victoria Cake,18.0,15,1,MerFR,0,FondantM,1,Media,35.35
-67,A,Victoria Cake,18.0,15,1,MerFR,0,FondantM,1,Alta,38.35
-68,A,Victoria Cake,18.0,15,1,MerFR,0,FondantM,1,Muy Alta,42.35
-69,A,Victoria Cake,18.0,15,1,MerFR,0,FondantM,0,Sin Tematica,30.35
-70,A,Victoria Cake,18.0,15,1,MerNZ,1,FondantM,1,Basica,34.82
-71,A,Victoria Cake,18.0,15,1,MerNZ,1,FondantM,1,Media,36.82
-72,A,Victoria Cake,18.0,15,1,MerNZ,1,FondantM,1,Alta,39.82
-73,A,Victoria Cake,18.0,15,1,MerNZ,1,FondantM,1,Muy Alta,43.82
-74,A,Victoria Cake,18.0,15,1,MerNZ,1,FondantM,0,Sin Tematica,31.82
-75,A,Victoria Cake,18.0,15,1,MerNZ,0,FondantM,1,Basica,30.82
-76,A,Victoria Cake,18.0,15,1,MerNZ,0,FondantM,1,Media,32.82
-77,A,Victoria Cake,18.0,15,1,MerNZ,0,FondantM,1,Alta,35.82
-78,A,Victoria Cake,18.0,15,1,MerNZ,0,FondantM,1,Muy Alta,39.82
-79,A,Victoria Cake,18.0,15,1,MerNZ,0,FondantM,0,Sin Tematica,27.82
-80,A,Victoria Cake,18.0,15,1,DL,1,FondantM,1,Basica,34.38
-81,A,Victoria Cake,18.0,15,1,DL,1,FondantM,1,Media,36.38
-82,A,Victoria Cake,18.0,15,1,DL,1,FondantM,1,Alta,39.38
-83,A,Victoria Cake,18.0,15,1,DL,1,FondantM,1,Muy Alta,43.38
-84,A,Victoria Cake,18.0,15,1,DL,1,FondantM,0,Sin Tematica,31.38
-85,A,Victoria Cake,18.0,15,1,DL,0,FondantM,1,Basica,30.38
-86,A,Victoria Cake,18.0,15,1,DL,0,FondantM,1,Media,32.38
-87,A,Victoria Cake,18.0,15,1,DL,0,FondantM,1,Alta,35.38
-88,A,Victoria Cake,18.0,15,1,DL,0,FondantM,1,Muy Alta,39.38
-89,A,Victoria Cake,18.0,15,1,DL,0,FondantM,0,Sin Tematica,27.38
-90,A,Victoria Cake,18.0,15,1,MerM,1,FondantM,1,Basica,34.89
-91,A,Victoria Cake,18.0,15,1,MerM,1,FondantM,1,Media,36.89
-92,A,Victoria Cake,18.0,15,1,MerM,1,FondantM,1,Alta,39.89
-93,A,Victoria Cake,18.0,15,1,MerM,1,FondantM,1,Muy Alta,43.89
-94,A,Victoria Cake,18.0,15,1,MerM,1,FondantM,0,Sin Tematica,31.89
-95,A,Victoria Cake,18.0,15,1,MerM,0,FondantM,1,Basica,30.89
-96,A,Victoria Cake,18.0,15,1,MerM,0,FondantM,1,Media,32.89
-97,A,Victoria Cake,18.0,15,1,MerM,0,FondantM,1,Alta,35.89
-98,A,Victoria Cake,18.0,15,1,MerM,0,FondantM,1,Muy Alta,39.89
-99,A,Victoria Cake,18.0,15,1,MerM,0,FondantM,0,Sin Tematica,27.89
-100,A,Victoria Cake,18.0,15,1,LimC,1,FondantM,1,Basica,39.89
-101,A,Victoria Cake,18.0,15,1,LimC,1,FondantM,1,Media,41.89
-102,A,Victoria Cake,18.0,15,1,LimC,1,FondantM,1,Alta,44.89
-103,A,Victoria Cake,18.0,15,1,LimC,1,FondantM,1,Muy Alta,48.89
-104,A,Victoria Cake,18.0,15,1,LimC,1,FondantM,0,Sin Tematica,36.89
-105,A,Victoria Cake,18.0,15,1,LimC,0,FondantM,1,Basica,35.89
-106,A,Victoria Cake,18.0,15,1,LimC,0,FondantM,1,Media,37.89
-107,A,Victoria Cake,18.0,15,1,LimC,0,FondantM,1,Alta,40.89
-108,A,Victoria Cake,18.0,15,1,LimC,0,FondantM,1,Muy Alta,44.89
-109,A,Victoria Cake,18.0,15,1,LimC,0,FondantM,0,Sin Tematica,32.89
-110,A,Chocolat Cake,18.0,15,1,GN,1,FondantM,1,Basica,27.28
-111,A,Chocolat Cake,18.0,15,1,GN,1,FondantM,1,Media,29.28
-112,A,Chocolat Cake,18.0,15,1,GN,1,FondantM,1,Alta,32.28
-113,A,Chocolat Cake,18.0,15,1,GN,1,FondantM,1,Muy Alta,36.28
-114,A,Chocolat Cake,18.0,15,1,GN,1,FondantM,0,Sin Tematica,24.28
-115,A,Chocolat Cake,18.0,15,1,GN,0,FondantM,1,Basica,23.28
-116,A,Chocolat Cake,18.0,15,1,GN,0,FondantM,1,Media,25.28
-117,A,Chocolat Cake,18.0,15,1,GN,0,FondantM,1,Alta,28.28
-118,A,Chocolat Cake,18.0,15,1,GN,0,FondantM,1,Muy Alta,32.28
-119,A,Chocolat Cake,18.0,15,1,GN,0,FondantM,0,Sin Tematica,20.28
-120,A,Chocolat Cake,18.0,15,1,GNL,1,FondantM,1,Basica,31.34
-121,A,Chocolat Cake,18.0,15,1,GNL,1,FondantM,1,Media,33.34
-122,A,Chocolat Cake,18.0,15,1,GNL,1,FondantM,1,Alta,36.34
-123,A,Chocolat Cake,18.0,15,1,GNL,1,FondantM,1,Muy Alta,40.34
-124,A,Chocolat Cake,18.0,15,1,GNL,1,FondantM,0,Sin Tematica,28.34
-125,A,Chocolat Cake,18.0,15,1,GNL,0,FondantM,1,Basica,27.34
-126,A,Chocolat Cake,18.0,15,1,GNL,0,FondantM,1,Media,29.34
-127,A,Chocolat Cake,18.0,15,1,GNL,0,FondantM,1,Alta,32.34
-128,A,Chocolat Cake,18.0,15,1,GNL,0,FondantM,1,Muy Alta,36.34
-129,A,Chocolat Cake,18.0,15,1,GNL,0,FondantM,0,Sin Tematica,24.34
-130,A,Chocolat Cake,18.0,15,1,GB,1,FondantM,1,Basica,34.87
-131,A,Chocolat Cake,18.0,15,1,GB,1,FondantM,1,Media,36.87
-132,A,Chocolat Cake,18.0,15,1,GB,1,FondantM,1,Alta,39.87
-133,A,Chocolat Cake,18.0,15,1,GB,1,FondantM,1,Muy Alta,43.87
-134,A,Chocolat Cake,18.0,15,1,GB,1,FondantM,0,Sin Tematica,31.87
-135,A,Chocolat Cake,18.0,15,1,GB,0,FondantM,1,Basica,30.87
-136,A,Chocolat Cake,18.0,15,1,GB,0,FondantM,1,Media,32.87
-137,A,Chocolat Cake,18.0,15,1,GB,0,FondantM,1,Alta,35.87
-138,A,Chocolat Cake,18.0,15,1,GB,0,FondantM,1,Muy Alta,39.87
-139,A,Chocolat Cake,18.0,15,1,GB,0,FondantM,0,Sin Tematica,27.87
-140,A,Chocolat Cake,18.0,15,1,BC,1,FondantM,1,Basica,40.33
-141,A,Chocolat Cake,18.0,15,1,BC,1,FondantM,1,Media,42.33
-142,A,Chocolat Cake,18.0,15,1,BC,1,FondantM,1,Alta,45.33
-143,A,Chocolat Cake,18.0,15,1,BC,1,FondantM,1,Muy Alta,49.33
-144,A,Chocolat Cake,18.0,15,1,BC,1,FondantM,0,Sin Tematica,37.33
-145,A,Chocolat Cake,18.0,15,1,BC,0,FondantM,1,Basica,36.33
-146,A,Chocolat Cake,18.0,15,1,BC,0,FondantM,1,Media,38.33
-147,A,Chocolat Cake,18.0,15,1,BC,0,FondantM,1,Alta,41.33
-148,A,Chocolat Cake,18.0,15,1,BC,0,FondantM,1,Muy Alta,45.33
-149,A,Chocolat Cake,18.0,15,1,BC,0,FondantM,0,Sin Tematica,33.33
-150,A,Chocolat Cake,18.0,15,1,BCO,1,FondantM,1,Basica,43.28
-151,A,Chocolat Cake,18.0,15,1,BCO,1,FondantM,1,Media,45.28
-152,A,Chocolat Cake,18.0,15,1,BCO,1,FondantM,1,Alta,48.28
-153,A,Chocolat Cake,18.0,15,1,BCO,1,FondantM,1,Muy Alta,52.28
-154,A,Chocolat Cake,18.0,15,1,BCO,1,FondantM,0,Sin Tematica,40.28
-155,A,Chocolat Cake,18.0,15,1,BCO,0,FondantM,1,Basica,39.28
-156,A,Chocolat Cake,18.0,15,1,BCO,0,FondantM,1,Media,41.28
-157,A,Chocolat Cake,18.0,15,1,BCO,0,FondantM,1,Alta,44.28
-158,A,Chocolat Cake,18.0,15,1,BCO,0,FondantM,1,Muy Alta,48.28
-159,A,Chocolat Cake,18.0,15,1,BCO,0,FondantM,0,Sin Tematica,36.28
-160,A,Chocolat Cake,18.0,15,1,MerF,1,FondantM,1,Basica,38.3
-161,A,Chocolat Cake,18.0,15,1,MerF,1,FondantM,1,Media,40.3
-162,A,Chocolat Cake,18.0,15,1,MerF,1,FondantM,1,Alta,43.3
-163,A,Chocolat Cake,18.0,15,1,MerF,1,FondantM,1,Muy Alta,47.3
-164,A,Chocolat Cake,18.0,15,1,MerF,1,FondantM,0,Sin Tematica,35.3
-165,A,Chocolat Cake,18.0,15,1,MerF,0,FondantM,1,Basica,34.3
-166,A,Chocolat Cake,18.0,15,1,MerF,0,FondantM,1,Media,36.3
-167,A,Chocolat Cake,18.0,15,1,MerF,0,FondantM,1,Alta,39.3
-168,A,Chocolat Cake,18.0,15,1,MerF,0,FondantM,1,Muy Alta,43.3
-169,A,Chocolat Cake,18.0,15,1,MerF,0,FondantM,0,Sin Tematica,31.3
-170,A,Chocolat Cake,18.0,15,1,MerFR,1,FondantM,1,Basica,38.3
-171,A,Chocolat Cake,18.0,15,1,MerFR,1,FondantM,1,Media,40.3
-172,A,Chocolat Cake,18.0,15,1,MerFR,1,FondantM,1,Alta,43.3
-173,A,Chocolat Cake,18.0,15,1,MerFR,1,FondantM,1,Muy Alta,47.3
-174,A,Chocolat Cake,18.0,15,1,MerFR,1,FondantM,0,Sin Tematica,35.3
-175,A,Chocolat Cake,18.0,15,1,MerFR,0,FondantM,1,Basica,34.3
-176,A,Chocolat Cake,18.0,15,1,MerFR,0,FondantM,1,Media,36.3
-177,A,Chocolat Cake,18.0,15,1,MerFR,0,FondantM,1,Alta,39.3
-178,A,Chocolat Cake,18.0,15,1,MerFR,0,FondantM,1,Muy Alta,43.3
-179,A,Chocolat Cake,18.0,15,1,MerFR,0,FondantM,0,Sin Tematica,31.3
-180,A,Chocolat Cake,18.0,15,1,MerNZ,1,FondantM,1,Basica,35.77
-181,A,Chocolat Cake,18.0,15,1,MerNZ,1,FondantM,1,Media,37.77
-182,A,Chocolat Cake,18.0,15,1,MerNZ,1,FondantM,1,Alta,40.77
-183,A,Chocolat Cake,18.0,15,1,MerNZ,1,FondantM,1,Muy Alta,44.77
-184,A,Chocolat Cake,18.0,15,1,MerNZ,1,FondantM,0,Sin Tematica,32.77
-185,A,Chocolat Cake,18.0,15,1,MerNZ,0,FondantM,1,Basica,31.77
-186,A,Chocolat Cake,18.0,15,1,MerNZ,0,FondantM,1,Media,33.77
-187,A,Chocolat Cake,18.0,15,1,MerNZ,0,FondantM,1,Alta,36.77
-188,A,Chocolat Cake,18.0,15,1,MerNZ,0,FondantM,1,Muy Alta,40.77
-189,A,Chocolat Cake,18.0,15,1,MerNZ,0,FondantM,0,Sin Tematica,28.77
-190,A,Chocolat Cake,18.0,15,1,DL,1,FondantM,1,Basica,35.32
-191,A,Chocolat Cake,18.0,15,1,DL,1,FondantM,1,Media,37.32
-192,A,Chocolat Cake,18.0,15,1,DL,1,FondantM,1,Alta,40.32
-193,A,Chocolat Cake,18.0,15,1,DL,1,FondantM,1,Muy Alta,44.32
-194,A,Chocolat Cake,18.0,15,1,DL,1,FondantM,0,Sin Tematica,32.32
-195,A,Chocolat Cake,18.0,15,1,DL,0,FondantM,1,Basica,31.32
-196,A,Chocolat Cake,18.0,15,1,DL,0,FondantM,1,Media,33.32
-197,A,Chocolat Cake,18.0,15,1,DL,0,FondantM,1,Alta,36.32
-198,A,Chocolat Cake,18.0,15,1,DL,0,FondantM,1,Muy Alta,40.32
-199,A,Chocolat Cake,18.0,15,1,DL,0,FondantM,0,Sin Tematica,28.32
-200,A,Chocolat Cake,18.0,15,1,MerM,1,FondantM,1,Basica,35.84
-201,A,Chocolat Cake,18.0,15,1,MerM,1,FondantM,1,Media,37.84
-202,A,Chocolat Cake,18.0,15,1,MerM,1,FondantM,1,Alta,40.84
-203,A,Chocolat Cake,18.0,15,1,MerM,1,FondantM,1,Muy Alta,44.84
-204,A,Chocolat Cake,18.0,15,1,MerM,1,FondantM,0,Sin Tematica,32.84
-205,A,Chocolat Cake,18.0,15,1,MerM,0,FondantM,1,Basica,31.84
-206,A,Chocolat Cake,18.0,15,1,MerM,0,FondantM,1,Media,33.84
-207,A,Chocolat Cake,18.0,15,1,MerM,0,FondantM,1,Alta,36.84
-208,A,Chocolat Cake,18.0,15,1,MerM,0,FondantM,1,Muy Alta,40.84
-209,A,Chocolat Cake,18.0,15,1,MerM,0,FondantM,0,Sin Tematica,28.84
-210,A,Chocolat Cake,18.0,15,1,LimC,1,FondantM,1,Basica,40.84
-211,A,Chocolat Cake,18.0,15,1,LimC,1,FondantM,1,Media,42.84
-212,A,Chocolat Cake,18.0,15,1,LimC,1,FondantM,1,Alta,45.84
-213,A,Chocolat Cake,18.0,15,1,LimC,1,FondantM,1,Muy Alta,49.84
-214,A,Chocolat Cake,18.0,15,1,LimC,1,FondantM,0,Sin Tematica,37.84
-215,A,Chocolat Cake,18.0,15,1,LimC,0,FondantM,1,Basica,36.84
-216,A,Chocolat Cake,18.0,15,1,LimC,0,FondantM,1,Media,38.84
-217,A,Chocolat Cake,18.0,15,1,LimC,0,FondantM,1,Alta,41.84
-218,A,Chocolat Cake,18.0,15,1,LimC,0,FondantM,1,Muy Alta,45.84
-219,A,Chocolat Cake,18.0,15,1,LimC,0,FondantM,0,Sin Tematica,33.84
-220,A,Oreo Cake,18.0,15,1,GN,1,FondantM,1,Basica,21.3
-221,A,Oreo Cake,18.0,15,1,GN,1,FondantM,1,Media,23.3
-222,A,Oreo Cake,18.0,15,1,GN,1,FondantM,1,Alta,26.3
-223,A,Oreo Cake,18.0,15,1,GN,1,FondantM,1,Muy Alta,30.3
-224,A,Oreo Cake,18.0,15,1,GN,1,FondantM,0,Sin Tematica,18.3
-225,A,Oreo Cake,18.0,15,1,GN,0,FondantM,1,Basica,17.3
-226,A,Oreo Cake,18.0,15,1,GN,0,FondantM,1,Media,19.3
-227,A,Oreo Cake,18.0,15,1,GN,0,FondantM,1,Alta,22.3
-228,A,Oreo Cake,18.0,15,1,GN,0,FondantM,1,Muy Alta,26.3
-229,A,Oreo Cake,18.0,15,1,GN,0,FondantM,0,Sin Tematica,14.3
-230,A,Oreo Cake,18.0,15,1,GNL,1,FondantM,1,Basica,25.37
-231,A,Oreo Cake,18.0,15,1,GNL,1,FondantM,1,Media,27.37
-232,A,Oreo Cake,18.0,15,1,GNL,1,FondantM,1,Alta,30.37
-233,A,Oreo Cake,18.0,15,1,GNL,1,FondantM,1,Muy Alta,34.37
-234,A,Oreo Cake,18.0,15,1,GNL,1,FondantM,0,Sin Tematica,22.37
-235,A,Oreo Cake,18.0,15,1,GNL,0,FondantM,1,Basica,21.37
-236,A,Oreo Cake,18.0,15,1,GNL,0,FondantM,1,Media,23.37
-237,A,Oreo Cake,18.0,15,1,GNL,0,FondantM,1,Alta,26.37
-238,A,Oreo Cake,18.0,15,1,GNL,0,FondantM,1,Muy Alta,30.37
-239,A,Oreo Cake,18.0,15,1,GNL,0,FondantM,0,Sin Tematica,18.37
-240,A,Oreo Cake,18.0,15,1,GB,1,FondantM,1,Basica,28.89
-241,A,Oreo Cake,18.0,15,1,GB,1,FondantM,1,Media,30.89
-242,A,Oreo Cake,18.0,15,1,GB,1,FondantM,1,Alta,33.89
-243,A,Oreo Cake,18.0,15,1,GB,1,FondantM,1,Muy Alta,37.89
-244,A,Oreo Cake,18.0,15,1,GB,1,FondantM,0,Sin Tematica,25.89
-245,A,Oreo Cake,18.0,15,1,GB,0,FondantM,1,Basica,24.89
-246,A,Oreo Cake,18.0,15,1,GB,0,FondantM,1,Media,26.89
-247,A,Oreo Cake,18.0,15,1,GB,0,FondantM,1,Alta,29.89
-248,A,Oreo Cake,18.0,15,1,GB,0,FondantM,1,Muy Alta,33.89
-249,A,Oreo Cake,18.0,15,1,GB,0,FondantM,0,Sin Tematica,21.89
-250,A,Oreo Cake,18.0,15,1,BC,1,FondantM,1,Basica,34.35
-251,A,Oreo Cake,18.0,15,1,BC,1,FondantM,1,Media,36.35
-252,A,Oreo Cake,18.0,15,1,BC,1,FondantM,1,Alta,39.35
-253,A,Oreo Cake,18.0,15,1,BC,1,FondantM,1,Muy Alta,43.35
-254,A,Oreo Cake,18.0,15,1,BC,1,FondantM,0,Sin Tematica,31.35
-255,A,Oreo Cake,18.0,15,1,BC,0,FondantM,1,Basica,30.35
-256,A,Oreo Cake,18.0,15,1,BC,0,FondantM,1,Media,32.35
-257,A,Oreo Cake,18.0,15,1,BC,0,FondantM,1,Alta,35.35
-258,A,Oreo Cake,18.0,15,1,BC,0,FondantM,1,Muy Alta,39.35
-259,A,Oreo Cake,18.0,15,1,BC,0,FondantM,0,Sin Tematica,27.35
-260,A,Oreo Cake,18.0,15,1,BCO,1,FondantM,1,Basica,37.3
-261,A,Oreo Cake,18.0,15,1,BCO,1,FondantM,1,Media,39.3
-262,A,Oreo Cake,18.0,15,1,BCO,1,FondantM,1,Alta,42.3
-263,A,Oreo Cake,18.0,15,1,BCO,1,FondantM,1,Muy Alta,46.3
-264,A,Oreo Cake,18.0,15,1,BCO,1,FondantM,0,Sin Tematica,34.3
-265,A,Oreo Cake,18.0,15,1,BCO,0,FondantM,1,Basica,33.3
-266,A,Oreo Cake,18.0,15,1,BCO,0,FondantM,1,Media,35.3
-267,A,Oreo Cake,18.0,15,1,BCO,0,FondantM,1,Alta,38.3
-268,A,Oreo Cake,18.0,15,1,BCO,0,FondantM,1,Muy Alta,42.3
-269,A,Oreo Cake,18.0,15,1,BCO,0,FondantM,0,Sin Tematica,30.3
-270,A,Oreo Cake,18.0,15,1,MerF,1,FondantM,1,Basica,32.32
-271,A,Oreo Cake,18.0,15,1,MerF,1,FondantM,1,Media,34.32
-272,A,Oreo Cake,18.0,15,1,MerF,1,FondantM,1,Alta,37.32
-273,A,Oreo Cake,18.0,15,1,MerF,1,FondantM,1,Muy Alta,41.32
-274,A,Oreo Cake,18.0,15,1,MerF,1,FondantM,0,Sin Tematica,29.32
-275,A,Oreo Cake,18.0,15,1,MerF,0,FondantM,1,Basica,28.32
-276,A,Oreo Cake,18.0,15,1,MerF,0,FondantM,1,Media,30.32
-277,A,Oreo Cake,18.0,15,1,MerF,0,FondantM,1,Alta,33.32
-278,A,Oreo Cake,18.0,15,1,MerF,0,FondantM,1,Muy Alta,37.32
-279,A,Oreo Cake,18.0,15,1,MerF,0,FondantM,0,Sin Tematica,25.32
-280,A,Oreo Cake,18.0,15,1,MerFR,1,FondantM,1,Basica,32.32
-281,A,Oreo Cake,18.0,15,1,MerFR,1,FondantM,1,Media,34.32
-282,A,Oreo Cake,18.0,15,1,MerFR,1,FondantM,1,Alta,37.32
-283,A,Oreo Cake,18.0,15,1,MerFR,1,FondantM,1,Muy Alta,41.32
-284,A,Oreo Cake,18.0,15,1,MerFR,1,FondantM,0,Sin Tematica,29.32
-285,A,Oreo Cake,18.0,15,1,MerFR,0,FondantM,1,Basica,28.32
-286,A,Oreo Cake,18.0,15,1,MerFR,0,FondantM,1,Media,30.32
-287,A,Oreo Cake,18.0,15,1,MerFR,0,FondantM,1,Alta,33.32
-288,A,Oreo Cake,18.0,15,1,MerFR,0,FondantM,1,Muy Alta,37.32
-289,A,Oreo Cake,18.0,15,1,MerFR,0,FondantM,0,Sin Tematica,25.32
-290,A,Oreo Cake,18.0,15,1,MerNZ,1,FondantM,1,Basica,29.79
-291,A,Oreo Cake,18.0,15,1,MerNZ,1,FondantM,1,Media,31.79
-292,A,Oreo Cake,18.0,15,1,MerNZ,1,FondantM,1,Alta,34.79
-293,A,Oreo Cake,18.0,15,1,MerNZ,1,FondantM,1,Muy Alta,38.79
-294,A,Oreo Cake,18.0,15,1,MerNZ,1,FondantM,0,Sin Tematica,26.79
-295,A,Oreo Cake,18.0,15,1,MerNZ,0,FondantM,1,Basica,25.79
-296,A,Oreo Cake,18.0,15,1,MerNZ,0,FondantM,1,Media,27.79
-297,A,Oreo Cake,18.0,15,1,MerNZ,0,FondantM,1,Alta,30.79
-298,A,Oreo Cake,18.0,15,1,MerNZ,0,FondantM,1,Muy Alta,34.79
-299,A,Oreo Cake,18.0,15,1,MerNZ,0,FondantM,0,Sin Tematica,22.79
-300,A,Oreo Cake,18.0,15,1,DL,1,FondantM,1,Basica,29.34
-301,A,Oreo Cake,18.0,15,1,DL,1,FondantM,1,Media,31.34
-302,A,Oreo Cake,18.0,15,1,DL,1,FondantM,1,Alta,34.34
-303,A,Oreo Cake,18.0,15,1,DL,1,FondantM,1,Muy Alta,38.34
-304,A,Oreo Cake,18.0,15,1,DL,1,FondantM,0,Sin Tematica,26.34
-305,A,Oreo Cake,18.0,15,1,DL,0,FondantM,1,Basica,25.34
-306,A,Oreo Cake,18.0,15,1,DL,0,FondantM,1,Media,27.34
-307,A,Oreo Cake,18.0,15,1,DL,0,FondantM,1,Alta,30.34
-308,A,Oreo Cake,18.0,15,1,DL,0,FondantM,1,Muy Alta,34.34
-309,A,Oreo Cake,18.0,15,1,DL,0,FondantM,0,Sin Tematica,22.34
-310,A,Oreo Cake,18.0,15,1,MerM,1,FondantM,1,Basica,29.86
-311,A,Oreo Cake,18.0,15,1,MerM,1,FondantM,1,Media,31.86
-312,A,Oreo Cake,18.0,15,1,MerM,1,FondantM,1,Alta,34.86
-313,A,Oreo Cake,18.0,15,1,MerM,1,FondantM,1,Muy Alta,38.86
-314,A,Oreo Cake,18.0,15,1,MerM,1,FondantM,0,Sin Tematica,26.86
-315,A,Oreo Cake,18.0,15,1,MerM,0,FondantM,1,Basica,25.86
-316,A,Oreo Cake,18.0,15,1,MerM,0,FondantM,1,Media,27.86
-317,A,Oreo Cake,18.0,15,1,MerM,0,FondantM,1,Alta,30.86
-318,A,Oreo Cake,18.0,15,1,MerM,0,FondantM,1,Muy Alta,34.86
-319,A,Oreo Cake,18.0,15,1,MerM,0,FondantM,0,Sin Tematica,22.86
-320,A,Oreo Cake,18.0,15,1,LimC,1,FondantM,1,Basica,34.86
-321,A,Oreo Cake,18.0,15,1,LimC,1,FondantM,1,Media,36.86
-322,A,Oreo Cake,18.0,15,1,LimC,1,FondantM,1,Alta,39.86
-323,A,Oreo Cake,18.0,15,1,LimC,1,FondantM,1,Muy Alta,43.86
-324,A,Oreo Cake,18.0,15,1,LimC,1,FondantM,0,Sin Tematica,31.86
-325,A,Oreo Cake,18.0,15,1,LimC,0,FondantM,1,Basica,30.86
-326,A,Oreo Cake,18.0,15,1,LimC,0,FondantM,1,Media,32.86
-327,A,Oreo Cake,18.0,15,1,LimC,0,FondantM,1,Alta,35.86
-328,A,Oreo Cake,18.0,15,1,LimC,0,FondantM,1,Muy Alta,39.86
-329,A,Oreo Cake,18.0,15,1,LimC,0,FondantM,0,Sin Tematica,27.86
-330,A,ReDVelvet Cake,18.0,15,1,GN,1,FondantM,1,Basica,51.86
-331,A,ReDVelvet Cake,18.0,15,1,GN,1,FondantM,1,Media,53.86
-332,A,ReDVelvet Cake,18.0,15,1,GN,1,FondantM,1,Alta,56.86
-333,A,ReDVelvet Cake,18.0,15,1,GN,1,FondantM,1,Muy Alta,60.86
-334,A,ReDVelvet Cake,18.0,15,1,GN,1,FondantM,0,Sin Tematica,48.86
-335,A,ReDVelvet Cake,18.0,15,1,GN,0,FondantM,1,Basica,47.86
-336,A,ReDVelvet Cake,18.0,15,1,GN,0,FondantM,1,Media,49.86
-337,A,ReDVelvet Cake,18.0,15,1,GN,0,FondantM,1,Alta,52.86
-338,A,ReDVelvet Cake,18.0,15,1,GN,0,FondantM,1,Muy Alta,56.86
-339,A,ReDVelvet Cake,18.0,15,1,GN,0,FondantM,0,Sin Tematica,44.86
-340,A,ReDVelvet Cake,18.0,15,1,GNL,1,FondantM,1,Basica,55.93
-341,A,ReDVelvet Cake,18.0,15,1,GNL,1,FondantM,1,Media,57.93
-342,A,ReDVelvet Cake,18.0,15,1,GNL,1,FondantM,1,Alta,60.93
-343,A,ReDVelvet Cake,18.0,15,1,GNL,1,FondantM,1,Muy Alta,64.93
-344,A,ReDVelvet Cake,18.0,15,1,GNL,1,FondantM,0,Sin Tematica,52.93
-345,A,ReDVelvet Cake,18.0,15,1,GNL,0,FondantM,1,Basica,51.93
-346,A,ReDVelvet Cake,18.0,15,1,GNL,0,FondantM,1,Media,53.93
-347,A,ReDVelvet Cake,18.0,15,1,GNL,0,FondantM,1,Alta,56.93
-348,A,ReDVelvet Cake,18.0,15,1,GNL,0,FondantM,1,Muy Alta,60.93
-349,A,ReDVelvet Cake,18.0,15,1,GNL,0,FondantM,0,Sin Tematica,48.93
-350,A,ReDVelvet Cake,18.0,15,1,GB,1,FondantM,1,Basica,59.45
-351,A,ReDVelvet Cake,18.0,15,1,GB,1,FondantM,1,Media,61.45
-352,A,ReDVelvet Cake,18.0,15,1,GB,1,FondantM,1,Alta,64.45
-353,A,ReDVelvet Cake,18.0,15,1,GB,1,FondantM,1,Muy Alta,68.45
-354,A,ReDVelvet Cake,18.0,15,1,GB,1,FondantM,0,Sin Tematica,56.45
-355,A,ReDVelvet Cake,18.0,15,1,GB,0,FondantM,1,Basica,55.45
-356,A,ReDVelvet Cake,18.0,15,1,GB,0,FondantM,1,Media,57.45
-357,A,ReDVelvet Cake,18.0,15,1,GB,0,FondantM,1,Alta,60.45
-358,A,ReDVelvet Cake,18.0,15,1,GB,0,FondantM,1,Muy Alta,64.45
-359,A,ReDVelvet Cake,18.0,15,1,GB,0,FondantM,0,Sin Tematica,52.45
-360,A,ReDVelvet Cake,18.0,15,1,BC,1,FondantM,1,Basica,64.91
-361,A,ReDVelvet Cake,18.0,15,1,BC,1,FondantM,1,Media,66.91
-362,A,ReDVelvet Cake,18.0,15,1,BC,1,FondantM,1,Alta,69.91
-363,A,ReDVelvet Cake,18.0,15,1,BC,1,FondantM,1,Muy Alta,73.91
-364,A,ReDVelvet Cake,18.0,15,1,BC,1,FondantM,0,Sin Tematica,61.91
-365,A,ReDVelvet Cake,18.0,15,1,BC,0,FondantM,1,Basica,60.91
-366,A,ReDVelvet Cake,18.0,15,1,BC,0,FondantM,1,Media,62.91
-367,A,ReDVelvet Cake,18.0,15,1,BC,0,FondantM,1,Alta,65.91
-368,A,ReDVelvet Cake,18.0,15,1,BC,0,FondantM,1,Muy Alta,69.91
-369,A,ReDVelvet Cake,18.0,15,1,BC,0,FondantM,0,Sin Tematica,57.91
-370,A,ReDVelvet Cake,18.0,15,1,BCO,1,FondantM,1,Basica,67.86
-371,A,ReDVelvet Cake,18.0,15,1,BCO,1,FondantM,1,Media,69.86
-372,A,ReDVelvet Cake,18.0,15,1,BCO,1,FondantM,1,Alta,72.86
-373,A,ReDVelvet Cake,18.0,15,1,BCO,1,FondantM,1,Muy Alta,76.86
-374,A,ReDVelvet Cake,18.0,15,1,BCO,1,FondantM,0,Sin Tematica,64.86
-375,A,ReDVelvet Cake,18.0,15,1,BCO,0,FondantM,1,Basica,63.86
-376,A,ReDVelvet Cake,18.0,15,1,BCO,0,FondantM,1,Media,65.86
-377,A,ReDVelvet Cake,18.0,15,1,BCO,0,FondantM,1,Alta,68.86
-378,A,ReDVelvet Cake,18.0,15,1,BCO,0,FondantM,1,Muy Alta,72.86
-379,A,ReDVelvet Cake,18.0,15,1,BCO,0,FondantM,0,Sin Tematica,60.86
-380,A,ReDVelvet Cake,18.0,15,1,MerF,1,FondantM,1,Basica,62.88
-381,A,ReDVelvet Cake,18.0,15,1,MerF,1,FondantM,1,Media,64.88
-382,A,ReDVelvet Cake,18.0,15,1,MerF,1,FondantM,1,Alta,67.88
-383,A,ReDVelvet Cake,18.0,15,1,MerF,1,FondantM,1,Muy Alta,71.88
-384,A,ReDVelvet Cake,18.0,15,1,MerF,1,FondantM,0,Sin Tematica,59.88
-385,A,ReDVelvet Cake,18.0,15,1,MerF,0,FondantM,1,Basica,58.88
-386,A,ReDVelvet Cake,18.0,15,1,MerF,0,FondantM,1,Media,60.88
-387,A,ReDVelvet Cake,18.0,15,1,MerF,0,FondantM,1,Alta,63.88
-388,A,ReDVelvet Cake,18.0,15,1,MerF,0,FondantM,1,Muy Alta,67.88
-389,A,ReDVelvet Cake,18.0,15,1,MerF,0,FondantM,0,Sin Tematica,55.88
-390,A,ReDVelvet Cake,18.0,15,1,MerFR,1,FondantM,1,Basica,62.88
-391,A,ReDVelvet Cake,18.0,15,1,MerFR,1,FondantM,1,Media,64.88
-392,A,ReDVelvet Cake,18.0,15,1,MerFR,1,FondantM,1,Alta,67.88
-393,A,ReDVelvet Cake,18.0,15,1,MerFR,1,FondantM,1,Muy Alta,71.88
-394,A,ReDVelvet Cake,18.0,15,1,MerFR,1,FondantM,0,Sin Tematica,59.88
-395,A,ReDVelvet Cake,18.0,15,1,MerFR,0,FondantM,1,Basica,58.88
-396,A,ReDVelvet Cake,18.0,15,1,MerFR,0,FondantM,1,Media,60.88
-397,A,ReDVelvet Cake,18.0,15,1,MerFR,0,FondantM,1,Alta,63.88
-398,A,ReDVelvet Cake,18.0,15,1,MerFR,0,FondantM,1,Muy Alta,67.88
-399,A,ReDVelvet Cake,18.0,15,1,MerFR,0,FondantM,0,Sin Tematica,55.88
-400,A,ReDVelvet Cake,18.0,15,1,MerNZ,1,FondantM,1,Basica,60.35
-401,A,ReDVelvet Cake,18.0,15,1,MerNZ,1,FondantM,1,Media,62.35
-402,A,ReDVelvet Cake,18.0,15,1,MerNZ,1,FondantM,1,Alta,65.35
-403,A,ReDVelvet Cake,18.0,15,1,MerNZ,1,FondantM,1,Muy Alta,69.35
-404,A,ReDVelvet Cake,18.0,15,1,MerNZ,1,FondantM,0,Sin Tematica,57.35
-405,A,ReDVelvet Cake,18.0,15,1,MerNZ,0,FondantM,1,Basica,56.35
-406,A,ReDVelvet Cake,18.0,15,1,MerNZ,0,FondantM,1,Media,58.35
-407,A,ReDVelvet Cake,18.0,15,1,MerNZ,0,FondantM,1,Alta,61.35
-408,A,ReDVelvet Cake,18.0,15,1,MerNZ,0,FondantM,1,Muy Alta,65.35
-409,A,ReDVelvet Cake,18.0,15,1,MerNZ,0,FondantM,0,Sin Tematica,53.35
-410,A,ReDVelvet Cake,18.0,15,1,DL,1,FondantM,1,Basica,59.9
-411,A,ReDVelvet Cake,18.0,15,1,DL,1,FondantM,1,Media,61.9
-412,A,ReDVelvet Cake,18.0,15,1,DL,1,FondantM,1,Alta,64.9
-413,A,ReDVelvet Cake,18.0,15,1,DL,1,FondantM,1,Muy Alta,68.9
-414,A,ReDVelvet Cake,18.0,15,1,DL,1,FondantM,0,Sin Tematica,56.9
-415,A,ReDVelvet Cake,18.0,15,1,DL,0,FondantM,1,Basica,55.9
-416,A,ReDVelvet Cake,18.0,15,1,DL,0,FondantM,1,Media,57.9
-417,A,ReDVelvet Cake,18.0,15,1,DL,0,FondantM,1,Alta,60.9
-418,A,ReDVelvet Cake,18.0,15,1,DL,0,FondantM,1,Muy Alta,64.9
-419,A,ReDVelvet Cake,18.0,15,1,DL,0,FondantM,0,Sin Tematica,52.9
-420,A,ReDVelvet Cake,18.0,15,1,MerM,1,FondantM,1,Basica,60.42
-421,A,ReDVelvet Cake,18.0,15,1,MerM,1,FondantM,1,Media,62.42
-422,A,ReDVelvet Cake,18.0,15,1,MerM,1,FondantM,1,Alta,65.42
-423,A,ReDVelvet Cake,18.0,15,1,MerM,1,FondantM,1,Muy Alta,69.42
-424,A,ReDVelvet Cake,18.0,15,1,MerM,1,FondantM,0,Sin Tematica,57.42
-425,A,ReDVelvet Cake,18.0,15,1,MerM,0,FondantM,1,Basica,56.42
-426,A,ReDVelvet Cake,18.0,15,1,MerM,0,FondantM,1,Media,58.42
-427,A,ReDVelvet Cake,18.0,15,1,MerM,0,FondantM,1,Alta,61.42
-428,A,ReDVelvet Cake,18.0,15,1,MerM,0,FondantM,1,Muy Alta,65.42
-429,A,ReDVelvet Cake,18.0,15,1,MerM,0,FondantM,0,Sin Tematica,53.42
-430,A,ReDVelvet Cake,18.0,15,1,LimC,1,FondantM,1,Basica,65.42
-431,A,ReDVelvet Cake,18.0,15,1,LimC,1,FondantM,1,Media,67.42
-432,A,ReDVelvet Cake,18.0,15,1,LimC,1,FondantM,1,Alta,70.42
-433,A,ReDVelvet Cake,18.0,15,1,LimC,1,FondantM,1,Muy Alta,74.42
-434,A,ReDVelvet Cake,18.0,15,1,LimC,1,FondantM,0,Sin Tematica,62.42
-435,A,ReDVelvet Cake,18.0,15,1,LimC,0,FondantM,1,Basica,61.42
-436,A,ReDVelvet Cake,18.0,15,1,LimC,0,FondantM,1,Media,63.42
-437,A,ReDVelvet Cake,18.0,15,1,LimC,0,FondantM,1,Alta,66.42
-438,A,ReDVelvet Cake,18.0,15,1,LimC,0,FondantM,1,Muy Alta,70.42
-439,A,ReDVelvet Cake,18.0,15,1,LimC,0,FondantM,0,Sin Tematica,58.42
-440,A,NPDCake,18.0,15,1,DL,1,FondantM,1,Basica,40.89
-441,A,NPDCake,18.0,15,1,DL,1,FondantM,1,Media,42.89
-442,A,NPDCake,18.0,15,1,DL,1,FondantM,1,Alta,45.89
-443,A,NPDCake,18.0,15,1,DL,1,FondantM,1,Muy Alta,49.89
-444,A,NPDCake,18.0,15,1,DL,1,FondantM,0,Sin Tematica,37.89
-445,A,NPDCake,18.0,15,1,DL,0,FondantM,1,Basica,36.89
-446,A,NPDCake,18.0,15,1,DL,0,FondantM,1,Media,38.89
-447,A,NPDCake,18.0,15,1,DL,0,FondantM,1,Alta,41.89
-448,A,NPDCake,18.0,15,1,DL,0,FondantM,1,Muy Alta,45.89
-449,A,NPDCake,18.0,15,1,DL,0,FondantM,0,Sin Tematica,33.89
-450,A,NPDCake,18.0,15,1,BC,1,FondantM,1,Basica,45.9
-451,A,NPDCake,18.0,15,1,BC,1,FondantM,1,Media,47.9
-452,A,NPDCake,18.0,15,1,BC,1,FondantM,1,Alta,50.9
-453,A,NPDCake,18.0,15,1,BC,1,FondantM,1,Muy Alta,54.9
-454,A,NPDCake,18.0,15,1,BC,1,FondantM,0,Sin Tematica,42.9
-455,A,NPDCake,18.0,15,1,BC,0,FondantM,1,Basica,41.9
-456,A,NPDCake,18.0,15,1,BC,0,FondantM,1,Media,43.9
-457,A,NPDCake,18.0,15,1,BC,0,FondantM,1,Alta,46.9
-458,A,NPDCake,18.0,15,1,BC,0,FondantM,1,Muy Alta,50.9
-459,A,NPDCake,18.0,15,1,BC,0,FondantM,0,Sin Tematica,38.9
-460,A,NSA Cake,18.0,15,1,BC,1,FondantM,1,Basica,63.15
-461,A,NSA Cake,18.0,15,1,BC,1,FondantM,1,Media,65.15
-462,A,NSA Cake,18.0,15,1,BC,1,FondantM,1,Alta,68.15
-463,A,NSA Cake,18.0,15,1,BC,1,FondantM,1,Muy Alta,72.15
-464,A,NSA Cake,18.0,15,1,BC,1,FondantM,0,Sin Tematica,60.15
-465,A,NSA Cake,18.0,15,1,BC,0,FondantM,1,Basica,59.15
-466,A,NSA Cake,18.0,15,1,BC,0,FondantM,1,Media,61.15
-467,A,NSA Cake,18.0,15,1,BC,0,FondantM,1,Alta,64.15
-468,A,NSA Cake,18.0,15,1,BC,0,FondantM,1,Muy Alta,68.15
-469,A,NSA Cake,18.0,15,1,BC,0,FondantM,0,Sin Tematica,56.15
-470,A,NSA Cake,18.0,15,1,GN,1,FondantM,1,Basica,50.09
-471,A,NSA Cake,18.0,15,1,GN,1,FondantM,1,Media,52.09
-472,A,NSA Cake,18.0,15,1,GN,1,FondantM,1,Alta,55.09
-473,A,NSA Cake,18.0,15,1,GN,1,FondantM,1,Muy Alta,59.09
-474,A,NSA Cake,18.0,15,1,GN,1,FondantM,0,Sin Tematica,47.09
-475,A,NSA Cake,18.0,15,1,GN,0,FondantM,1,Basica,46.09
-476,A,NSA Cake,18.0,15,1,GN,0,FondantM,1,Media,48.09
-477,A,NSA Cake,18.0,15,1,GN,0,FondantM,1,Alta,51.09
-478,A,NSA Cake,18.0,15,1,GN,0,FondantM,1,Muy Alta,55.09
-479,A,NSA Cake,18.0,15,1,GN,0,FondantM,0,Sin Tematica,43.09
-480,A,NSA Cake,18.0,15,1,GNL,1,FondantM,1,Basica,54.16
-481,A,NSA Cake,18.0,15,1,GNL,1,FondantM,1,Media,56.16
-482,A,NSA Cake,18.0,15,1,GNL,1,FondantM,1,Alta,59.16
-483,A,NSA Cake,18.0,15,1,GNL,1,FondantM,1,Muy Alta,63.16
-484,A,NSA Cake,18.0,15,1,GNL,1,FondantM,0,Sin Tematica,51.16
-485,A,NSA Cake,18.0,15,1,GNL,0,FondantM,1,Basica,50.16
-486,A,NSA Cake,18.0,15,1,GNL,0,FondantM,1,Media,52.16
-487,A,NSA Cake,18.0,15,1,GNL,0,FondantM,1,Alta,55.16
-488,A,NSA Cake,18.0,15,1,GNL,0,FondantM,1,Muy Alta,59.16
-489,A,NSA Cake,18.0,15,1,GNL,0,FondantM,0,Sin Tematica,47.16
-490,A,NSA Cake,18.0,15,1,MerNZ,1,FondantM,1,Basica,58.59
-491,A,NSA Cake,18.0,15,1,MerNZ,1,FondantM,1,Media,60.59
-492,A,NSA Cake,18.0,15,1,MerNZ,1,FondantM,1,Alta,63.59
-493,A,NSA Cake,18.0,15,1,MerNZ,1,FondantM,1,Muy Alta,67.59
-494,A,NSA Cake,18.0,15,1,MerNZ,1,FondantM,0,Sin Tematica,55.59
-495,A,NSA Cake,18.0,15,1,MerNZ,0,FondantM,1,Basica,54.59
-496,A,NSA Cake,18.0,15,1,MerNZ,0,FondantM,1,Media,56.59
-497,A,NSA Cake,18.0,15,1,MerNZ,0,FondantM,1,Alta,59.59
-498,A,NSA Cake,18.0,15,1,MerNZ,0,FondantM,1,Muy Alta,63.59
-499,A,NSA Cake,18.0,15,1,MerNZ,0,FondantM,0,Sin Tematica,51.59
-500,A,Carrot Cake,18.0,15,1,BC,1,FondantM,1,Basica,36.64
-501,A,Carrot Cake,18.0,15,1,BC,1,FondantM,1,Media,38.64
-502,A,Carrot Cake,18.0,15,1,BC,1,FondantM,1,Alta,41.64
-503,A,Carrot Cake,18.0,15,1,BC,1,FondantM,1,Muy Alta,45.64
-504,A,Carrot Cake,18.0,15,1,BC,1,FondantM,0,Sin Tematica,33.64
-505,A,Carrot Cake,18.0,15,1,BC,0,FondantM,1,Basica,32.64
-506,A,Carrot Cake,18.0,15,1,BC,0,FondantM,1,Media,34.64
-507,A,Carrot Cake,18.0,15,1,BC,0,FondantM,1,Alta,37.64
-508,A,Carrot Cake,18.0,15,1,BC,0,FondantM,1,Muy Alta,41.64
-509,A,Carrot Cake,18.0,15,1,BC,0,FondantM,0,Sin Tematica,29.64
-510,A,Coco Cake,18.0,15,1,GN,1,FondantM,1,Basica,34.01
-511,A,Coco Cake,18.0,15,1,GN,1,FondantM,1,Media,36.01
-512,A,Coco Cake,18.0,15,1,GN,1,FondantM,1,Alta,39.01
-513,A,Coco Cake,18.0,15,1,GN,1,FondantM,1,Muy Alta,43.01
-514,A,Coco Cake,18.0,15,1,GN,1,FondantM,0,Sin Tematica,31.01
-515,A,Coco Cake,18.0,15,1,GN,0,FondantM,1,Basica,30.01
-516,A,Coco Cake,18.0,15,1,GN,0,FondantM,1,Media,32.01
-517,A,Coco Cake,18.0,15,1,GN,0,FondantM,1,Alta,35.01
-518,A,Coco Cake,18.0,15,1,GN,0,FondantM,1,Muy Alta,39.01
-519,A,Coco Cake,18.0,15,1,GN,0,FondantM,0,Sin Tematica,27.01
-520,A,Coco Cake,18.0,15,1,GNL,1,FondantM,1,Basica,38.08
-521,A,Coco Cake,18.0,15,1,GNL,1,FondantM,1,Media,40.08
-522,A,Coco Cake,18.0,15,1,GNL,1,FondantM,1,Alta,43.08
-523,A,Coco Cake,18.0,15,1,GNL,1,FondantM,1,Muy Alta,47.08
-524,A,Coco Cake,18.0,15,1,GNL,1,FondantM,0,Sin Tematica,35.08
-525,A,Coco Cake,18.0,15,1,GNL,0,FondantM,1,Basica,34.08
-526,A,Coco Cake,18.0,15,1,GNL,0,FondantM,1,Media,36.08
-527,A,Coco Cake,18.0,15,1,GNL,0,FondantM,1,Alta,39.08
-528,A,Coco Cake,18.0,15,1,GNL,0,FondantM,1,Muy Alta,43.08
-529,A,Coco Cake,18.0,15,1,GNL,0,FondantM,0,Sin Tematica,31.08
-530,A,Coco Cake,18.0,15,1,DL,1,FondantM,1,Basica,42.05
-531,A,Coco Cake,18.0,15,1,DL,1,FondantM,1,Media,44.05
-532,A,Coco Cake,18.0,15,1,DL,1,FondantM,1,Alta,47.05
-533,A,Coco Cake,18.0,15,1,DL,1,FondantM,1,Muy Alta,51.05
-534,A,Coco Cake,18.0,15,1,DL,1,FondantM,0,Sin Tematica,39.05
-535,A,Coco Cake,18.0,15,1,DL,0,FondantM,1,Basica,38.05
-536,A,Coco Cake,18.0,15,1,DL,0,FondantM,1,Media,40.05
-537,A,Coco Cake,18.0,15,1,DL,0,FondantM,1,Alta,43.05
-538,A,Coco Cake,18.0,15,1,DL,0,FondantM,1,Muy Alta,47.05
-539,A,Coco Cake,18.0,15,1,DL,0,FondantM,0,Sin Tematica,35.05
-540,A,Limon Cake,18.0,15,1,LimC,1,FondantM,1,Basica,39.89
-541,A,Limon Cake,18.0,15,1,LimC,1,FondantM,1,Media,41.89
-542,A,Limon Cake,18.0,15,1,LimC,1,FondantM,1,Alta,44.89
-543,A,Limon Cake,18.0,15,1,LimC,1,FondantM,1,Muy Alta,48.89
-544,A,Limon Cake,18.0,15,1,LimC,1,FondantM,0,Sin Tematica,36.89
-545,A,Limon Cake,18.0,15,1,LimC,0,FondantM,1,Basica,35.89
-546,A,Limon Cake,18.0,15,1,LimC,0,FondantM,1,Media,37.89
-547,A,Limon Cake,18.0,15,1,LimC,0,FondantM,1,Alta,40.89
-548,A,Limon Cake,18.0,15,1,LimC,0,FondantM,1,Muy Alta,44.89
-549,A,Limon Cake,18.0,15,1,LimC,0,FondantM,0,Sin Tematica,32.89
-550,A,Victoria Cake,12.0,9,1,GN,1,FondantS,1,Basica,15.07
-551,A,Victoria Cake,12.0,9,1,GN,1,FondantS,1,Media,17.07
-552,A,Victoria Cake,12.0,9,1,GN,1,FondantS,1,Alta,20.07
-553,A,Victoria Cake,12.0,9,1,GN,1,FondantS,1,Muy Alta,24.07
-554,A,Victoria Cake,12.0,9,1,GN,1,FondantS,0,Sin Tematica,12.07
-555,A,Victoria Cake,12.0,9,1,GN,0,FondantS,1,Basica,12.67
-556,A,Victoria Cake,12.0,9,1,GN,0,FondantS,1,Media,14.67
-557,A,Victoria Cake,12.0,9,1,GN,0,FondantS,1,Alta,17.67
-558,A,Victoria Cake,12.0,9,1,GN,0,FondantS,1,Muy Alta,21.67
-559,A,Victoria Cake,12.0,9,1,GN,0,FondantS,0,Sin Tematica,9.67
-560,A,Victoria Cake,12.0,9,1,GNL,1,FondantS,1,Basica,17.1
-561,A,Victoria Cake,12.0,9,1,GNL,1,FondantS,1,Media,19.1
-562,A,Victoria Cake,12.0,9,1,GNL,1,FondantS,1,Alta,22.1
-563,A,Victoria Cake,12.0,9,1,GNL,1,FondantS,1,Muy Alta,26.1
-564,A,Victoria Cake,12.0,9,1,GNL,1,FondantS,0,Sin Tematica,14.1
-565,A,Victoria Cake,12.0,9,1,GNL,0,FondantS,1,Basica,14.7
-566,A,Victoria Cake,12.0,9,1,GNL,0,FondantS,1,Media,16.7
-567,A,Victoria Cake,12.0,9,1,GNL,0,FondantS,1,Alta,19.7
-568,A,Victoria Cake,12.0,9,1,GNL,0,FondantS,1,Muy Alta,23.7
-569,A,Victoria Cake,12.0,9,1,GNL,0,FondantS,0,Sin Tematica,11.7
-570,A,Victoria Cake,12.0,9,1,GB,1,FondantS,1,Basica,18.86
-571,A,Victoria Cake,12.0,9,1,GB,1,FondantS,1,Media,20.86
-572,A,Victoria Cake,12.0,9,1,GB,1,FondantS,1,Alta,23.86
-573,A,Victoria Cake,12.0,9,1,GB,1,FondantS,1,Muy Alta,27.86
-574,A,Victoria Cake,12.0,9,1,GB,1,FondantS,0,Sin Tematica,15.86
-575,A,Victoria Cake,12.0,9,1,GB,0,FondantS,1,Basica,16.46
-576,A,Victoria Cake,12.0,9,1,GB,0,FondantS,1,Media,18.46
-577,A,Victoria Cake,12.0,9,1,GB,0,FondantS,1,Alta,21.46
-578,A,Victoria Cake,12.0,9,1,GB,0,FondantS,1,Muy Alta,25.46
-579,A,Victoria Cake,12.0,9,1,GB,0,FondantS,0,Sin Tematica,13.46
-580,A,Victoria Cake,12.0,9,1,BC,1,FondantS,1,Basica,21.59
-581,A,Victoria Cake,12.0,9,1,BC,1,FondantS,1,Media,23.59
-582,A,Victoria Cake,12.0,9,1,BC,1,FondantS,1,Alta,26.59
-583,A,Victoria Cake,12.0,9,1,BC,1,FondantS,1,Muy Alta,30.59
-584,A,Victoria Cake,12.0,9,1,BC,1,FondantS,0,Sin Tematica,18.59
-585,A,Victoria Cake,12.0,9,1,BC,0,FondantS,1,Basica,19.19
-586,A,Victoria Cake,12.0,9,1,BC,0,FondantS,1,Media,21.19
-587,A,Victoria Cake,12.0,9,1,BC,0,FondantS,1,Alta,24.19
-588,A,Victoria Cake,12.0,9,1,BC,0,FondantS,1,Muy Alta,28.19
-589,A,Victoria Cake,12.0,9,1,BC,0,FondantS,0,Sin Tematica,16.19
-590,A,Victoria Cake,12.0,9,1,BCO,1,FondantS,1,Basica,23.07
-591,A,Victoria Cake,12.0,9,1,BCO,1,FondantS,1,Media,25.07
-592,A,Victoria Cake,12.0,9,1,BCO,1,FondantS,1,Alta,28.07
-593,A,Victoria Cake,12.0,9,1,BCO,1,FondantS,1,Muy Alta,32.07
-594,A,Victoria Cake,12.0,9,1,BCO,1,FondantS,0,Sin Tematica,20.07
-595,A,Victoria Cake,12.0,9,1,BCO,0,FondantS,1,Basica,20.67
-596,A,Victoria Cake,12.0,9,1,BCO,0,FondantS,1,Media,22.67
-597,A,Victoria Cake,12.0,9,1,BCO,0,FondantS,1,Alta,25.67
-598,A,Victoria Cake,12.0,9,1,BCO,0,FondantS,1,Muy Alta,29.67
-599,A,Victoria Cake,12.0,9,1,BCO,0,FondantS,0,Sin Tematica,17.67
-600,A,Victoria Cake,12.0,9,1,MerF,1,FondantS,1,Basica,25.1
-601,A,Victoria Cake,12.0,9,1,MerF,1,FondantS,1,Media,27.1
-602,A,Victoria Cake,12.0,9,1,MerF,1,FondantS,1,Alta,30.1
-603,A,Victoria Cake,12.0,9,1,MerF,1,FondantS,1,Muy Alta,34.1
-604,A,Victoria Cake,12.0,9,1,MerF,1,FondantS,0,Sin Tematica,22.1
-605,A,Victoria Cake,12.0,9,1,MerF,0,FondantS,1,Basica,22.7
-606,A,Victoria Cake,12.0,9,1,MerF,0,FondantS,1,Media,24.7
-607,A,Victoria Cake,12.0,9,1,MerF,0,FondantS,1,Alta,27.7
-608,A,Victoria Cake,12.0,9,1,MerF,0,FondantS,1,Muy Alta,31.7
-609,A,Victoria Cake,12.0,9,1,MerF,0,FondantS,0,Sin Tematica,19.7
-610,A,Victoria Cake,12.0,9,1,MerFR,1,FondantS,1,Basica,25.1
-611,A,Victoria Cake,12.0,9,1,MerFR,1,FondantS,1,Media,27.1
-612,A,Victoria Cake,12.0,9,1,MerFR,1,FondantS,1,Alta,30.1
-613,A,Victoria Cake,12.0,9,1,MerFR,1,FondantS,1,Muy Alta,34.1
-614,A,Victoria Cake,12.0,9,1,MerFR,1,FondantS,0,Sin Tematica,22.1
-615,A,Victoria Cake,12.0,9,1,MerFR,0,FondantS,1,Basica,22.7
-616,A,Victoria Cake,12.0,9,1,MerFR,0,FondantS,1,Media,24.7
-617,A,Victoria Cake,12.0,9,1,MerFR,0,FondantS,1,Alta,27.7
-618,A,Victoria Cake,12.0,9,1,MerFR,0,FondantS,1,Muy Alta,31.7
-619,A,Victoria Cake,12.0,9,1,MerFR,0,FondantS,0,Sin Tematica,19.7
-620,A,Victoria Cake,12.0,9,1,MerNZ,1,FondantS,1,Basica,23.83
-621,A,Victoria Cake,12.0,9,1,MerNZ,1,FondantS,1,Media,25.83
-622,A,Victoria Cake,12.0,9,1,MerNZ,1,FondantS,1,Alta,28.83
-623,A,Victoria Cake,12.0,9,1,MerNZ,1,FondantS,1,Muy Alta,32.83
-624,A,Victoria Cake,12.0,9,1,MerNZ,1,FondantS,0,Sin Tematica,20.83
-625,A,Victoria Cake,12.0,9,1,MerNZ,0,FondantS,1,Basica,21.43
-626,A,Victoria Cake,12.0,9,1,MerNZ,0,FondantS,1,Media,23.43
-627,A,Victoria Cake,12.0,9,1,MerNZ,0,FondantS,1,Alta,26.43
-628,A,Victoria Cake,12.0,9,1,MerNZ,0,FondantS,1,Muy Alta,30.43
-629,A,Victoria Cake,12.0,9,1,MerNZ,0,FondantS,0,Sin Tematica,18.43
-630,A,Victoria Cake,12.0,9,1,DL,1,FondantS,1,Basica,23.61
-631,A,Victoria Cake,12.0,9,1,DL,1,FondantS,1,Media,25.61
-632,A,Victoria Cake,12.0,9,1,DL,1,FondantS,1,Alta,28.61
-633,A,Victoria Cake,12.0,9,1,DL,1,FondantS,1,Muy Alta,32.61
-634,A,Victoria Cake,12.0,9,1,DL,1,FondantS,0,Sin Tematica,20.61
-635,A,Victoria Cake,12.0,9,1,DL,0,FondantS,1,Basica,21.21
-636,A,Victoria Cake,12.0,9,1,DL,0,FondantS,1,Media,23.21
-637,A,Victoria Cake,12.0,9,1,DL,0,FondantS,1,Alta,26.21
-638,A,Victoria Cake,12.0,9,1,DL,0,FondantS,1,Muy Alta,30.21
-639,A,Victoria Cake,12.0,9,1,DL,0,FondantS,0,Sin Tematica,18.21
-640,A,Victoria Cake,12.0,9,1,MerM,1,FondantS,1,Basica,23.87
-641,A,Victoria Cake,12.0,9,1,MerM,1,FondantS,1,Media,25.87
-642,A,Victoria Cake,12.0,9,1,MerM,1,FondantS,1,Alta,28.87
-643,A,Victoria Cake,12.0,9,1,MerM,1,FondantS,1,Muy Alta,32.87
-644,A,Victoria Cake,12.0,9,1,MerM,1,FondantS,0,Sin Tematica,20.87
-645,A,Victoria Cake,12.0,9,1,MerM,0,FondantS,1,Basica,21.47
-646,A,Victoria Cake,12.0,9,1,MerM,0,FondantS,1,Media,23.47
-647,A,Victoria Cake,12.0,9,1,MerM,0,FondantS,1,Alta,26.47
-648,A,Victoria Cake,12.0,9,1,MerM,0,FondantS,1,Muy Alta,30.47
-649,A,Victoria Cake,12.0,9,1,MerM,0,FondantS,0,Sin Tematica,18.47
-650,A,Victoria Cake,12.0,9,1,LimC,1,FondantS,1,Basica,26.37
-651,A,Victoria Cake,12.0,9,1,LimC,1,FondantS,1,Media,28.37
-652,A,Victoria Cake,12.0,9,1,LimC,1,FondantS,1,Alta,31.37
-653,A,Victoria Cake,12.0,9,1,LimC,1,FondantS,1,Muy Alta,35.37
-654,A,Victoria Cake,12.0,9,1,LimC,1,FondantS,0,Sin Tematica,23.37
-655,A,Victoria Cake,12.0,9,1,LimC,0,FondantS,1,Basica,23.97
-656,A,Victoria Cake,12.0,9,1,LimC,0,FondantS,1,Media,25.97
-657,A,Victoria Cake,12.0,9,1,LimC,0,FondantS,1,Alta,28.97
-658,A,Victoria Cake,12.0,9,1,LimC,0,FondantS,1,Muy Alta,32.97
-659,A,Victoria Cake,12.0,9,1,LimC,0,FondantS,0,Sin Tematica,20.97
-660,A,Victoria Cake,25.0,30,1,GN,1,FondantL,1,Basica,47.66
-661,A,Victoria Cake,25.0,30,1,GN,1,FondantL,1,Media,49.66
-662,A,Victoria Cake,25.0,30,1,GN,1,FondantL,1,Alta,52.66
-663,A,Victoria Cake,25.0,30,1,GN,1,FondantL,1,Muy Alta,56.66
-664,A,Victoria Cake,25.0,30,1,GN,1,FondantL,0,Sin Tematica,44.66
-665,A,Victoria Cake,25.0,30,1,GN,0,FondantL,1,Basica,41.66
-666,A,Victoria Cake,25.0,30,1,GN,0,FondantL,1,Media,43.66
-667,A,Victoria Cake,25.0,30,1,GN,0,FondantL,1,Alta,46.66
-668,A,Victoria Cake,25.0,30,1,GN,0,FondantL,1,Muy Alta,50.66
-669,A,Victoria Cake,25.0,30,1,GN,0,FondantL,0,Sin Tematica,38.66
-670,A,Victoria Cake,25.0,30,1,GNL,1,FondantL,1,Basica,55.8
-671,A,Victoria Cake,25.0,30,1,GNL,1,FondantL,1,Media,57.8
-672,A,Victoria Cake,25.0,30,1,GNL,1,FondantL,1,Alta,60.8
-673,A,Victoria Cake,25.0,30,1,GNL,1,FondantL,1,Muy Alta,64.8
-674,A,Victoria Cake,25.0,30,1,GNL,1,FondantL,0,Sin Tematica,52.8
-675,A,Victoria Cake,25.0,30,1,GNL,0,FondantL,1,Basica,49.8
-676,A,Victoria Cake,25.0,30,1,GNL,0,FondantL,1,Media,51.8
-677,A,Victoria Cake,25.0,30,1,GNL,0,FondantL,1,Alta,54.8
-678,A,Victoria Cake,25.0,30,1,GNL,0,FondantL,1,Muy Alta,58.8
-679,A,Victoria Cake,25.0,30,1,GNL,0,FondantL,0,Sin Tematica,46.8
-680,A,Victoria Cake,25.0,30,1,GB,1,FondantL,1,Basica,62.86
-681,A,Victoria Cake,25.0,30,1,GB,1,FondantL,1,Media,64.86
-682,A,Victoria Cake,25.0,30,1,GB,1,FondantL,1,Alta,67.86
-683,A,Victoria Cake,25.0,30,1,GB,1,FondantL,1,Muy Alta,71.86
-684,A,Victoria Cake,25.0,30,1,GB,1,FondantL,0,Sin Tematica,59.86
-685,A,Victoria Cake,25.0,30,1,GB,0,FondantL,1,Basica,56.86
-686,A,Victoria Cake,25.0,30,1,GB,0,FondantL,1,Media,58.86
-687,A,Victoria Cake,25.0,30,1,GB,0,FondantL,1,Alta,61.86
-688,A,Victoria Cake,25.0,30,1,GB,0,FondantL,1,Muy Alta,65.86
-689,A,Victoria Cake,25.0,30,1,GB,0,FondantL,0,Sin Tematica,53.86
-690,A,Victoria Cake,25.0,30,1,BC,1,FondantL,1,Basica,73.77
-691,A,Victoria Cake,25.0,30,1,BC,1,FondantL,1,Media,75.77
-692,A,Victoria Cake,25.0,30,1,BC,1,FondantL,1,Alta,78.77
-693,A,Victoria Cake,25.0,30,1,BC,1,FondantL,1,Muy Alta,82.77
-694,A,Victoria Cake,25.0,30,1,BC,1,FondantL,0,Sin Tematica,70.77
-695,A,Victoria Cake,25.0,30,1,BC,0,FondantL,1,Basica,67.77
-696,A,Victoria Cake,25.0,30,1,BC,0,FondantL,1,Media,69.77
-697,A,Victoria Cake,25.0,30,1,BC,0,FondantL,1,Alta,72.77
-698,A,Victoria Cake,25.0,30,1,BC,0,FondantL,1,Muy Alta,76.77
-699,A,Victoria Cake,25.0,30,1,BC,0,FondantL,0,Sin Tematica,64.77
-700,A,Victoria Cake,25.0,30,1,BCO,1,FondantL,1,Basica,79.68
-701,A,Victoria Cake,25.0,30,1,BCO,1,FondantL,1,Media,81.68
-702,A,Victoria Cake,25.0,30,1,BCO,1,FondantL,1,Alta,84.68
-703,A,Victoria Cake,25.0,30,1,BCO,1,FondantL,1,Muy Alta,88.68
-704,A,Victoria Cake,25.0,30,1,BCO,1,FondantL,0,Sin Tematica,76.68
-705,A,Victoria Cake,25.0,30,1,BCO,0,FondantL,1,Basica,73.68
-706,A,Victoria Cake,25.0,30,1,BCO,0,FondantL,1,Media,75.68
-707,A,Victoria Cake,25.0,30,1,BCO,0,FondantL,1,Alta,78.68
-708,A,Victoria Cake,25.0,30,1,BCO,0,FondantL,1,Muy Alta,82.68
-709,A,Victoria Cake,25.0,30,1,BCO,0,FondantL,0,Sin Tematica,70.68
-710,A,Victoria Cake,25.0,30,1,MerF,1,FondantL,1,Basica,60.66
-711,A,Victoria Cake,25.0,30,1,MerF,1,FondantL,1,Media,62.66
-712,A,Victoria Cake,25.0,30,1,MerF,1,FondantL,1,Alta,65.66
-713,A,Victoria Cake,25.0,30,1,MerF,1,FondantL,1,Muy Alta,69.66
-714,A,Victoria Cake,25.0,30,1,MerF,1,FondantL,0,Sin Tematica,57.66
-715,A,Victoria Cake,25.0,30,1,MerF,0,FondantL,1,Basica,54.66
-716,A,Victoria Cake,25.0,30,1,MerF,0,FondantL,1,Media,56.66
-717,A,Victoria Cake,25.0,30,1,MerF,0,FondantL,1,Alta,59.66
-718,A,Victoria Cake,25.0,30,1,MerF,0,FondantL,1,Muy Alta,63.66
-719,A,Victoria Cake,25.0,30,1,MerF,0,FondantL,0,Sin Tematica,51.66
-720,A,Victoria Cake,25.0,30,1,MerFR,1,FondantL,1,Basica,60.66
-721,A,Victoria Cake,25.0,30,1,MerFR,1,FondantL,1,Media,62.66
-722,A,Victoria Cake,25.0,30,1,MerFR,1,FondantL,1,Alta,65.66
-723,A,Victoria Cake,25.0,30,1,MerFR,1,FondantL,1,Muy Alta,69.66
-724,A,Victoria Cake,25.0,30,1,MerFR,1,FondantL,0,Sin Tematica,57.66
-725,A,Victoria Cake,25.0,30,1,MerFR,0,FondantL,1,Basica,54.66
-726,A,Victoria Cake,25.0,30,1,MerFR,0,FondantL,1,Media,56.66
-727,A,Victoria Cake,25.0,30,1,MerFR,0,FondantL,1,Alta,59.66
-728,A,Victoria Cake,25.0,30,1,MerFR,0,FondantL,1,Muy Alta,63.66
-729,A,Victoria Cake,25.0,30,1,MerFR,0,FondantL,0,Sin Tematica,51.66
-730,A,Victoria Cake,25.0,30,1,MerNZ,1,FondantL,1,Basica,55.61
-731,A,Victoria Cake,25.0,30,1,MerNZ,1,FondantL,1,Media,57.61
-732,A,Victoria Cake,25.0,30,1,MerNZ,1,FondantL,1,Alta,60.61
-733,A,Victoria Cake,25.0,30,1,MerNZ,1,FondantL,1,Muy Alta,64.61
-734,A,Victoria Cake,25.0,30,1,MerNZ,1,FondantL,0,Sin Tematica,52.61
-735,A,Victoria Cake,25.0,30,1,MerNZ,0,FondantL,1,Basica,49.61
-736,A,Victoria Cake,25.0,30,1,MerNZ,0,FondantL,1,Media,51.61
-737,A,Victoria Cake,25.0,30,1,MerNZ,0,FondantL,1,Alta,54.61
-738,A,Victoria Cake,25.0,30,1,MerNZ,0,FondantL,1,Muy Alta,58.61
-739,A,Victoria Cake,25.0,30,1,MerNZ,0,FondantL,0,Sin Tematica,46.61
-740,A,Victoria Cake,25.0,30,1,DL,1,FondantL,1,Basica,54.71
-741,A,Victoria Cake,25.0,30,1,DL,1,FondantL,1,Media,56.71
-742,A,Victoria Cake,25.0,30,1,DL,1,FondantL,1,Alta,59.71
-743,A,Victoria Cake,25.0,30,1,DL,1,FondantL,1,Muy Alta,63.71
-744,A,Victoria Cake,25.0,30,1,DL,1,FondantL,0,Sin Tematica,51.71
-745,A,Victoria Cake,25.0,30,1,DL,0,FondantL,1,Basica,48.71
-746,A,Victoria Cake,25.0,30,1,DL,0,FondantL,1,Media,50.71
-747,A,Victoria Cake,25.0,30,1,DL,0,FondantL,1,Alta,53.71
-748,A,Victoria Cake,25.0,30,1,DL,0,FondantL,1,Muy Alta,57.71
-749,A,Victoria Cake,25.0,30,1,DL,0,FondantL,0,Sin Tematica,45.71
-750,A,Victoria Cake,25.0,30,1,MerM,1,FondantL,1,Basica,55.74
-751,A,Victoria Cake,25.0,30,1,MerM,1,FondantL,1,Media,57.74
-752,A,Victoria Cake,25.0,30,1,MerM,1,FondantL,1,Alta,60.74
-753,A,Victoria Cake,25.0,30,1,MerM,1,FondantL,1,Muy Alta,64.74
-754,A,Victoria Cake,25.0,30,1,MerM,1,FondantL,0,Sin Tematica,52.74
-755,A,Victoria Cake,25.0,30,1,MerM,0,FondantL,1,Basica,49.74
-756,A,Victoria Cake,25.0,30,1,MerM,0,FondantL,1,Media,51.74
-757,A,Victoria Cake,25.0,30,1,MerM,0,FondantL,1,Alta,62.74
-758,A,Victoria Cake,25.0,30,1,MerM,0,FondantL,1,Muy Alta,58.74
-759,A,Victoria Cake,25.0,30,1,MerM,0,FondantL,0,Sin Tematica,46.74
-760,A,Victoria Cake,25.0,30,1,LimC,1,FondantL,1,Basica,65.75
-761,A,Victoria Cake,25.0,30,1,LimC,1,FondantL,1,Media,67.75
-762,A,Victoria Cake,25.0,30,1,LimC,1,FondantL,1,Alta,70.75
-763,A,Victoria Cake,25.0,30,1,LimC,1,FondantL,1,Muy Alta,74.75
-764,A,Victoria Cake,25.0,30,1,LimC,1,FondantL,0,Sin Tematica,62.75
-765,A,Victoria Cake,25.0,30,1,LimC,0,FondantL,1,Basica,59.75
-766,A,Victoria Cake,25.0,30,1,LimC,0,FondantL,1,Media,61.75
-767,A,Victoria Cake,25.0,30,1,LimC,0,FondantL,1,Alta,64.75
-768,A,Victoria Cake,25.0,30,1,LimC,0,FondantL,1,Muy Alta,68.75
-769,A,Victoria Cake,25.0,30,1,LimC,0,FondantL,0,Sin Tematica,56.75
-770,A,Chocolat Cake,12.0,9,1,GN,1,FondantS,1,Basica,15.54
-771,A,Chocolat Cake,12.0,9,1,GN,1,FondantS,1,Media,17.54
-772,A,Chocolat Cake,12.0,9,1,GN,1,FondantS,1,Alta,20.54
-773,A,Chocolat Cake,12.0,9,1,GN,1,FondantS,1,Muy Alta,24.54
-774,A,Chocolat Cake,12.0,9,1,GN,1,FondantS,0,Sin Tematica,12.54
-775,A,Chocolat Cake,12.0,9,1,GN,0,FondantS,1,Basica,13.14
-776,A,Chocolat Cake,12.0,9,1,GN,0,FondantS,1,Media,15.14
-777,A,Chocolat Cake,12.0,9,1,GN,0,FondantS,1,Alta,18.14
-778,A,Chocolat Cake,12.0,9,1,GN,0,FondantS,1,Muy Alta,22.14
-779,A,Chocolat Cake,12.0,9,1,GN,0,FondantS,0,Sin Tematica,10.14
-780,A,Chocolat Cake,12.0,9,1,GNL,1,FondantS,1,Basica,17.57
-781,A,Chocolat Cake,12.0,9,1,GNL,1,FondantS,1,Media,19.57
-782,A,Chocolat Cake,12.0,9,1,GNL,1,FondantS,1,Alta,22.57
-783,A,Chocolat Cake,12.0,9,1,GNL,1,FondantS,1,Muy Alta,26.57
-784,A,Chocolat Cake,12.0,9,1,GNL,1,FondantS,0,Sin Tematica,14.57
-785,A,Chocolat Cake,12.0,9,1,GNL,0,FondantS,1,Basica,15.17
-786,A,Chocolat Cake,12.0,9,1,GNL,0,FondantS,1,Media,17.17
-787,A,Chocolat Cake,12.0,9,1,GNL,0,FondantS,1,Alta,20.17
-788,A,Chocolat Cake,12.0,9,1,GNL,0,FondantS,1,Muy Alta,24.17
-789,A,Chocolat Cake,12.0,9,1,GNL,0,FondantS,0,Sin Tematica,12.17
-790,A,Chocolat Cake,12.0,9,1,GB,1,FondantS,1,Basica,19.34
-791,A,Chocolat Cake,12.0,9,1,GB,1,FondantS,1,Media,21.34
-792,A,Chocolat Cake,12.0,9,1,GB,1,FondantS,1,Alta,24.34
-793,A,Chocolat Cake,12.0,9,1,GB,1,FondantS,1,Muy Alta,28.34
-794,A,Chocolat Cake,12.0,9,1,GB,1,FondantS,0,Sin Tematica,16.34
-795,A,Chocolat Cake,12.0,9,1,GB,0,FondantS,1,Basica,16.94
-796,A,Chocolat Cake,12.0,9,1,GB,0,FondantS,1,Media,18.94
-797,A,Chocolat Cake,12.0,9,1,GB,0,FondantS,1,Alta,21.94
-798,A,Chocolat Cake,12.0,9,1,GB,0,FondantS,1,Muy Alta,25.94
-799,A,Chocolat Cake,12.0,9,1,GB,0,FondantS,0,Sin Tematica,13.94
-800,A,Chocolat Cake,12.0,9,1,BC,1,FondantS,1,Basica,22.06
-801,A,Chocolat Cake,12.0,9,1,BC,1,FondantS,1,Media,24.06
-802,A,Chocolat Cake,12.0,9,1,BC,1,FondantS,1,Alta,27.06
-803,A,Chocolat Cake,12.0,9,1,BC,1,FondantS,1,Muy Alta,31.06
-804,A,Chocolat Cake,12.0,9,1,BC,1,FondantS,0,Sin Tematica,19.06
-805,A,Chocolat Cake,12.0,9,1,BC,0,FondantS,1,Basica,19.66
-806,A,Chocolat Cake,12.0,9,1,BC,0,FondantS,1,Media,21.66
-807,A,Chocolat Cake,12.0,9,1,BC,0,FondantS,1,Alta,24.66
-808,A,Chocolat Cake,12.0,9,1,BC,0,FondantS,1,Muy Alta,28.66
-809,A,Chocolat Cake,12.0,9,1,BC,0,FondantS,0,Sin Tematica,16.66
-810,A,Chocolat Cake,12.0,9,1,BCO,1,FondantS,1,Basica,23.54
-811,A,Chocolat Cake,12.0,9,1,BCO,1,FondantS,1,Media,25.54
-812,A,Chocolat Cake,12.0,9,1,BCO,1,FondantS,1,Alta,28.54
-813,A,Chocolat Cake,12.0,9,1,BCO,1,FondantS,1,Muy Alta,32.54
-814,A,Chocolat Cake,12.0,9,1,BCO,1,FondantS,0,Sin Tematica,20.54
-815,A,Chocolat Cake,12.0,9,1,BCO,0,FondantS,1,Basica,21.14
-816,A,Chocolat Cake,12.0,9,1,BCO,0,FondantS,1,Media,23.14
-817,A,Chocolat Cake,12.0,9,1,BCO,0,FondantS,1,Alta,26.14
-818,A,Chocolat Cake,12.0,9,1,BCO,0,FondantS,1,Muy Alta,30.14
-819,A,Chocolat Cake,12.0,9,1,BCO,0,FondantS,0,Sin Tematica,18.14
-820,A,Chocolat Cake,12.0,9,1,MerF,1,FondantS,1,Basica,25.57
-821,A,Chocolat Cake,12.0,9,1,MerF,1,FondantS,1,Media,27.57
-822,A,Chocolat Cake,12.0,9,1,MerF,1,FondantS,1,Alta,30.57
-823,A,Chocolat Cake,12.0,9,1,MerF,1,FondantS,1,Muy Alta,34.57
-824,A,Chocolat Cake,12.0,9,1,MerF,1,FondantS,0,Sin Tematica,22.57
-825,A,Chocolat Cake,12.0,9,1,MerF,0,FondantS,1,Basica,23.17
-826,A,Chocolat Cake,12.0,9,1,MerF,0,FondantS,1,Media,25.17
-827,A,Chocolat Cake,12.0,9,1,MerF,0,FondantS,1,Alta,28.17
-828,A,Chocolat Cake,12.0,9,1,MerF,0,FondantS,1,Muy Alta,32.17
-829,A,Chocolat Cake,12.0,9,1,MerF,0,FondantS,0,Sin Tematica,20.17
-830,A,Chocolat Cake,12.0,9,1,MerFR,1,FondantS,1,Basica,25.57
-831,A,Chocolat Cake,12.0,9,1,MerFR,1,FondantS,1,Media,27.57
-832,A,Chocolat Cake,12.0,9,1,MerFR,1,FondantS,1,Alta,30.57
-833,A,Chocolat Cake,12.0,9,1,MerFR,1,FondantS,1,Muy Alta,34.57
-834,A,Chocolat Cake,12.0,9,1,MerFR,1,FondantS,0,Sin Tematica,22.57
-835,A,Chocolat Cake,12.0,9,1,MerFR,0,FondantS,1,Basica,23.17
-836,A,Chocolat Cake,12.0,9,1,MerFR,0,FondantS,1,Media,25.17
-837,A,Chocolat Cake,12.0,9,1,MerFR,0,FondantS,1,Alta,28.17
-838,A,Chocolat Cake,12.0,9,1,MerFR,0,FondantS,1,Muy Alta,32.17
-839,A,Chocolat Cake,12.0,9,1,MerFR,0,FondantS,0,Sin Tematica,20.17
-840,A,Chocolat Cake,12.0,9,1,MerNZ,1,FondantS,1,Basica,24.3
-841,A,Chocolat Cake,12.0,9,1,MerNZ,1,FondantS,1,Media,26.3
-842,A,Chocolat Cake,12.0,9,1,MerNZ,1,FondantS,1,Alta,29.3
-843,A,Chocolat Cake,12.0,9,1,MerNZ,1,FondantS,1,Muy Alta,33.3
-844,A,Chocolat Cake,12.0,9,1,MerNZ,1,FondantS,0,Sin Tematica,21.3
-845,A,Chocolat Cake,12.0,9,1,MerNZ,0,FondantS,1,Basica,21.9
-846,A,Chocolat Cake,12.0,9,1,MerNZ,0,FondantS,1,Media,23.9
-847,A,Chocolat Cake,12.0,9,1,MerNZ,0,FondantS,1,Alta,26.9
-848,A,Chocolat Cake,12.0,9,1,MerNZ,0,FondantS,1,Muy Alta,30.9
-849,A,Chocolat Cake,12.0,9,1,MerNZ,0,FondantS,0,Sin Tematica,18.9
-850,A,Chocolat Cake,12.0,9,1,DL,1,FondantS,1,Basica,24.08
-851,A,Chocolat Cake,12.0,9,1,DL,1,FondantS,1,Media,26.08
-852,A,Chocolat Cake,12.0,9,1,DL,1,FondantS,1,Alta,29.08
-853,A,Chocolat Cake,12.0,9,1,DL,1,FondantS,1,Muy Alta,33.08
-854,A,Chocolat Cake,12.0,9,1,DL,1,FondantS,0,Sin Tematica,21.08
-855,A,Chocolat Cake,12.0,9,1,DL,0,FondantS,1,Basica,21.68
-856,A,Chocolat Cake,12.0,9,1,DL,0,FondantS,1,Media,23.68
-857,A,Chocolat Cake,12.0,9,1,DL,0,FondantS,1,Alta,26.68
-858,A,Chocolat Cake,12.0,9,1,DL,0,FondantS,1,Muy Alta,30.68
-859,A,Chocolat Cake,12.0,9,1,DL,0,FondantS,0,Sin Tematica,18.68
-860,A,Chocolat Cake,12.0,9,1,MerM,1,FondantS,1,Basica,24.34
-861,A,Chocolat Cake,12.0,9,1,MerM,1,FondantS,1,Media,26.34
-862,A,Chocolat Cake,12.0,9,1,MerM,1,FondantS,1,Alta,29.34
-863,A,Chocolat Cake,12.0,9,1,MerM,1,FondantS,1,Muy Alta,33.34
-864,A,Chocolat Cake,12.0,9,1,MerM,1,FondantS,0,Sin Tematica,21.34
-865,A,Chocolat Cake,12.0,9,1,MerM,0,FondantS,1,Basica,21.94
-866,A,Chocolat Cake,12.0,9,1,MerM,0,FondantS,1,Media,23.94
-867,A,Chocolat Cake,12.0,9,1,MerM,0,FondantS,1,Alta,26.94
-868,A,Chocolat Cake,12.0,9,1,MerM,0,FondantS,1,Muy Alta,30.94
-869,A,Chocolat Cake,12.0,9,1,MerM,0,FondantS,0,Sin Tematica,18.94
-870,A,Chocolat Cake,12.0,9,1,LimC,1,FondantS,1,Basica,26.84
-871,A,Chocolat Cake,12.0,9,1,LimC,1,FondantS,1,Media,28.84
-872,A,Chocolat Cake,12.0,9,1,LimC,1,FondantS,1,Alta,31.84
-873,A,Chocolat Cake,12.0,9,1,LimC,1,FondantS,1,Muy Alta,35.84
-874,A,Chocolat Cake,12.0,9,1,LimC,1,FondantS,0,Sin Tematica,23.84
-875,A,Chocolat Cake,12.0,9,1,LimC,0,FondantS,1,Basica,24.44
-876,A,Chocolat Cake,12.0,9,1,LimC,0,FondantS,1,Media,26.44
-877,A,Chocolat Cake,12.0,9,1,LimC,0,FondantS,1,Alta,29.44
-878,A,Chocolat Cake,12.0,9,1,LimC,0,FondantS,1,Muy Alta,33.44
-879,A,Chocolat Cake,12.0,9,1,LimC,0,FondantS,0,Sin Tematica,21.44
-880,A,Chocolat Cake,25.0,30,1,GN,1,FondantL,1,Basica,49.55
-881,A,Chocolat Cake,25.0,30,1,GN,1,FondantL,1,Media,51.55
-882,A,Chocolat Cake,25.0,30,1,GN,1,FondantL,1,Alta,54.55
-883,A,Chocolat Cake,25.0,30,1,GN,1,FondantL,1,Muy Alta,58.55
-884,A,Chocolat Cake,25.0,30,1,GN,1,FondantL,0,Sin Tematica,46.55
-885,A,Chocolat Cake,25.0,30,1,GN,0,FondantL,1,Basica,43.55
-886,A,Chocolat Cake,25.0,30,1,GN,0,FondantL,1,Media,45.55
-887,A,Chocolat Cake,25.0,30,1,GN,0,FondantL,1,Alta,48.55
-888,A,Chocolat Cake,25.0,30,1,GN,0,FondantL,1,Muy Alta,52.55
-889,A,Chocolat Cake,25.0,30,1,GN,0,FondantL,0,Sin Tematica,40.55
-890,A,Chocolat Cake,25.0,30,1,GNL,1,FondantL,1,Basica,57.69
-891,A,Chocolat Cake,25.0,30,1,GNL,1,FondantL,1,Media,59.69
-892,A,Chocolat Cake,25.0,30,1,GNL,1,FondantL,1,Alta,62.69
-893,A,Chocolat Cake,25.0,30,1,GNL,1,FondantL,1,Muy Alta,66.69
-894,A,Chocolat Cake,25.0,30,1,GNL,1,FondantL,0,Sin Tematica,54.69
-895,A,Chocolat Cake,25.0,30,1,GNL,0,FondantL,1,Basica,51.69
-896,A,Chocolat Cake,25.0,30,1,GNL,0,FondantL,1,Media,53.69
-897,A,Chocolat Cake,25.0,30,1,GNL,0,FondantL,1,Alta,56.69
-898,A,Chocolat Cake,25.0,30,1,GNL,0,FondantL,1,Muy Alta,60.69
-899,A,Chocolat Cake,25.0,30,1,GNL,0,FondantL,0,Sin Tematica,48.69
-900,A,Chocolat Cake,25.0,30,1,GB,1,FondantL,1,Basica,64.74
-901,A,Chocolat Cake,25.0,30,1,GB,1,FondantL,1,Media,66.74
-902,A,Chocolat Cake,25.0,30,1,GB,1,FondantL,1,Alta,69.74
-903,A,Chocolat Cake,25.0,30,1,GB,1,FondantL,1,Muy Alta,73.74
-904,A,Chocolat Cake,25.0,30,1,GB,1,FondantL,0,Sin Tematica,61.74
-905,A,Chocolat Cake,25.0,30,1,GB,0,FondantL,1,Basica,58.74
-906,A,Chocolat Cake,25.0,30,1,GB,0,FondantL,1,Media,60.74
-907,A,Chocolat Cake,25.0,30,1,GB,0,FondantL,1,Alta,63.74
-908,A,Chocolat Cake,25.0,30,1,GB,0,FondantL,1,Muy Alta,67.74
-909,A,Chocolat Cake,25.0,30,1,GB,0,FondantL,0,Sin Tematica,55.74
-910,A,Chocolat Cake,25.0,30,1,BC,1,FondantL,1,Basica,75.66
-911,A,Chocolat Cake,25.0,30,1,BC,1,FondantL,1,Media,77.66
-912,A,Chocolat Cake,25.0,30,1,BC,1,FondantL,1,Alta,80.66
-913,A,Chocolat Cake,25.0,30,1,BC,1,FondantL,1,Muy Alta,84.66
-914,A,Chocolat Cake,25.0,30,1,BC,1,FondantL,0,Sin Tematica,72.66
-915,A,Chocolat Cake,25.0,30,1,BC,0,FondantL,1,Basica,69.66
-916,A,Chocolat Cake,25.0,30,1,BC,0,FondantL,1,Media,71.66
-917,A,Chocolat Cake,25.0,30,1,BC,0,FondantL,1,Alta,74.66
-918,A,Chocolat Cake,25.0,30,1,BC,0,FondantL,1,Muy Alta,78.66
-919,A,Chocolat Cake,25.0,30,1,BC,0,FondantL,0,Sin Tematica,66.66
-920,A,Chocolat Cake,25.0,30,1,BCO,1,FondantL,1,Basica,81.57
-921,A,Chocolat Cake,25.0,30,1,BCO,1,FondantL,1,Media,83.57
-922,A,Chocolat Cake,25.0,30,1,BCO,1,FondantL,1,Alta,86.57
-923,A,Chocolat Cake,25.0,30,1,BCO,1,FondantL,1,Muy Alta,90.57
-924,A,Chocolat Cake,25.0,30,1,BCO,1,FondantL,0,Sin Tematica,78.57
-925,A,Chocolat Cake,25.0,30,1,BCO,0,FondantL,1,Basica,75.57
-926,A,Chocolat Cake,25.0,30,1,BCO,0,FondantL,1,Media,77.57
-927,A,Chocolat Cake,25.0,30,1,BCO,0,FondantL,1,Alta,80.57
-928,A,Chocolat Cake,25.0,30,1,BCO,0,FondantL,1,Muy Alta,84.57
-929,A,Chocolat Cake,25.0,30,1,BCO,0,FondantL,0,Sin Tematica,72.57
-930,A,Chocolat Cake,25.0,30,1,MerF,1,FondantL,1,Basica,62.55
-931,A,Chocolat Cake,25.0,30,1,MerF,1,FondantL,1,Media,64.55
-932,A,Chocolat Cake,25.0,30,1,MerF,1,FondantL,1,Alta,67.55
-933,A,Chocolat Cake,25.0,30,1,MerF,1,FondantL,1,Muy Alta,71.55
-934,A,Chocolat Cake,25.0,30,1,MerF,1,FondantL,0,Sin Tematica,59.55
-935,A,Chocolat Cake,25.0,30,1,MerF,0,FondantL,1,Basica,56.55
-936,A,Chocolat Cake,25.0,30,1,MerF,0,FondantL,1,Media,58.55
-937,A,Chocolat Cake,25.0,30,1,MerF,0,FondantL,1,Alta,61.55
-938,A,Chocolat Cake,25.0,30,1,MerF,0,FondantL,1,Muy Alta,65.55
-939,A,Chocolat Cake,25.0,30,1,MerF,0,FondantL,0,Sin Tematica,53.55
-940,A,Chocolat Cake,25.0,30,1,MerFR,1,FondantL,1,Basica,62.55
-941,A,Chocolat Cake,25.0,30,1,MerFR,1,FondantL,1,Media,64.55
-942,A,Chocolat Cake,25.0,30,1,MerFR,1,FondantL,1,Alta,67.55
-943,A,Chocolat Cake,25.0,30,1,MerFR,1,FondantL,1,Muy Alta,71.55
-944,A,Chocolat Cake,25.0,30,1,MerFR,1,FondantL,0,Sin Tematica,59.55
-945,A,Chocolat Cake,25.0,30,1,MerFR,0,FondantL,1,Basica,56.55
-946,A,Chocolat Cake,25.0,30,1,MerFR,0,FondantL,1,Media,58.55
-947,A,Chocolat Cake,25.0,30,1,MerFR,0,FondantL,1,Alta,61.55
-948,A,Chocolat Cake,25.0,30,1,MerFR,0,FondantL,1,Muy Alta,65.55
-949,A,Chocolat Cake,25.0,30,1,MerFR,0,FondantL,0,Sin Tematica,53.55
-950,A,Chocolat Cake,25.0,30,1,MerNZ,1,FondantL,1,Basica,57.49
-951,A,Chocolat Cake,25.0,30,1,MerNZ,1,FondantL,1,Media,59.49
-952,A,Chocolat Cake,25.0,30,1,MerNZ,1,FondantL,1,Alta,62.49
-953,A,Chocolat Cake,25.0,30,1,MerNZ,1,FondantL,1,Muy Alta,66.49
-954,A,Chocolat Cake,25.0,30,1,MerNZ,1,FondantL,0,Sin Tematica,54.49
-955,A,Chocolat Cake,25.0,30,1,MerNZ,0,FondantL,1,Basica,51.49
-956,A,Chocolat Cake,25.0,30,1,MerNZ,0,FondantL,1,Media,53.49
-957,A,Chocolat Cake,25.0,30,1,MerNZ,0,FondantL,1,Alta,56.49
-958,A,Chocolat Cake,25.0,30,1,MerNZ,0,FondantL,1,Muy Alta,60.49
-959,A,Chocolat Cake,25.0,30,1,MerNZ,0,FondantL,0,Sin Tematica,48.49
-960,A,Chocolat Cake,25.0,30,1,DL,1,FondantL,1,Basica,56.6
-961,A,Chocolat Cake,25.0,30,1,DL,1,FondantL,1,Media,58.6
-962,A,Chocolat Cake,25.0,30,1,DL,1,FondantL,1,Alta,61.6
-963,A,Chocolat Cake,25.0,30,1,DL,1,FondantL,1,Muy Alta,65.6
-964,A,Chocolat Cake,25.0,30,1,DL,1,FondantL,0,Sin Tematica,53.6
-965,A,Chocolat Cake,25.0,30,1,DL,0,FondantL,1,Basica,50.6
-966,A,Chocolat Cake,25.0,30,1,DL,0,FondantL,1,Media,52.6
-967,A,Chocolat Cake,25.0,30,1,DL,0,FondantL,1,Alta,55.6
-968,A,Chocolat Cake,25.0,30,1,DL,0,FondantL,1,Muy Alta,59.6
-969,A,Chocolat Cake,25.0,30,1,DL,0,FondantL,0,Sin Tematica,47.6
-970,A,Chocolat Cake,25.0,30,1,MerM,1,FondantL,1,Basica,57.63
-971,A,Chocolat Cake,25.0,30,1,MerM,1,FondantL,1,Media,59.63
-972,A,Chocolat Cake,25.0,30,1,MerM,1,FondantL,1,Alta,62.63
-973,A,Chocolat Cake,25.0,30,1,MerM,1,FondantL,1,Muy Alta,66.63
-974,A,Chocolat Cake,25.0,30,1,MerM,1,FondantL,0,Sin Tematica,54.63
-975,A,Chocolat Cake,25.0,30,1,MerM,0,FondantL,1,Basica,51.63
-976,A,Chocolat Cake,25.0,30,1,MerM,0,FondantL,1,Media,53.63
-977,A,Chocolat Cake,25.0,30,1,MerM,0,FondantL,1,Alta,56.63
-978,A,Chocolat Cake,25.0,30,1,MerM,0,FondantL,1,Muy Alta,60.63
-979,A,Chocolat Cake,25.0,30,1,MerM,0,FondantL,0,Sin Tematica,48.63
-980,A,Chocolat Cake,25.0,30,1,LimC,1,FondantL,1,Basica,67.63
-981,A,Chocolat Cake,25.0,30,1,LimC,1,FondantL,1,Media,69.63
-982,A,Chocolat Cake,25.0,30,1,LimC,1,FondantL,1,Alta,72.63
-983,A,Chocolat Cake,25.0,30,1,LimC,1,FondantL,1,Muy Alta,76.63
-984,A,Chocolat Cake,25.0,30,1,LimC,1,FondantL,0,Sin Tematica,64.63
-985,A,Chocolat Cake,25.0,30,1,LimC,0,FondantL,1,Basica,61.63
-986,A,Chocolat Cake,25.0,30,1,LimC,0,FondantL,1,Media,63.63
-987,A,Chocolat Cake,25.0,30,1,LimC,0,FondantL,1,Alta,66.63
-988,A,Chocolat Cake,25.0,30,1,LimC,0,FondantL,1,Muy Alta,70.63
-989,A,Chocolat Cake,25.0,30,1,LimC,0,FondantL,0,Sin Tematica,58.63
-990,A,Oreo Cake,25.0,30,1,BCO,1,FondantL,1,Basica,69.61
-991,A,Oreo Cake,25.0,30,1,BCO,1,FondantL,1,Media,71.61
-992,A,Oreo Cake,25.0,30,1,BCO,1,FondantL,1,Alta,74.61
-993,A,Oreo Cake,25.0,30,1,BCO,1,FondantL,1,Muy Alta,78.61
-994,A,Oreo Cake,25.0,30,1,BCO,1,FondantL,0,Sin Tematica,66.61
-995,A,Oreo Cake,25.0,30,1,BCO,0,FondantL,1,Basica,63.61
-996,A,Oreo Cake,25.0,30,1,BCO,0,FondantL,1,Media,65.61
-997,A,Oreo Cake,25.0,30,1,BCO,0,FondantL,1,Alta,68.61
-998,A,Oreo Cake,25.0,30,1,BCO,0,FondantL,1,Muy Alta,72.61
-999,A,Oreo Cake,25.0,30,1,BCO,0,FondantL,0,Sin Tematica,60.61
-1000,A,Oreo Cake,12.0,9,1,BCO,1,FondantS,1,Basica,20.55
-1001,A,Oreo Cake,12.0,9,1,BCO,1,FondantS,1,Media,22.55
-1002,A,Oreo Cake,12.0,9,1,BCO,1,FondantS,1,Alta,25.55
-1003,A,Oreo Cake,12.0,9,1,BCO,1,FondantS,1,Muy Alta,29.55
-1004,A,Oreo Cake,12.0,9,1,BCO,1,FondantS,0,Sin Tematica,17.55
-1005,A,Oreo Cake,12.0,9,1,BCO,0,FondantS,1,Basica,18.15
-1006,A,Oreo Cake,12.0,9,1,BCO,0,FondantS,1,Media,20.15
-1007,A,Oreo Cake,12.0,9,1,BCO,0,FondantS,1,Alta,23.15
-1008,A,Oreo Cake,12.0,9,1,BCO,0,FondantS,1,Muy Alta,27.15
-1009,A,Oreo Cake,12.0,9,1,BCO,0,FondantS,0,Sin Tematica,15.15
-1010,A,ReDVelvet Cake,25.0,30,1,BC,1,FondantL,1,Basica,124.82
-1011,A,ReDVelvet Cake,25.0,30,1,BC,1,FondantL,1,Media,126.82
-1012,A,ReDVelvet Cake,25.0,30,1,BC,1,FondantL,1,Alta,129.82
-1013,A,ReDVelvet Cake,25.0,30,1,BC,1,FondantL,1,Muy Alta,133.82
-1014,A,ReDVelvet Cake,25.0,30,1,BC,1,FondantL,0,Sin Tematica,121.82
-1015,A,ReDVelvet Cake,25.0,30,1,BC,0,FondantL,1,Basica,118.82
-1016,A,ReDVelvet Cake,25.0,30,1,BC,0,FondantL,1,Media,120.82
-1017,A,ReDVelvet Cake,25.0,30,1,BC,0,FondantL,1,Alta,123.82
-1018,A,ReDVelvet Cake,25.0,30,1,BC,0,FondantL,1,Muy Alta,127.82
-1019,A,ReDVelvet Cake,25.0,30,1,BC,0,FondantL,0,Sin Tematica,115.82
-1020,A,ReDVelvet Cake,12.0,9,1,BC,1,FondantS,1,Basica,34.36
-1021,A,ReDVelvet Cake,12.0,9,1,BC,1,FondantS,1,Media,36.36
-1022,A,ReDVelvet Cake,12.0,9,1,BC,1,FondantS,1,Alta,39.36
-1023,A,ReDVelvet Cake,12.0,9,1,BC,1,FondantS,1,Muy Alta,43.36
-1024,A,ReDVelvet Cake,12.0,9,1,BC,1,FondantS,0,Sin Tematica,31.36
-1025,A,ReDVelvet Cake,12.0,9,1,BC,0,FondantS,1,Basica,31.96
-1026,A,ReDVelvet Cake,12.0,9,1,BC,0,FondantS,1,Media,33.96
-1027,A,ReDVelvet Cake,12.0,9,1,BC,0,FondantS,1,Alta,36.96
-1028,A,ReDVelvet Cake,12.0,9,1,BC,0,FondantS,1,Muy Alta,40.96
-1029,A,ReDVelvet Cake,12.0,9,1,BC,0,FondantS,0,Sin Tematica,28.96
-1030,A,Carrot Cake,25.0,30,1,BC,1,FondantL,1,Basica,68.28
-1031,A,Carrot Cake,25.0,30,1,BC,1,FondantL,1,Media,70.28
-1032,A,Carrot Cake,25.0,30,1,BC,1,FondantL,1,Alta,73.28
-1033,A,Carrot Cake,25.0,30,1,BC,1,FondantL,1,Muy Alta,77.28
-1034,A,Carrot Cake,25.0,30,1,BC,1,FondantL,0,Sin Tematica,65.28
-1035,A,Carrot Cake,25.0,30,1,BC,0,FondantL,1,Basica,62.28
-1036,A,Carrot Cake,25.0,30,1,BC,0,FondantL,1,Media,64.28
-1037,A,Carrot Cake,25.0,30,1,BC,0,FondantL,1,Alta,67.28
-1038,A,Carrot Cake,25.0,30,1,BC,0,FondantL,1,Muy Alta,71.28
-1039,A,Carrot Cake,25.0,30,1,BC,0,FondantL,0,Sin Tematica,59.28
-1040,A,Carrot Cake,12.0,9,1,BC,1,FondantS,1,Basica,20.22
-1041,A,Carrot Cake,12.0,9,1,BC,1,FondantS,1,Media,22.22
-1042,A,Carrot Cake,12.0,9,1,BC,1,FondantS,1,Alta,25.22
-1043,A,Carrot Cake,12.0,9,1,BC,1,FondantS,1,Muy Alta,29.22
-1044,A,Carrot Cake,12.0,9,1,BC,1,FondantS,0,Sin Tematica,17.22
-1045,A,Carrot Cake,12.0,9,1,BC,0,FondantS,1,Basica,17.82
-1046,A,Carrot Cake,12.0,9,1,BC,0,FondantS,1,Media,19.82
-1047,A,Carrot Cake,12.0,9,1,BC,0,FondantS,1,Alta,22.82
-1048,A,Carrot Cake,12.0,9,1,BC,0,FondantS,1,Muy Alta,26.82
-1049,A,Carrot Cake,12.0,9,1,BC,0,FondantS,0,Sin Tematica,14.82
-1050,A,NPDCake,25.0,30,1,DL,1,FondantL,1,Basica,67.74
-1051,A,NPDCake,25.0,30,1,DL,1,FondantL,1,Media,69.74
-1052,A,NPDCake,25.0,30,1,DL,1,FondantL,1,Alta,72.74
-1053,A,NPDCake,25.0,30,1,DL,1,FondantL,1,Muy Alta,76.74
-1054,A,NPDCake,25.0,30,1,DL,1,FondantL,0,Sin Tematica,64.74
-1055,A,NPDCake,25.0,30,1,DL,0,FondantL,1,Basica,61.74
-1056,A,NPDCake,25.0,30,1,DL,0,FondantL,1,Media,63.74
-1057,A,NPDCake,25.0,30,1,DL,0,FondantL,1,Alta,66.74
-1058,A,NPDCake,25.0,30,1,DL,0,FondantL,1,Muy Alta,70.74
-1059,A,NPDCake,25.0,30,1,DL,0,FondantL,0,Sin Tematica,58.74
-1060,A,NPDCake,12.0,9,1,DL,1,FondantS,1,Basica,26.87
-1061,A,NPDCake,12.0,9,1,DL,1,FondantS,1,Media,28.87
-1062,A,NPDCake,12.0,9,1,DL,1,FondantS,1,Alta,31.87
-1063,A,NPDCake,12.0,9,1,DL,1,FondantS,1,Muy Alta,35.87
-1064,A,NPDCake,12.0,9,1,DL,1,FondantS,0,Sin Tematica,23.87
-1065,A,NPDCake,12.0,9,1,DL,0,FondantS,1,Basica,24.47
-1066,A,NPDCake,12.0,9,1,DL,0,FondantS,1,Media,26.47
-1067,A,NPDCake,12.0,9,1,DL,0,FondantS,1,Alta,29.47
-1068,A,NPDCake,12.0,9,1,DL,0,FondantS,1,Muy Alta,33.47
-1069,A,NPDCake,12.0,9,1,DL,0,FondantS,0,Sin Tematica,21.47
-1070,A,NSA Cake,12.0,9,1,MerNZ,1,FondantS,1,Basica,35.71
-1071,A,NSA Cake,12.0,9,1,MerNZ,1,FondantS,1,Media,37.71
-1072,A,NSA Cake,12.0,9,1,MerNZ,1,FondantS,1,Alta,40.71
-1073,A,NSA Cake,12.0,9,1,MerNZ,1,FondantS,1,Muy Alta,44.71
-1074,A,NSA Cake,12.0,9,1,MerNZ,1,FondantS,0,Sin Tematica,32.71
-1075,A,NSA Cake,12.0,9,1,MerNZ,0,FondantS,1,Basica,33.31
-1076,A,NSA Cake,12.0,9,1,MerNZ,0,FondantS,1,Media,35.31
-1077,A,NSA Cake,12.0,9,1,MerNZ,0,FondantS,1,Alta,38.31
-1078,A,NSA Cake,12.0,9,1,MerNZ,0,FondantS,1,Muy Alta,42.31
-1079,A,NSA Cake,12.0,9,1,MerNZ,0,FondantS,0,Sin Tematica,30.31
-1080,A,NSA Cake,25.0,30,1,MerNZ,1,FondantL,1,Basica,103.13
-1081,A,NSA Cake,25.0,30,1,MerNZ,1,FondantL,1,Media,105.13
-1082,A,NSA Cake,25.0,30,1,MerNZ,1,FondantL,1,Alta,108.13
-1083,A,NSA Cake,25.0,30,1,MerNZ,1,FondantL,1,Muy Alta,112.13
-1084,A,NSA Cake,25.0,30,1,MerNZ,1,FondantL,0,Sin Tematica,100.13
-1085,A,NSA Cake,25.0,30,1,MerNZ,0,FondantL,1,Basica,97.13
-1086,A,NSA Cake,25.0,30,1,MerNZ,0,FondantL,1,Media,99.13
-1087,A,NSA Cake,25.0,30,1,MerNZ,0,FondantL,1,Alta,102.13
-1088,A,NSA Cake,25.0,30,1,MerNZ,0,FondantL,1,Muy Alta,106.13
-1089,A,NSA Cake,25.0,30,1,MerNZ,0,FondantL,0,Sin Tematica,94.13
-1090,A,Coco Cake,25.0,30,1,DL,1,FondantL,1,Basica,70.07
-1091,A,Coco Cake,25.0,30,1,DL,1,FondantL,1,Media,72.07
-1092,A,Coco Cake,25.0,30,1,DL,1,FondantL,1,Alta,75.07
-1093,A,Coco Cake,25.0,30,1,DL,1,FondantL,1,Muy Alta,79.07
-1094,A,Coco Cake,25.0,30,1,DL,1,FondantL,0,Sin Tematica,67.07
-1095,A,Coco Cake,25.0,30,1,DL,0,FondantL,1,Basica,64.07
-1096,A,Coco Cake,25.0,30,1,DL,0,FondantL,1,Media,66.07
-1097,A,Coco Cake,25.0,30,1,DL,0,FondantL,1,Alta,69.07
-1098,A,Coco Cake,25.0,30,1,DL,0,FondantL,1,Muy Alta,73.07
-1099,A,Coco Cake,25.0,30,1,DL,0,FondantL,0,Sin Tematica,61.07
-1100,A,Coco Cake,12.0,9,1,DL,1,FondantS,1,Basica,27.45
-1101,A,Coco Cake,12.0,9,1,DL,1,FondantS,1,Media,29.45
-1102,A,Coco Cake,12.0,9,1,DL,1,FondantS,1,Alta,32.45
-1103,A,Coco Cake,12.0,9,1,DL,1,FondantS,1,Muy Alta,36.45
-1104,A,Coco Cake,12.0,9,1,DL,1,FondantS,0,Sin Tematica,24.45
-1105,A,Coco Cake,12.0,9,1,DL,0,FondantS,1,Basica,25.05
-1106,A,Coco Cake,12.0,9,1,DL,0,FondantS,1,Media,27.05
-1107,A,Coco Cake,12.0,9,1,DL,0,FondantS,1,Alta,30.05
-1108,A,Coco Cake,12.0,9,1,DL,0,FondantS,1,Muy Alta,34.05
-1109,A,Coco Cake,12.0,9,1,DL,0,FondantS,0,Sin Tematica,22.05
-1110,A,Limon Cake,25.0,30,1,LimC,1,FondantL,1,Basica,65.74
-1111,A,Limon Cake,25.0,30,1,LimC,1,FondantL,1,Media,67.74
-1112,A,Limon Cake,25.0,30,1,LimC,1,FondantL,1,Alta,70.74
-1113,A,Limon Cake,25.0,30,1,LimC,1,FondantL,1,Muy Alta,74.74
-1114,A,Limon Cake,25.0,30,1,LimC,1,FondantL,0,Sin Tematica,62.74
-1115,A,Limon Cake,25.0,30,1,LimC,0,FondantL,1,Basica,59.74
-1116,A,Limon Cake,25.0,30,1,LimC,0,FondantL,1,Media,61.74
-1117,A,Limon Cake,25.0,30,1,LimC,0,FondantL,1,Alta,64.74
-1118,A,Limon Cake,25.0,30,1,LimC,0,FondantL,1,Muy Alta,68.74
-1119,A,Limon Cake,25.0,30,1,LimC,0,FondantL,0,Sin Tematica,56.74
-1120,A,Limon Cake,12.0,9,1,LimC,1,FondantS,1,Basica,26.37
-1121,A,Limon Cake,12.0,9,1,LimC,1,FondantS,1,Media,28.37
-1122,A,Limon Cake,12.0,9,1,LimC,1,FondantS,1,Alta,31.37
-1123,A,Limon Cake,12.0,9,1,LimC,1,FondantS,1,Muy Alta,35.37
-1124,A,Limon Cake,12.0,9,1,LimC,1,FondantS,0,Sin Tematica,23.37
-1125,A,Limon Cake,12.0,9,1,LimC,0,FondantS,1,Basica,23.97
-1126,A,Limon Cake,12.0,9,1,LimC,0,FondantS,1,Media,25.97
-1127,A,Limon Cake,12.0,9,1,LimC,0,FondantS,1,Alta,28.97
-1128,A,Limon Cake,12.0,9,1,LimC,0,FondantS,1,Muy Alta,32.97
-1129,A,Limon Cake,12.0,9,1,LimC,0,FondantS,0,Sin Tematica,20.97
-1130,B,Victoria Cake,12.0,9,1,GN,0,0,1,Basica,39.0
-1131,B,Victoria Cake,12.0,9,1,GB,0,0,1,Basica,39.0
-1132,B,Victoria Cake,12.0,9,1,DL,0,0,1,Basica,39.0
-1133,B,Victoria Cake,12.0,9,1,GNL,0,0,1,Basica,39.0
-1134,B,Chocolat Cake,12.0,9,1,GN,0,0,1,Basica,39.0
-1135,B,Chocolat Cake,12.0,9,1,GB,0,0,1,Basica,39.0
-1136,B,Chocolat Cake,12.0,9,1,DL,0,0,1,Basica,39.0
-1137,B,Chocolat Cake,12.0,9,1,GNL,0,0,1,Basica,39.0
-1138,B,Red Velvet,12.0,9,1,BC,0,0,1,Basica,42.0
-1139,B,Carrot Cake,12.0,9,1,BC,0,0,1,Basica,42.0
-1140,B,Victoria Cake,18.0,15,1,GN,0,0,1,Alta,80.0
-1141,B,Victoria Cake,18.0,15,1,GB,0,0,1,Alta,80.0
-1142,B,Victoria Cake,18.0,15,1,DL,0,0,1,Alta,80.0
-1143,B,Victoria Cake,18.0,15,1,GNL,0,0,1,Alta,80.0
-1144,B,Chocolat Cake,18.0,15,1,GN,0,0,1,Alta,80.0
-1145,B,Chocolat Cake,18.0,15,1,GB,0,0,1,Alta,80.0
-1146,B,Chocolat Cake,18.0,15,1,DL,0,0,1,Alta,80.0
-1147,B,Chocolat Cake,18.0,15,1,GNL,0,0,1,Alta,80.0
-1148,B,Red Velvet,18.0,15,1,BC,0,0,1,Alta,80.0
-1149,B,Carrot Cake,18.0,15,1,BC,0,0,1,Alta,80.0
-1150,B,Victoria Cake,25.0,30,1,GN,0,0,1,Muy Alta,95.0
-1151,B,Victoria Cake,25.0,30,1,GB,0,0,1,Muy Alta,95.0
-1152,B,Victoria Cake,25.0,30,1,DL,0,0,1,Muy Alta,95.0
-1153,B,Victoria Cake,25.0,30,1,GNL,0,0,1,Muy Alta,95.0
-1154,B,Chocolat Cake,25.0,30,1,GN,0,0,1,Muy Alta,95.0
-1155,B,Chocolat Cake,25.0,30,1,GB,0,0,1,Muy Alta,95.0
-1156,B,Chocolat Cake,25.0,30,1,DL,0,0,1,Muy Alta,95.0
-1157,B,Chocolat Cake,25.0,30,1,GNL,0,0,1,Muy Alta,95.0
-1158,C,Chocolat Cake,12.0,9,1,GN,0,0,1,Basica,45.0
-1159,C,Victoria Cake,12.0,9,1,GN,0,0,1,Basica,45.0
-1160,C,Red Velvet,12.0,9,1,BC,0,0,1,Basica,45.0
-1161,C,Carrot Cake,12.0,9,1,BC,0,0,1,Basica,45.0
-1162,C,Chocolat Cake,18.0,15,1,GN,0,0,1,Basica,60.0
-1163,C,Victoria Cake,18.0,15,1,GN,0,0,1,Basica,60.0
-1164,C,Red Velvet,18.0,15,1,BC,0,0,1,Basica,60.0
-1165,C,Carrot Cake,18.0,15,1,BC,0,0,1,Basica,60.0
-1166,C,Chocolat Cake,25.0,30,1,GN,0,0,1,Basica,75.0
-1167,C,Victoria Cake,25.0,30,1,GN,0,0,1,Basica,75.0
-1168,C,Red Velvet,25.0,30,1,BC,0,0,1,Basica,75.0
-1169,C,Carrot Cake,25.0,30,1,BC,0,0,1,Basica,75.0
-1170,C,Chocolat Cake,12.0,9,1,GN,0,0,1,Alta,75.0
-1171,C,Victoria Cake,12.0,9,1,GN,0,0,1,Alta,75.0
-1172,C,Red Velvet,12.0,9,1,BC,0,0,1,Alta,75.0
-1173,C,Carrot Cake,12.0,9,1,BC,0,0,1,Alta,75.0
-1174,C,Chocolat Cake,18.0,15,1,GN,0,0,1,Alta,75.0
-1175,C,Victoria Cake,18.0,15,1,GN,0,0,1,Alta,75.0
-1176,C,Red Velvet,18.0,15,1,BC,0,0,1,Alta,75.0
-1177,C,Carrot Cake,18.0,15,1,BC,0,0,1,Alta,75.0
-1178,C,Chocolat Cake,25.0,30,1,GN,0,0,1,Alta,75.0
-1179,C,Victoria Cake,25.0,30,1,GN,0,0,1,Alta,75.0
-1180,C,Red Velvet,25.0,30,1,BC,0,0,1,Alta,75.0
-1181,C,Carrot Cake,25.0,30,1,BC,0,0,1,Alta,75.0
-1182,C,Chocolat Cake,12.0,9,1,GN,0,0,1,Muy Alta,95.0
-1183,C,Victoria Cake,12.0,9,1,GN,0,0,1,Muy Alta,95.0
-1184,C,Red Velvet,12.0,9,1,BC,0,0,1,Muy Alta,95.0
-1185,C,Carrot Cake,12.0,9,1,BC,0,0,1,Muy Alta,95.0
-1186,C,Chocolat Cake,18.0,15,1,GN,0,0,1,Muy Alta,95.0
-1187,C,Victoria Cake,18.0,15,1,GN,0,0,1,Muy Alta,95.0
-1188,C,Red Velvet,18.0,15,1,BC,0,0,1,Muy Alta,95.0
-1189,C,Carrot Cake,18.0,15,1,BC,0,0,1,Muy Alta,95.0
-1190,C,Chocolat Cake,25.0,30,1,GN,0,0,1,Muy Alta,95.0
-1191,C,Victoria Cake,25.0,30,1,GN,0,0,1,Muy Alta,95.0
-1192,C,Red Velvet,25.0,30,1,BC,0,0,1,Muy Alta,95.0
-1193,C,Carrot Cake,25.0,30,1,BC,0,0,1,Muy Alta,95.0
-1194,C,Chocolat Cake,12.0,9,1,GN,0,0,0,Sin Tematica,30.0
-1195,C,Victoria Cake,12.0,9,1,GN,0,0,0,Sin Tematica,30.0
-1196,C,Red Velvet,12.0,9,1,BC,0,0,0,Sin Tematica,30.0
-1197,C,Carrot Cake,12.0,9,1,BC,0,0,0,Sin Tematica,30.0
-1198,C,Chocolat Cake,18.0,15,1,GN,0,0,0,Sin Tematica,35.0
-1199,C,Victoria Cake,18.0,15,1,GN,0,0,0,Sin Tematica,35.0
-1200,C,Red Velvet,18.0,15,1,BC,0,0,0,Sin Tematica,35.0
-1201,C,Carrot Cake,18.0,15,1,BC,0,0,0,Sin Tematica,35.0
-1202,C,Chocolat Cake,25.0,30,1,GN,0,0,0,Sin Tematica,40.0
-1203,C,Victoria Cake,25.0,30,1,GN,0,0,0,Sin Tematica,40.0
-1204,C,Red Velvet,25.0,30,1,BC,0,0,0,Sin Tematica,40.0
-1205,C,Carrot Cake,25.0,30,1,BC,0,0,0,Sin Tematica,40.0
+0,A,Victoria Cake,18.0,15.0,1.0,GN,1.0,FondantM,1.0,Basica,26.33
+1,A,Victoria Cake,18.0,15.0,1.0,GN,1.0,FondantM,1.0,Media,28.33
+2,A,Victoria Cake,18.0,15.0,1.0,GN,1.0,FondantM,1.0,Alta,31.33
+3,A,Victoria Cake,18.0,15.0,1.0,GN,1.0,FondantM,1.0,Muy Alta,35.33
+4,A,Victoria Cake,18.0,15.0,1.0,GN,1.0,FondantM,0.0,Sin Tematica,23.33
+5,A,Victoria Cake,18.0,15.0,1.0,GN,0.0,SinFondant,1.0,Basica,22.33
+6,A,Victoria Cake,18.0,15.0,1.0,GN,0.0,SinFondant,1.0,Media,24.33
+7,A,Victoria Cake,18.0,15.0,1.0,GN,0.0,SinFondant,1.0,Alta,27.33
+8,A,Victoria Cake,18.0,15.0,1.0,GN,0.0,SinFondant,1.0,Muy Alta,31.33
+9,A,Victoria Cake,18.0,15.0,1.0,GN,0.0,SinFondant,0.0,Sin Tematica,19.33
+10,A,Victoria Cake,18.0,15.0,1.0,GNL,1.0,FondantM,1.0,Basica,30.4
+11,A,Victoria Cake,18.0,15.0,1.0,GNL,1.0,FondantM,1.0,Media,32.4
+12,A,Victoria Cake,18.0,15.0,1.0,GNL,1.0,FondantM,1.0,Alta,35.4
+13,A,Victoria Cake,18.0,15.0,1.0,GNL,1.0,FondantM,1.0,Muy Alta,39.4
+14,A,Victoria Cake,18.0,15.0,1.0,GNL,1.0,FondantM,0.0,Sin Tematica,27.4
+15,A,Victoria Cake,18.0,15.0,1.0,GNL,0.0,SinFondant,1.0,Basica,26.4
+16,A,Victoria Cake,18.0,15.0,1.0,GNL,0.0,SinFondant,1.0,Media,28.4
+17,A,Victoria Cake,18.0,15.0,1.0,GNL,0.0,SinFondant,1.0,Alta,31.4
+18,A,Victoria Cake,18.0,15.0,1.0,GNL,0.0,SinFondant,1.0,Muy Alta,35.4
+19,A,Victoria Cake,18.0,15.0,1.0,GNL,0.0,SinFondant,0.0,Sin Tematica,23.4
+20,A,Victoria Cake,18.0,15.0,1.0,GB,1.0,FondantM,1.0,Basica,33.93
+21,A,Victoria Cake,18.0,15.0,1.0,GB,1.0,FondantM,1.0,Media,35.93
+22,A,Victoria Cake,18.0,15.0,1.0,GB,1.0,FondantM,1.0,Alta,38.93
+23,A,Victoria Cake,18.0,15.0,1.0,GB,1.0,FondantM,1.0,Muy Alta,42.93
+24,A,Victoria Cake,18.0,15.0,1.0,GB,1.0,FondantM,0.0,Sin Tematica,30.93
+25,A,Victoria Cake,18.0,15.0,1.0,GB,0.0,SinFondant,1.0,Basica,29.93
+26,A,Victoria Cake,18.0,15.0,1.0,GB,0.0,SinFondant,1.0,Media,31.93
+27,A,Victoria Cake,18.0,15.0,1.0,GB,0.0,SinFondant,1.0,Alta,34.93
+28,A,Victoria Cake,18.0,15.0,1.0,GB,0.0,SinFondant,1.0,Muy Alta,38.93
+29,A,Victoria Cake,18.0,15.0,1.0,GB,0.0,SinFondant,0.0,Sin Tematica,26.93
+30,A,Victoria Cake,18.0,15.0,1.0,BC,1.0,FondantM,1.0,Basica,39.39
+31,A,Victoria Cake,18.0,15.0,1.0,BC,1.0,FondantM,1.0,Media,41.39
+32,A,Victoria Cake,18.0,15.0,1.0,BC,1.0,FondantM,1.0,Alta,44.39
+33,A,Victoria Cake,18.0,15.0,1.0,BC,1.0,FondantM,1.0,Muy Alta,48.39
+34,A,Victoria Cake,18.0,15.0,1.0,BC,1.0,FondantM,0.0,Sin Tematica,36.39
+35,A,Victoria Cake,18.0,15.0,1.0,BC,0.0,SinFondant,1.0,Basica,35.39
+36,A,Victoria Cake,18.0,15.0,1.0,BC,0.0,SinFondant,1.0,Media,37.39
+37,A,Victoria Cake,18.0,15.0,1.0,BC,0.0,SinFondant,1.0,Alta,40.39
+38,A,Victoria Cake,18.0,15.0,1.0,BC,0.0,SinFondant,1.0,Muy Alta,44.39
+39,A,Victoria Cake,18.0,15.0,1.0,BC,0.0,SinFondant,0.0,Sin Tematica,32.39
+40,A,Victoria Cake,18.0,15.0,1.0,BCO,1.0,FondantM,1.0,Basica,42.34
+41,A,Victoria Cake,18.0,15.0,1.0,BCO,1.0,FondantM,1.0,Media,44.34
+42,A,Victoria Cake,18.0,15.0,1.0,BCO,1.0,FondantM,1.0,Alta,47.34
+43,A,Victoria Cake,18.0,15.0,1.0,BCO,1.0,FondantM,1.0,Muy Alta,51.34
+44,A,Victoria Cake,18.0,15.0,1.0,BCO,1.0,FondantM,0.0,Sin Tematica,39.34
+45,A,Victoria Cake,18.0,15.0,1.0,BCO,0.0,SinFondant,1.0,Basica,38.34
+46,A,Victoria Cake,18.0,15.0,1.0,BCO,0.0,SinFondant,1.0,Media,40.34
+47,A,Victoria Cake,18.0,15.0,1.0,BCO,0.0,SinFondant,1.0,Alta,43.34
+48,A,Victoria Cake,18.0,15.0,1.0,BCO,0.0,SinFondant,1.0,Muy Alta,47.34
+49,A,Victoria Cake,18.0,15.0,1.0,BCO,0.0,SinFondant,0.0,Sin Tematica,35.34
+50,A,Victoria Cake,18.0,15.0,1.0,MerF,1.0,FondantM,1.0,Basica,37.35
+51,A,Victoria Cake,18.0,15.0,1.0,MerF,1.0,FondantM,1.0,Media,39.35
+52,A,Victoria Cake,18.0,15.0,1.0,MerF,1.0,FondantM,1.0,Alta,42.35
+53,A,Victoria Cake,18.0,15.0,1.0,MerF,1.0,FondantM,1.0,Muy Alta,46.35
+54,A,Victoria Cake,18.0,15.0,1.0,MerF,1.0,FondantM,0.0,Sin Tematica,34.35
+55,A,Victoria Cake,18.0,15.0,1.0,MerF,0.0,SinFondant,1.0,Basica,41.35
+56,A,Victoria Cake,18.0,15.0,1.0,MerF,0.0,SinFondant,1.0,Media,35.35
+57,A,Victoria Cake,18.0,15.0,1.0,MerF,0.0,SinFondant,1.0,Alta,38.35
+58,A,Victoria Cake,18.0,15.0,1.0,MerF,0.0,SinFondant,1.0,Muy Alta,42.35
+59,A,Victoria Cake,18.0,15.0,1.0,MerF,0.0,SinFondant,0.0,Sin Tematica,30.35
+60,A,Victoria Cake,18.0,15.0,1.0,MerFR,1.0,FondantM,1.0,Basica,37.35
+61,A,Victoria Cake,18.0,15.0,1.0,MerFR,1.0,FondantM,1.0,Media,39.35
+62,A,Victoria Cake,18.0,15.0,1.0,MerFR,1.0,FondantM,1.0,Alta,42.35
+63,A,Victoria Cake,18.0,15.0,1.0,MerFR,1.0,FondantM,1.0,Muy Alta,46.35
+64,A,Victoria Cake,18.0,15.0,1.0,MerFR,1.0,FondantM,0.0,Sin Tematica,34.35
+65,A,Victoria Cake,18.0,15.0,1.0,MerFR,0.0,SinFondant,1.0,Basica,33.35
+66,A,Victoria Cake,18.0,15.0,1.0,MerFR,0.0,SinFondant,1.0,Media,35.35
+67,A,Victoria Cake,18.0,15.0,1.0,MerFR,0.0,SinFondant,1.0,Alta,38.35
+68,A,Victoria Cake,18.0,15.0,1.0,MerFR,0.0,SinFondant,1.0,Muy Alta,42.35
+69,A,Victoria Cake,18.0,15.0,1.0,MerFR,0.0,SinFondant,0.0,Sin Tematica,30.35
+70,A,Victoria Cake,18.0,15.0,1.0,MerNZ,1.0,FondantM,1.0,Basica,34.82
+71,A,Victoria Cake,18.0,15.0,1.0,MerNZ,1.0,FondantM,1.0,Media,36.82
+72,A,Victoria Cake,18.0,15.0,1.0,MerNZ,1.0,FondantM,1.0,Alta,39.82
+73,A,Victoria Cake,18.0,15.0,1.0,MerNZ,1.0,FondantM,1.0,Muy Alta,43.82
+74,A,Victoria Cake,18.0,15.0,1.0,MerNZ,1.0,FondantM,0.0,Sin Tematica,31.82
+75,A,Victoria Cake,18.0,15.0,1.0,MerNZ,0.0,SinFondant,1.0,Basica,30.82
+76,A,Victoria Cake,18.0,15.0,1.0,MerNZ,0.0,SinFondant,1.0,Media,32.82
+77,A,Victoria Cake,18.0,15.0,1.0,MerNZ,0.0,SinFondant,1.0,Alta,35.82
+78,A,Victoria Cake,18.0,15.0,1.0,MerNZ,0.0,SinFondant,1.0,Muy Alta,39.82
+79,A,Victoria Cake,18.0,15.0,1.0,MerNZ,0.0,SinFondant,0.0,Sin Tematica,27.82
+80,A,Victoria Cake,18.0,15.0,1.0,DL,1.0,FondantM,1.0,Basica,34.38
+81,A,Victoria Cake,18.0,15.0,1.0,DL,1.0,FondantM,1.0,Media,36.38
+82,A,Victoria Cake,18.0,15.0,1.0,DL,1.0,FondantM,1.0,Alta,39.38
+83,A,Victoria Cake,18.0,15.0,1.0,DL,1.0,FondantM,1.0,Muy Alta,43.38
+84,A,Victoria Cake,18.0,15.0,1.0,DL,1.0,FondantM,0.0,Sin Tematica,31.38
+85,A,Victoria Cake,18.0,15.0,1.0,DL,0.0,SinFondant,1.0,Basica,30.38
+86,A,Victoria Cake,18.0,15.0,1.0,DL,0.0,SinFondant,1.0,Media,32.38
+87,A,Victoria Cake,18.0,15.0,1.0,DL,0.0,SinFondant,1.0,Alta,35.38
+88,A,Victoria Cake,18.0,15.0,1.0,DL,0.0,SinFondant,1.0,Muy Alta,39.38
+89,A,Victoria Cake,18.0,15.0,1.0,DL,0.0,SinFondant,0.0,Sin Tematica,27.38
+90,A,Victoria Cake,18.0,15.0,1.0,MerM,1.0,FondantM,1.0,Basica,34.89
+91,A,Victoria Cake,18.0,15.0,1.0,MerM,1.0,FondantM,1.0,Media,36.89
+92,A,Victoria Cake,18.0,15.0,1.0,MerM,1.0,FondantM,1.0,Alta,39.89
+93,A,Victoria Cake,18.0,15.0,1.0,MerM,1.0,FondantM,1.0,Muy Alta,43.89
+94,A,Victoria Cake,18.0,15.0,1.0,MerM,1.0,FondantM,0.0,Sin Tematica,31.89
+95,A,Victoria Cake,18.0,15.0,1.0,MerM,0.0,SinFondant,1.0,Basica,30.89
+96,A,Victoria Cake,18.0,15.0,1.0,MerM,0.0,SinFondant,1.0,Media,32.89
+97,A,Victoria Cake,18.0,15.0,1.0,MerM,0.0,SinFondant,1.0,Alta,35.89
+98,A,Victoria Cake,18.0,15.0,1.0,MerM,0.0,SinFondant,1.0,Muy Alta,39.89
+99,A,Victoria Cake,18.0,15.0,1.0,MerM,0.0,SinFondant,0.0,Sin Tematica,27.89
+100,A,Victoria Cake,18.0,15.0,1.0,LimC,1.0,FondantM,1.0,Basica,39.89
+101,A,Victoria Cake,18.0,15.0,1.0,LimC,1.0,FondantM,1.0,Media,41.89
+102,A,Victoria Cake,18.0,15.0,1.0,LimC,1.0,FondantM,1.0,Alta,44.89
+103,A,Victoria Cake,18.0,15.0,1.0,LimC,1.0,FondantM,1.0,Muy Alta,48.89
+104,A,Victoria Cake,18.0,15.0,1.0,LimC,1.0,FondantM,0.0,Sin Tematica,36.89
+105,A,Victoria Cake,18.0,15.0,1.0,LimC,0.0,SinFondant,1.0,Basica,35.89
+106,A,Victoria Cake,18.0,15.0,1.0,LimC,0.0,SinFondant,1.0,Media,37.89
+107,A,Victoria Cake,18.0,15.0,1.0,LimC,0.0,SinFondant,1.0,Alta,40.89
+108,A,Victoria Cake,18.0,15.0,1.0,LimC,0.0,SinFondant,1.0,Muy Alta,44.89
+109,A,Victoria Cake,18.0,15.0,1.0,LimC,0.0,SinFondant,0.0,Sin Tematica,32.89
+110,A,Chocolat Cake,18.0,15.0,1.0,GN,1.0,FondantM,1.0,Basica,27.28
+111,A,Chocolat Cake,18.0,15.0,1.0,GN,1.0,FondantM,1.0,Media,29.28
+112,A,Chocolat Cake,18.0,15.0,1.0,GN,1.0,FondantM,1.0,Alta,32.28
+113,A,Chocolat Cake,18.0,15.0,1.0,GN,1.0,FondantM,1.0,Muy Alta,36.28
+114,A,Chocolat Cake,18.0,15.0,1.0,GN,1.0,FondantM,0.0,Sin Tematica,24.28
+115,A,Chocolat Cake,18.0,15.0,1.0,GN,0.0,SinFondant,1.0,Basica,23.28
+116,A,Chocolat Cake,18.0,15.0,1.0,GN,0.0,SinFondant,1.0,Media,25.28
+117,A,Chocolat Cake,18.0,15.0,1.0,GN,0.0,SinFondant,1.0,Alta,28.28
+118,A,Chocolat Cake,18.0,15.0,1.0,GN,0.0,SinFondant,1.0,Muy Alta,32.28
+119,A,Chocolat Cake,18.0,15.0,1.0,GN,0.0,SinFondant,0.0,Sin Tematica,20.28
+120,A,Chocolat Cake,18.0,15.0,1.0,GNL,1.0,FondantM,1.0,Basica,31.34
+121,A,Chocolat Cake,18.0,15.0,1.0,GNL,1.0,FondantM,1.0,Media,33.34
+122,A,Chocolat Cake,18.0,15.0,1.0,GNL,1.0,FondantM,1.0,Alta,36.34
+123,A,Chocolat Cake,18.0,15.0,1.0,GNL,1.0,FondantM,1.0,Muy Alta,40.34
+124,A,Chocolat Cake,18.0,15.0,1.0,GNL,1.0,FondantM,0.0,Sin Tematica,28.34
+125,A,Chocolat Cake,18.0,15.0,1.0,GNL,0.0,SinFondant,1.0,Basica,27.34
+126,A,Chocolat Cake,18.0,15.0,1.0,GNL,0.0,SinFondant,1.0,Media,29.34
+127,A,Chocolat Cake,18.0,15.0,1.0,GNL,0.0,SinFondant,1.0,Alta,32.34
+128,A,Chocolat Cake,18.0,15.0,1.0,GNL,0.0,SinFondant,1.0,Muy Alta,36.34
+129,A,Chocolat Cake,18.0,15.0,1.0,GNL,0.0,SinFondant,0.0,Sin Tematica,24.34
+130,A,Chocolat Cake,18.0,15.0,1.0,GB,1.0,FondantM,1.0,Basica,34.87
+131,A,Chocolat Cake,18.0,15.0,1.0,GB,1.0,FondantM,1.0,Media,36.87
+132,A,Chocolat Cake,18.0,15.0,1.0,GB,1.0,FondantM,1.0,Alta,39.87
+133,A,Chocolat Cake,18.0,15.0,1.0,GB,1.0,FondantM,1.0,Muy Alta,43.87
+134,A,Chocolat Cake,18.0,15.0,1.0,GB,1.0,FondantM,0.0,Sin Tematica,31.87
+135,A,Chocolat Cake,18.0,15.0,1.0,GB,0.0,SinFondant,1.0,Basica,30.87
+136,A,Chocolat Cake,18.0,15.0,1.0,GB,0.0,SinFondant,1.0,Media,32.87
+137,A,Chocolat Cake,18.0,15.0,1.0,GB,0.0,SinFondant,1.0,Alta,35.87
+138,A,Chocolat Cake,18.0,15.0,1.0,GB,0.0,SinFondant,1.0,Muy Alta,39.87
+139,A,Chocolat Cake,18.0,15.0,1.0,GB,0.0,SinFondant,0.0,Sin Tematica,27.87
+140,A,Chocolat Cake,18.0,15.0,1.0,BC,1.0,FondantM,1.0,Basica,40.33
+141,A,Chocolat Cake,18.0,15.0,1.0,BC,1.0,FondantM,1.0,Media,42.33
+142,A,Chocolat Cake,18.0,15.0,1.0,BC,1.0,FondantM,1.0,Alta,45.33
+143,A,Chocolat Cake,18.0,15.0,1.0,BC,1.0,FondantM,1.0,Muy Alta,49.33
+144,A,Chocolat Cake,18.0,15.0,1.0,BC,1.0,FondantM,0.0,Sin Tematica,37.33
+145,A,Chocolat Cake,18.0,15.0,1.0,BC,0.0,SinFondant,1.0,Basica,36.33
+146,A,Chocolat Cake,18.0,15.0,1.0,BC,0.0,SinFondant,1.0,Media,38.33
+147,A,Chocolat Cake,18.0,15.0,1.0,BC,0.0,SinFondant,1.0,Alta,41.33
+148,A,Chocolat Cake,18.0,15.0,1.0,BC,0.0,SinFondant,1.0,Muy Alta,45.33
+149,A,Chocolat Cake,18.0,15.0,1.0,BC,0.0,SinFondant,0.0,Sin Tematica,33.33
+150,A,Chocolat Cake,18.0,15.0,1.0,BCO,1.0,FondantM,1.0,Basica,43.28
+151,A,Chocolat Cake,18.0,15.0,1.0,BCO,1.0,FondantM,1.0,Media,45.28
+152,A,Chocolat Cake,18.0,15.0,1.0,BCO,1.0,FondantM,1.0,Alta,48.28
+153,A,Chocolat Cake,18.0,15.0,1.0,BCO,1.0,FondantM,1.0,Muy Alta,52.28
+154,A,Chocolat Cake,18.0,15.0,1.0,BCO,1.0,FondantM,0.0,Sin Tematica,40.28
+155,A,Chocolat Cake,18.0,15.0,1.0,BCO,0.0,SinFondant,1.0,Basica,39.28
+156,A,Chocolat Cake,18.0,15.0,1.0,BCO,0.0,SinFondant,1.0,Media,41.28
+157,A,Chocolat Cake,18.0,15.0,1.0,BCO,0.0,SinFondant,1.0,Alta,44.28
+158,A,Chocolat Cake,18.0,15.0,1.0,BCO,0.0,SinFondant,1.0,Muy Alta,48.28
+159,A,Chocolat Cake,18.0,15.0,1.0,BCO,0.0,SinFondant,0.0,Sin Tematica,36.28
+160,A,Chocolat Cake,18.0,15.0,1.0,MerF,1.0,FondantM,1.0,Basica,38.3
+161,A,Chocolat Cake,18.0,15.0,1.0,MerF,1.0,FondantM,1.0,Media,40.3
+162,A,Chocolat Cake,18.0,15.0,1.0,MerF,1.0,FondantM,1.0,Alta,43.3
+163,A,Chocolat Cake,18.0,15.0,1.0,MerF,1.0,FondantM,1.0,Muy Alta,47.3
+164,A,Chocolat Cake,18.0,15.0,1.0,MerF,1.0,FondantM,0.0,Sin Tematica,35.3
+165,A,Chocolat Cake,18.0,15.0,1.0,MerF,0.0,SinFondant,1.0,Basica,34.3
+166,A,Chocolat Cake,18.0,15.0,1.0,MerF,0.0,SinFondant,1.0,Media,36.3
+167,A,Chocolat Cake,18.0,15.0,1.0,MerF,0.0,SinFondant,1.0,Alta,39.3
+168,A,Chocolat Cake,18.0,15.0,1.0,MerF,0.0,SinFondant,1.0,Muy Alta,43.3
+169,A,Chocolat Cake,18.0,15.0,1.0,MerF,0.0,SinFondant,0.0,Sin Tematica,31.3
+170,A,Chocolat Cake,18.0,15.0,1.0,MerFR,1.0,FondantM,1.0,Basica,38.3
+171,A,Chocolat Cake,18.0,15.0,1.0,MerFR,1.0,FondantM,1.0,Media,40.3
+172,A,Chocolat Cake,18.0,15.0,1.0,MerFR,1.0,FondantM,1.0,Alta,43.3
+173,A,Chocolat Cake,18.0,15.0,1.0,MerFR,1.0,FondantM,1.0,Muy Alta,47.3
+174,A,Chocolat Cake,18.0,15.0,1.0,MerFR,1.0,FondantM,0.0,Sin Tematica,35.3
+175,A,Chocolat Cake,18.0,15.0,1.0,MerFR,0.0,SinFondant,1.0,Basica,34.3
+176,A,Chocolat Cake,18.0,15.0,1.0,MerFR,0.0,SinFondant,1.0,Media,36.3
+177,A,Chocolat Cake,18.0,15.0,1.0,MerFR,0.0,SinFondant,1.0,Alta,39.3
+178,A,Chocolat Cake,18.0,15.0,1.0,MerFR,0.0,SinFondant,1.0,Muy Alta,43.3
+179,A,Chocolat Cake,18.0,15.0,1.0,MerFR,0.0,SinFondant,0.0,Sin Tematica,31.3
+180,A,Chocolat Cake,18.0,15.0,1.0,MerNZ,1.0,FondantM,1.0,Basica,35.77
+181,A,Chocolat Cake,18.0,15.0,1.0,MerNZ,1.0,FondantM,1.0,Media,37.77
+182,A,Chocolat Cake,18.0,15.0,1.0,MerNZ,1.0,FondantM,1.0,Alta,40.77
+183,A,Chocolat Cake,18.0,15.0,1.0,MerNZ,1.0,FondantM,1.0,Muy Alta,44.77
+184,A,Chocolat Cake,18.0,15.0,1.0,MerNZ,1.0,FondantM,0.0,Sin Tematica,32.77
+185,A,Chocolat Cake,18.0,15.0,1.0,MerNZ,0.0,SinFondant,1.0,Basica,31.77
+186,A,Chocolat Cake,18.0,15.0,1.0,MerNZ,0.0,SinFondant,1.0,Media,33.77
+187,A,Chocolat Cake,18.0,15.0,1.0,MerNZ,0.0,SinFondant,1.0,Alta,36.77
+188,A,Chocolat Cake,18.0,15.0,1.0,MerNZ,0.0,SinFondant,1.0,Muy Alta,40.77
+189,A,Chocolat Cake,18.0,15.0,1.0,MerNZ,0.0,SinFondant,0.0,Sin Tematica,28.77
+190,A,Chocolat Cake,18.0,15.0,1.0,DL,1.0,FondantM,1.0,Basica,35.32
+191,A,Chocolat Cake,18.0,15.0,1.0,DL,1.0,FondantM,1.0,Media,37.32
+192,A,Chocolat Cake,18.0,15.0,1.0,DL,1.0,FondantM,1.0,Alta,40.32
+193,A,Chocolat Cake,18.0,15.0,1.0,DL,1.0,FondantM,1.0,Muy Alta,44.32
+194,A,Chocolat Cake,18.0,15.0,1.0,DL,1.0,FondantM,0.0,Sin Tematica,32.32
+195,A,Chocolat Cake,18.0,15.0,1.0,DL,0.0,SinFondant,1.0,Basica,31.32
+196,A,Chocolat Cake,18.0,15.0,1.0,DL,0.0,SinFondant,1.0,Media,33.32
+197,A,Chocolat Cake,18.0,15.0,1.0,DL,0.0,SinFondant,1.0,Alta,36.32
+198,A,Chocolat Cake,18.0,15.0,1.0,DL,0.0,SinFondant,1.0,Muy Alta,40.32
+199,A,Chocolat Cake,18.0,15.0,1.0,DL,0.0,SinFondant,0.0,Sin Tematica,28.32
+200,A,Chocolat Cake,18.0,15.0,1.0,MerM,1.0,FondantM,1.0,Basica,35.84
+201,A,Chocolat Cake,18.0,15.0,1.0,MerM,1.0,FondantM,1.0,Media,37.84
+202,A,Chocolat Cake,18.0,15.0,1.0,MerM,1.0,FondantM,1.0,Alta,40.84
+203,A,Chocolat Cake,18.0,15.0,1.0,MerM,1.0,FondantM,1.0,Muy Alta,44.84
+204,A,Chocolat Cake,18.0,15.0,1.0,MerM,1.0,FondantM,0.0,Sin Tematica,32.84
+205,A,Chocolat Cake,18.0,15.0,1.0,MerM,0.0,SinFondant,1.0,Basica,31.84
+206,A,Chocolat Cake,18.0,15.0,1.0,MerM,0.0,SinFondant,1.0,Media,33.84
+207,A,Chocolat Cake,18.0,15.0,1.0,MerM,0.0,SinFondant,1.0,Alta,36.84
+208,A,Chocolat Cake,18.0,15.0,1.0,MerM,0.0,SinFondant,1.0,Muy Alta,40.84
+209,A,Chocolat Cake,18.0,15.0,1.0,MerM,0.0,SinFondant,0.0,Sin Tematica,28.84
+210,A,Chocolat Cake,18.0,15.0,1.0,LimC,1.0,FondantM,1.0,Basica,40.84
+211,A,Chocolat Cake,18.0,15.0,1.0,LimC,1.0,FondantM,1.0,Media,42.84
+212,A,Chocolat Cake,18.0,15.0,1.0,LimC,1.0,FondantM,1.0,Alta,45.84
+213,A,Chocolat Cake,18.0,15.0,1.0,LimC,1.0,FondantM,1.0,Muy Alta,49.84
+214,A,Chocolat Cake,18.0,15.0,1.0,LimC,1.0,FondantM,0.0,Sin Tematica,37.84
+215,A,Chocolat Cake,18.0,15.0,1.0,LimC,0.0,SinFondant,1.0,Basica,36.84
+216,A,Chocolat Cake,18.0,15.0,1.0,LimC,0.0,SinFondant,1.0,Media,38.84
+217,A,Chocolat Cake,18.0,15.0,1.0,LimC,0.0,SinFondant,1.0,Alta,41.84
+218,A,Chocolat Cake,18.0,15.0,1.0,LimC,0.0,SinFondant,1.0,Muy Alta,45.84
+219,A,Chocolat Cake,18.0,15.0,1.0,LimC,0.0,SinFondant,0.0,Sin Tematica,33.84
+220,A,Oreo Cake,18.0,15.0,1.0,GN,1.0,FondantM,1.0,Basica,21.3
+221,A,Oreo Cake,18.0,15.0,1.0,GN,1.0,FondantM,1.0,Media,23.3
+222,A,Oreo Cake,18.0,15.0,1.0,GN,1.0,FondantM,1.0,Alta,26.3
+223,A,Oreo Cake,18.0,15.0,1.0,GN,1.0,FondantM,1.0,Muy Alta,30.3
+224,A,Oreo Cake,18.0,15.0,1.0,GN,1.0,FondantM,0.0,Sin Tematica,18.3
+225,A,Oreo Cake,18.0,15.0,1.0,GN,0.0,SinFondant,1.0,Basica,17.3
+226,A,Oreo Cake,18.0,15.0,1.0,GN,0.0,SinFondant,1.0,Media,19.3
+227,A,Oreo Cake,18.0,15.0,1.0,GN,0.0,SinFondant,1.0,Alta,22.3
+228,A,Oreo Cake,18.0,15.0,1.0,GN,0.0,SinFondant,1.0,Muy Alta,26.3
+229,A,Oreo Cake,18.0,15.0,1.0,GN,0.0,SinFondant,0.0,Sin Tematica,14.3
+230,A,Oreo Cake,18.0,15.0,1.0,GNL,1.0,FondantM,1.0,Basica,25.37
+231,A,Oreo Cake,18.0,15.0,1.0,GNL,1.0,FondantM,1.0,Media,27.37
+232,A,Oreo Cake,18.0,15.0,1.0,GNL,1.0,FondantM,1.0,Alta,30.37
+233,A,Oreo Cake,18.0,15.0,1.0,GNL,1.0,FondantM,1.0,Muy Alta,34.37
+234,A,Oreo Cake,18.0,15.0,1.0,GNL,1.0,FondantM,0.0,Sin Tematica,22.37
+235,A,Oreo Cake,18.0,15.0,1.0,GNL,0.0,SinFondant,1.0,Basica,21.37
+236,A,Oreo Cake,18.0,15.0,1.0,GNL,0.0,SinFondant,1.0,Media,23.37
+237,A,Oreo Cake,18.0,15.0,1.0,GNL,0.0,SinFondant,1.0,Alta,26.37
+238,A,Oreo Cake,18.0,15.0,1.0,GNL,0.0,SinFondant,1.0,Muy Alta,30.37
+239,A,Oreo Cake,18.0,15.0,1.0,GNL,0.0,SinFondant,0.0,Sin Tematica,18.37
+240,A,Oreo Cake,18.0,15.0,1.0,GB,1.0,FondantM,1.0,Basica,28.89
+241,A,Oreo Cake,18.0,15.0,1.0,GB,1.0,FondantM,1.0,Media,30.89
+242,A,Oreo Cake,18.0,15.0,1.0,GB,1.0,FondantM,1.0,Alta,33.89
+243,A,Oreo Cake,18.0,15.0,1.0,GB,1.0,FondantM,1.0,Muy Alta,37.89
+244,A,Oreo Cake,18.0,15.0,1.0,GB,1.0,FondantM,0.0,Sin Tematica,25.89
+245,A,Oreo Cake,18.0,15.0,1.0,GB,0.0,SinFondant,1.0,Basica,24.89
+246,A,Oreo Cake,18.0,15.0,1.0,GB,0.0,SinFondant,1.0,Media,26.89
+247,A,Oreo Cake,18.0,15.0,1.0,GB,0.0,SinFondant,1.0,Alta,29.89
+248,A,Oreo Cake,18.0,15.0,1.0,GB,0.0,SinFondant,1.0,Muy Alta,33.89
+249,A,Oreo Cake,18.0,15.0,1.0,GB,0.0,SinFondant,0.0,Sin Tematica,21.89
+250,A,Oreo Cake,18.0,15.0,1.0,BC,1.0,FondantM,1.0,Basica,34.35
+251,A,Oreo Cake,18.0,15.0,1.0,BC,1.0,FondantM,1.0,Media,36.35
+252,A,Oreo Cake,18.0,15.0,1.0,BC,1.0,FondantM,1.0,Alta,39.35
+253,A,Oreo Cake,18.0,15.0,1.0,BC,1.0,FondantM,1.0,Muy Alta,43.35
+254,A,Oreo Cake,18.0,15.0,1.0,BC,1.0,FondantM,0.0,Sin Tematica,31.35
+255,A,Oreo Cake,18.0,15.0,1.0,BC,0.0,SinFondant,1.0,Basica,30.35
+256,A,Oreo Cake,18.0,15.0,1.0,BC,0.0,SinFondant,1.0,Media,32.35
+257,A,Oreo Cake,18.0,15.0,1.0,BC,0.0,SinFondant,1.0,Alta,35.35
+258,A,Oreo Cake,18.0,15.0,1.0,BC,0.0,SinFondant,1.0,Muy Alta,39.35
+259,A,Oreo Cake,18.0,15.0,1.0,BC,0.0,SinFondant,0.0,Sin Tematica,27.35
+260,A,Oreo Cake,18.0,15.0,1.0,BCO,1.0,FondantM,1.0,Basica,37.3
+261,A,Oreo Cake,18.0,15.0,1.0,BCO,1.0,FondantM,1.0,Media,39.3
+262,A,Oreo Cake,18.0,15.0,1.0,BCO,1.0,FondantM,1.0,Alta,42.3
+263,A,Oreo Cake,18.0,15.0,1.0,BCO,1.0,FondantM,1.0,Muy Alta,46.3
+264,A,Oreo Cake,18.0,15.0,1.0,BCO,1.0,FondantM,0.0,Sin Tematica,34.3
+265,A,Oreo Cake,18.0,15.0,1.0,BCO,0.0,SinFondant,1.0,Basica,33.3
+266,A,Oreo Cake,18.0,15.0,1.0,BCO,0.0,SinFondant,1.0,Media,35.3
+267,A,Oreo Cake,18.0,15.0,1.0,BCO,0.0,SinFondant,1.0,Alta,38.3
+268,A,Oreo Cake,18.0,15.0,1.0,BCO,0.0,SinFondant,1.0,Muy Alta,42.3
+269,A,Oreo Cake,18.0,15.0,1.0,BCO,0.0,SinFondant,0.0,Sin Tematica,30.3
+270,A,Oreo Cake,18.0,15.0,1.0,MerF,1.0,FondantM,1.0,Basica,32.32
+271,A,Oreo Cake,18.0,15.0,1.0,MerF,1.0,FondantM,1.0,Media,34.32
+272,A,Oreo Cake,18.0,15.0,1.0,MerF,1.0,FondantM,1.0,Alta,37.32
+273,A,Oreo Cake,18.0,15.0,1.0,MerF,1.0,FondantM,1.0,Muy Alta,41.32
+274,A,Oreo Cake,18.0,15.0,1.0,MerF,1.0,FondantM,0.0,Sin Tematica,29.32
+275,A,Oreo Cake,18.0,15.0,1.0,MerF,0.0,SinFondant,1.0,Basica,28.32
+276,A,Oreo Cake,18.0,15.0,1.0,MerF,0.0,SinFondant,1.0,Media,30.32
+277,A,Oreo Cake,18.0,15.0,1.0,MerF,0.0,SinFondant,1.0,Alta,33.32
+278,A,Oreo Cake,18.0,15.0,1.0,MerF,0.0,SinFondant,1.0,Muy Alta,37.32
+279,A,Oreo Cake,18.0,15.0,1.0,MerF,0.0,SinFondant,0.0,Sin Tematica,25.32
+280,A,Oreo Cake,18.0,15.0,1.0,MerFR,1.0,FondantM,1.0,Basica,32.32
+281,A,Oreo Cake,18.0,15.0,1.0,MerFR,1.0,FondantM,1.0,Media,34.32
+282,A,Oreo Cake,18.0,15.0,1.0,MerFR,1.0,FondantM,1.0,Alta,37.32
+283,A,Oreo Cake,18.0,15.0,1.0,MerFR,1.0,FondantM,1.0,Muy Alta,41.32
+284,A,Oreo Cake,18.0,15.0,1.0,MerFR,1.0,FondantM,0.0,Sin Tematica,29.32
+285,A,Oreo Cake,18.0,15.0,1.0,MerFR,0.0,SinFondant,1.0,Basica,28.32
+286,A,Oreo Cake,18.0,15.0,1.0,MerFR,0.0,SinFondant,1.0,Media,30.32
+287,A,Oreo Cake,18.0,15.0,1.0,MerFR,0.0,SinFondant,1.0,Alta,33.32
+288,A,Oreo Cake,18.0,15.0,1.0,MerFR,0.0,SinFondant,1.0,Muy Alta,37.32
+289,A,Oreo Cake,18.0,15.0,1.0,MerFR,0.0,SinFondant,0.0,Sin Tematica,25.32
+290,A,Oreo Cake,18.0,15.0,1.0,MerNZ,1.0,FondantM,1.0,Basica,29.79
+291,A,Oreo Cake,18.0,15.0,1.0,MerNZ,1.0,FondantM,1.0,Media,31.79
+292,A,Oreo Cake,18.0,15.0,1.0,MerNZ,1.0,FondantM,1.0,Alta,34.79
+293,A,Oreo Cake,18.0,15.0,1.0,MerNZ,1.0,FondantM,1.0,Muy Alta,38.79
+294,A,Oreo Cake,18.0,15.0,1.0,MerNZ,1.0,FondantM,0.0,Sin Tematica,26.79
+295,A,Oreo Cake,18.0,15.0,1.0,MerNZ,0.0,SinFondant,1.0,Basica,25.79
+296,A,Oreo Cake,18.0,15.0,1.0,MerNZ,0.0,SinFondant,1.0,Media,27.79
+297,A,Oreo Cake,18.0,15.0,1.0,MerNZ,0.0,SinFondant,1.0,Alta,30.79
+298,A,Oreo Cake,18.0,15.0,1.0,MerNZ,0.0,SinFondant,1.0,Muy Alta,34.79
+299,A,Oreo Cake,18.0,15.0,1.0,MerNZ,0.0,SinFondant,0.0,Sin Tematica,22.79
+300,A,Oreo Cake,18.0,15.0,1.0,DL,1.0,FondantM,1.0,Basica,29.34
+301,A,Oreo Cake,18.0,15.0,1.0,DL,1.0,FondantM,1.0,Media,31.34
+302,A,Oreo Cake,18.0,15.0,1.0,DL,1.0,FondantM,1.0,Alta,34.34
+303,A,Oreo Cake,18.0,15.0,1.0,DL,1.0,FondantM,1.0,Muy Alta,38.34
+304,A,Oreo Cake,18.0,15.0,1.0,DL,1.0,FondantM,0.0,Sin Tematica,26.34
+305,A,Oreo Cake,18.0,15.0,1.0,DL,0.0,SinFondant,1.0,Basica,25.34
+306,A,Oreo Cake,18.0,15.0,1.0,DL,0.0,SinFondant,1.0,Media,27.34
+307,A,Oreo Cake,18.0,15.0,1.0,DL,0.0,SinFondant,1.0,Alta,30.34
+308,A,Oreo Cake,18.0,15.0,1.0,DL,0.0,SinFondant,1.0,Muy Alta,34.34
+309,A,Oreo Cake,18.0,15.0,1.0,DL,0.0,SinFondant,0.0,Sin Tematica,22.34
+310,A,Oreo Cake,18.0,15.0,1.0,MerM,1.0,FondantM,1.0,Basica,29.86
+311,A,Oreo Cake,18.0,15.0,1.0,MerM,1.0,FondantM,1.0,Media,31.86
+312,A,Oreo Cake,18.0,15.0,1.0,MerM,1.0,FondantM,1.0,Alta,34.86
+313,A,Oreo Cake,18.0,15.0,1.0,MerM,1.0,FondantM,1.0,Muy Alta,38.86
+314,A,Oreo Cake,18.0,15.0,1.0,MerM,1.0,FondantM,0.0,Sin Tematica,26.86
+315,A,Oreo Cake,18.0,15.0,1.0,MerM,0.0,SinFondant,1.0,Basica,25.86
+316,A,Oreo Cake,18.0,15.0,1.0,MerM,0.0,SinFondant,1.0,Media,27.86
+317,A,Oreo Cake,18.0,15.0,1.0,MerM,0.0,SinFondant,1.0,Alta,30.86
+318,A,Oreo Cake,18.0,15.0,1.0,MerM,0.0,SinFondant,1.0,Muy Alta,34.86
+319,A,Oreo Cake,18.0,15.0,1.0,MerM,0.0,SinFondant,0.0,Sin Tematica,22.86
+320,A,Oreo Cake,18.0,15.0,1.0,LimC,1.0,FondantM,1.0,Basica,34.86
+321,A,Oreo Cake,18.0,15.0,1.0,LimC,1.0,FondantM,1.0,Media,36.86
+322,A,Oreo Cake,18.0,15.0,1.0,LimC,1.0,FondantM,1.0,Alta,39.86
+323,A,Oreo Cake,18.0,15.0,1.0,LimC,1.0,FondantM,1.0,Muy Alta,43.86
+324,A,Oreo Cake,18.0,15.0,1.0,LimC,1.0,FondantM,0.0,Sin Tematica,31.86
+325,A,Oreo Cake,18.0,15.0,1.0,LimC,0.0,SinFondant,1.0,Basica,30.86
+326,A,Oreo Cake,18.0,15.0,1.0,LimC,0.0,SinFondant,1.0,Media,32.86
+327,A,Oreo Cake,18.0,15.0,1.0,LimC,0.0,SinFondant,1.0,Alta,35.86
+328,A,Oreo Cake,18.0,15.0,1.0,LimC,0.0,SinFondant,1.0,Muy Alta,39.86
+329,A,Oreo Cake,18.0,15.0,1.0,LimC,0.0,SinFondant,0.0,Sin Tematica,27.86
+330,A,ReDVelvet Cake,18.0,15.0,1.0,GN,1.0,FondantM,1.0,Basica,51.86
+331,A,ReDVelvet Cake,18.0,15.0,1.0,GN,1.0,FondantM,1.0,Media,53.86
+332,A,ReDVelvet Cake,18.0,15.0,1.0,GN,1.0,FondantM,1.0,Alta,56.86
+333,A,ReDVelvet Cake,18.0,15.0,1.0,GN,1.0,FondantM,1.0,Muy Alta,60.86
+334,A,ReDVelvet Cake,18.0,15.0,1.0,GN,1.0,FondantM,0.0,Sin Tematica,48.86
+335,A,ReDVelvet Cake,18.0,15.0,1.0,GN,0.0,SinFondant,1.0,Basica,47.86
+336,A,ReDVelvet Cake,18.0,15.0,1.0,GN,0.0,SinFondant,1.0,Media,49.86
+337,A,ReDVelvet Cake,18.0,15.0,1.0,GN,0.0,SinFondant,1.0,Alta,52.86
+338,A,ReDVelvet Cake,18.0,15.0,1.0,GN,0.0,SinFondant,1.0,Muy Alta,56.86
+339,A,ReDVelvet Cake,18.0,15.0,1.0,GN,0.0,SinFondant,0.0,Sin Tematica,44.86
+340,A,ReDVelvet Cake,18.0,15.0,1.0,GNL,1.0,FondantM,1.0,Basica,55.93
+341,A,ReDVelvet Cake,18.0,15.0,1.0,GNL,1.0,FondantM,1.0,Media,57.93
+342,A,ReDVelvet Cake,18.0,15.0,1.0,GNL,1.0,FondantM,1.0,Alta,60.93
+343,A,ReDVelvet Cake,18.0,15.0,1.0,GNL,1.0,FondantM,1.0,Muy Alta,64.93
+344,A,ReDVelvet Cake,18.0,15.0,1.0,GNL,1.0,FondantM,0.0,Sin Tematica,52.93
+345,A,ReDVelvet Cake,18.0,15.0,1.0,GNL,0.0,SinFondant,1.0,Basica,51.93
+346,A,ReDVelvet Cake,18.0,15.0,1.0,GNL,0.0,SinFondant,1.0,Media,53.93
+347,A,ReDVelvet Cake,18.0,15.0,1.0,GNL,0.0,SinFondant,1.0,Alta,56.93
+348,A,ReDVelvet Cake,18.0,15.0,1.0,GNL,0.0,SinFondant,1.0,Muy Alta,60.93
+349,A,ReDVelvet Cake,18.0,15.0,1.0,GNL,0.0,SinFondant,0.0,Sin Tematica,48.93
+350,A,ReDVelvet Cake,18.0,15.0,1.0,GB,1.0,FondantM,1.0,Basica,59.45
+351,A,ReDVelvet Cake,18.0,15.0,1.0,GB,1.0,FondantM,1.0,Media,61.45
+352,A,ReDVelvet Cake,18.0,15.0,1.0,GB,1.0,FondantM,1.0,Alta,64.45
+353,A,ReDVelvet Cake,18.0,15.0,1.0,GB,1.0,FondantM,1.0,Muy Alta,68.45
+354,A,ReDVelvet Cake,18.0,15.0,1.0,GB,1.0,FondantM,0.0,Sin Tematica,56.45
+355,A,ReDVelvet Cake,18.0,15.0,1.0,GB,0.0,SinFondant,1.0,Basica,55.45
+356,A,ReDVelvet Cake,18.0,15.0,1.0,GB,0.0,SinFondant,1.0,Media,57.45
+357,A,ReDVelvet Cake,18.0,15.0,1.0,GB,0.0,SinFondant,1.0,Alta,60.45
+358,A,ReDVelvet Cake,18.0,15.0,1.0,GB,0.0,SinFondant,1.0,Muy Alta,64.45
+359,A,ReDVelvet Cake,18.0,15.0,1.0,GB,0.0,SinFondant,0.0,Sin Tematica,52.45
+360,A,ReDVelvet Cake,18.0,15.0,1.0,BC,1.0,FondantM,1.0,Basica,64.91
+361,A,ReDVelvet Cake,18.0,15.0,1.0,BC,1.0,FondantM,1.0,Media,66.91
+362,A,ReDVelvet Cake,18.0,15.0,1.0,BC,1.0,FondantM,1.0,Alta,69.91
+363,A,ReDVelvet Cake,18.0,15.0,1.0,BC,1.0,FondantM,1.0,Muy Alta,73.91
+364,A,ReDVelvet Cake,18.0,15.0,1.0,BC,1.0,FondantM,0.0,Sin Tematica,61.91
+365,A,ReDVelvet Cake,18.0,15.0,1.0,BC,0.0,SinFondant,1.0,Basica,60.91
+366,A,ReDVelvet Cake,18.0,15.0,1.0,BC,0.0,SinFondant,1.0,Media,62.91
+367,A,ReDVelvet Cake,18.0,15.0,1.0,BC,0.0,SinFondant,1.0,Alta,65.91
+368,A,ReDVelvet Cake,18.0,15.0,1.0,BC,0.0,SinFondant,1.0,Muy Alta,69.91
+369,A,ReDVelvet Cake,18.0,15.0,1.0,BC,0.0,SinFondant,0.0,Sin Tematica,57.91
+370,A,ReDVelvet Cake,18.0,15.0,1.0,BCO,1.0,FondantM,1.0,Basica,67.86
+371,A,ReDVelvet Cake,18.0,15.0,1.0,BCO,1.0,FondantM,1.0,Media,69.86
+372,A,ReDVelvet Cake,18.0,15.0,1.0,BCO,1.0,FondantM,1.0,Alta,72.86
+373,A,ReDVelvet Cake,18.0,15.0,1.0,BCO,1.0,FondantM,1.0,Muy Alta,76.86
+374,A,ReDVelvet Cake,18.0,15.0,1.0,BCO,1.0,FondantM,0.0,Sin Tematica,64.86
+375,A,ReDVelvet Cake,18.0,15.0,1.0,BCO,0.0,SinFondant,1.0,Basica,63.86
+376,A,ReDVelvet Cake,18.0,15.0,1.0,BCO,0.0,SinFondant,1.0,Media,65.86
+377,A,ReDVelvet Cake,18.0,15.0,1.0,BCO,0.0,SinFondant,1.0,Alta,68.86
+378,A,ReDVelvet Cake,18.0,15.0,1.0,BCO,0.0,SinFondant,1.0,Muy Alta,72.86
+379,A,ReDVelvet Cake,18.0,15.0,1.0,BCO,0.0,SinFondant,0.0,Sin Tematica,60.86
+380,A,ReDVelvet Cake,18.0,15.0,1.0,MerF,1.0,FondantM,1.0,Basica,62.88
+381,A,ReDVelvet Cake,18.0,15.0,1.0,MerF,1.0,FondantM,1.0,Media,64.88
+382,A,ReDVelvet Cake,18.0,15.0,1.0,MerF,1.0,FondantM,1.0,Alta,67.88
+383,A,ReDVelvet Cake,18.0,15.0,1.0,MerF,1.0,FondantM,1.0,Muy Alta,71.88
+384,A,ReDVelvet Cake,18.0,15.0,1.0,MerF,1.0,FondantM,0.0,Sin Tematica,59.88
+385,A,ReDVelvet Cake,18.0,15.0,1.0,MerF,0.0,SinFondant,1.0,Basica,58.88
+386,A,ReDVelvet Cake,18.0,15.0,1.0,MerF,0.0,SinFondant,1.0,Media,60.88
+387,A,ReDVelvet Cake,18.0,15.0,1.0,MerF,0.0,SinFondant,1.0,Alta,63.88
+388,A,ReDVelvet Cake,18.0,15.0,1.0,MerF,0.0,SinFondant,1.0,Muy Alta,67.88
+389,A,ReDVelvet Cake,18.0,15.0,1.0,MerF,0.0,SinFondant,0.0,Sin Tematica,55.88
+390,A,ReDVelvet Cake,18.0,15.0,1.0,MerFR,1.0,FondantM,1.0,Basica,62.88
+391,A,ReDVelvet Cake,18.0,15.0,1.0,MerFR,1.0,FondantM,1.0,Media,64.88
+392,A,ReDVelvet Cake,18.0,15.0,1.0,MerFR,1.0,FondantM,1.0,Alta,67.88
+393,A,ReDVelvet Cake,18.0,15.0,1.0,MerFR,1.0,FondantM,1.0,Muy Alta,71.88
+394,A,ReDVelvet Cake,18.0,15.0,1.0,MerFR,1.0,FondantM,0.0,Sin Tematica,59.88
+395,A,ReDVelvet Cake,18.0,15.0,1.0,MerFR,0.0,SinFondant,1.0,Basica,58.88
+396,A,ReDVelvet Cake,18.0,15.0,1.0,MerFR,0.0,SinFondant,1.0,Media,60.88
+397,A,ReDVelvet Cake,18.0,15.0,1.0,MerFR,0.0,SinFondant,1.0,Alta,63.88
+398,A,ReDVelvet Cake,18.0,15.0,1.0,MerFR,0.0,SinFondant,1.0,Muy Alta,67.88
+399,A,ReDVelvet Cake,18.0,15.0,1.0,MerFR,0.0,SinFondant,0.0,Sin Tematica,55.88
+400,A,ReDVelvet Cake,18.0,15.0,1.0,MerNZ,1.0,FondantM,1.0,Basica,60.35
+401,A,ReDVelvet Cake,18.0,15.0,1.0,MerNZ,1.0,FondantM,1.0,Media,62.35
+402,A,ReDVelvet Cake,18.0,15.0,1.0,MerNZ,1.0,FondantM,1.0,Alta,65.35
+403,A,ReDVelvet Cake,18.0,15.0,1.0,MerNZ,1.0,FondantM,1.0,Muy Alta,69.35
+404,A,ReDVelvet Cake,18.0,15.0,1.0,MerNZ,1.0,FondantM,0.0,Sin Tematica,57.35
+405,A,ReDVelvet Cake,18.0,15.0,1.0,MerNZ,0.0,SinFondant,1.0,Basica,56.35
+406,A,ReDVelvet Cake,18.0,15.0,1.0,MerNZ,0.0,SinFondant,1.0,Media,58.35
+407,A,ReDVelvet Cake,18.0,15.0,1.0,MerNZ,0.0,SinFondant,1.0,Alta,61.35
+408,A,ReDVelvet Cake,18.0,15.0,1.0,MerNZ,0.0,SinFondant,1.0,Muy Alta,65.35
+409,A,ReDVelvet Cake,18.0,15.0,1.0,MerNZ,0.0,SinFondant,0.0,Sin Tematica,53.35
+410,A,ReDVelvet Cake,18.0,15.0,1.0,DL,1.0,FondantM,1.0,Basica,59.9
+411,A,ReDVelvet Cake,18.0,15.0,1.0,DL,1.0,FondantM,1.0,Media,61.9
+412,A,ReDVelvet Cake,18.0,15.0,1.0,DL,1.0,FondantM,1.0,Alta,64.9
+413,A,ReDVelvet Cake,18.0,15.0,1.0,DL,1.0,FondantM,1.0,Muy Alta,68.9
+414,A,ReDVelvet Cake,18.0,15.0,1.0,DL,1.0,FondantM,0.0,Sin Tematica,56.9
+415,A,ReDVelvet Cake,18.0,15.0,1.0,DL,0.0,SinFondant,1.0,Basica,55.9
+416,A,ReDVelvet Cake,18.0,15.0,1.0,DL,0.0,SinFondant,1.0,Media,57.9
+417,A,ReDVelvet Cake,18.0,15.0,1.0,DL,0.0,SinFondant,1.0,Alta,60.9
+418,A,ReDVelvet Cake,18.0,15.0,1.0,DL,0.0,SinFondant,1.0,Muy Alta,64.9
+419,A,ReDVelvet Cake,18.0,15.0,1.0,DL,0.0,SinFondant,0.0,Sin Tematica,52.9
+420,A,ReDVelvet Cake,18.0,15.0,1.0,MerM,1.0,FondantM,1.0,Basica,60.42
+421,A,ReDVelvet Cake,18.0,15.0,1.0,MerM,1.0,FondantM,1.0,Media,62.42
+422,A,ReDVelvet Cake,18.0,15.0,1.0,MerM,1.0,FondantM,1.0,Alta,65.42
+423,A,ReDVelvet Cake,18.0,15.0,1.0,MerM,1.0,FondantM,1.0,Muy Alta,69.42
+424,A,ReDVelvet Cake,18.0,15.0,1.0,MerM,1.0,FondantM,0.0,Sin Tematica,57.42
+425,A,ReDVelvet Cake,18.0,15.0,1.0,MerM,0.0,SinFondant,1.0,Basica,56.42
+426,A,ReDVelvet Cake,18.0,15.0,1.0,MerM,0.0,SinFondant,1.0,Media,58.42
+427,A,ReDVelvet Cake,18.0,15.0,1.0,MerM,0.0,SinFondant,1.0,Alta,61.42
+428,A,ReDVelvet Cake,18.0,15.0,1.0,MerM,0.0,SinFondant,1.0,Muy Alta,65.42
+429,A,ReDVelvet Cake,18.0,15.0,1.0,MerM,0.0,SinFondant,0.0,Sin Tematica,53.42
+430,A,ReDVelvet Cake,18.0,15.0,1.0,LimC,1.0,FondantM,1.0,Basica,65.42
+431,A,ReDVelvet Cake,18.0,15.0,1.0,LimC,1.0,FondantM,1.0,Media,67.42
+432,A,ReDVelvet Cake,18.0,15.0,1.0,LimC,1.0,FondantM,1.0,Alta,70.42
+433,A,ReDVelvet Cake,18.0,15.0,1.0,LimC,1.0,FondantM,1.0,Muy Alta,74.42
+434,A,ReDVelvet Cake,18.0,15.0,1.0,LimC,1.0,FondantM,0.0,Sin Tematica,62.42
+435,A,ReDVelvet Cake,18.0,15.0,1.0,LimC,0.0,SinFondant,1.0,Basica,61.42
+436,A,ReDVelvet Cake,18.0,15.0,1.0,LimC,0.0,SinFondant,1.0,Media,63.42
+437,A,ReDVelvet Cake,18.0,15.0,1.0,LimC,0.0,SinFondant,1.0,Alta,66.42
+438,A,ReDVelvet Cake,18.0,15.0,1.0,LimC,0.0,SinFondant,1.0,Muy Alta,70.42
+439,A,ReDVelvet Cake,18.0,15.0,1.0,LimC,0.0,SinFondant,0.0,Sin Tematica,58.42
+440,A,NPDCake,18.0,15.0,1.0,DL,1.0,FondantM,1.0,Basica,40.89
+441,A,NPDCake,18.0,15.0,1.0,DL,1.0,FondantM,1.0,Media,42.89
+442,A,NPDCake,18.0,15.0,1.0,DL,1.0,FondantM,1.0,Alta,45.89
+443,A,NPDCake,18.0,15.0,1.0,DL,1.0,FondantM,1.0,Muy Alta,49.89
+444,A,NPDCake,18.0,15.0,1.0,DL,1.0,FondantM,0.0,Sin Tematica,37.89
+445,A,NPDCake,18.0,15.0,1.0,DL,0.0,SinFondant,1.0,Basica,36.89
+446,A,NPDCake,18.0,15.0,1.0,DL,0.0,SinFondant,1.0,Media,38.89
+447,A,NPDCake,18.0,15.0,1.0,DL,0.0,SinFondant,1.0,Alta,41.89
+448,A,NPDCake,18.0,15.0,1.0,DL,0.0,SinFondant,1.0,Muy Alta,45.89
+449,A,NPDCake,18.0,15.0,1.0,DL,0.0,SinFondant,0.0,Sin Tematica,33.89
+450,A,NPDCake,18.0,15.0,1.0,BC,1.0,FondantM,1.0,Basica,45.9
+451,A,NPDCake,18.0,15.0,1.0,BC,1.0,FondantM,1.0,Media,47.9
+452,A,NPDCake,18.0,15.0,1.0,BC,1.0,FondantM,1.0,Alta,50.9
+453,A,NPDCake,18.0,15.0,1.0,BC,1.0,FondantM,1.0,Muy Alta,54.9
+454,A,NPDCake,18.0,15.0,1.0,BC,1.0,FondantM,0.0,Sin Tematica,42.9
+455,A,NPDCake,18.0,15.0,1.0,BC,0.0,SinFondant,1.0,Basica,41.9
+456,A,NPDCake,18.0,15.0,1.0,BC,0.0,SinFondant,1.0,Media,43.9
+457,A,NPDCake,18.0,15.0,1.0,BC,0.0,SinFondant,1.0,Alta,46.9
+458,A,NPDCake,18.0,15.0,1.0,BC,0.0,SinFondant,1.0,Muy Alta,50.9
+459,A,NPDCake,18.0,15.0,1.0,BC,0.0,SinFondant,0.0,Sin Tematica,38.9
+460,A,NSA Cake,18.0,15.0,1.0,BC,1.0,FondantM,1.0,Basica,63.15
+461,A,NSA Cake,18.0,15.0,1.0,BC,1.0,FondantM,1.0,Media,65.15
+462,A,NSA Cake,18.0,15.0,1.0,BC,1.0,FondantM,1.0,Alta,68.15
+463,A,NSA Cake,18.0,15.0,1.0,BC,1.0,FondantM,1.0,Muy Alta,72.15
+464,A,NSA Cake,18.0,15.0,1.0,BC,1.0,FondantM,0.0,Sin Tematica,60.15
+465,A,NSA Cake,18.0,15.0,1.0,BC,0.0,SinFondant,1.0,Basica,59.15
+466,A,NSA Cake,18.0,15.0,1.0,BC,0.0,SinFondant,1.0,Media,61.15
+467,A,NSA Cake,18.0,15.0,1.0,BC,0.0,SinFondant,1.0,Alta,64.15
+468,A,NSA Cake,18.0,15.0,1.0,BC,0.0,SinFondant,1.0,Muy Alta,68.15
+469,A,NSA Cake,18.0,15.0,1.0,BC,0.0,SinFondant,0.0,Sin Tematica,56.15
+470,A,NSA Cake,18.0,15.0,1.0,GN,1.0,FondantM,1.0,Basica,50.09
+471,A,NSA Cake,18.0,15.0,1.0,GN,1.0,FondantM,1.0,Media,52.09
+472,A,NSA Cake,18.0,15.0,1.0,GN,1.0,FondantM,1.0,Alta,55.09
+473,A,NSA Cake,18.0,15.0,1.0,GN,1.0,FondantM,1.0,Muy Alta,59.09
+474,A,NSA Cake,18.0,15.0,1.0,GN,1.0,FondantM,0.0,Sin Tematica,47.09
+475,A,NSA Cake,18.0,15.0,1.0,GN,0.0,SinFondant,1.0,Basica,46.09
+476,A,NSA Cake,18.0,15.0,1.0,GN,0.0,SinFondant,1.0,Media,48.09
+477,A,NSA Cake,18.0,15.0,1.0,GN,0.0,SinFondant,1.0,Alta,51.09
+478,A,NSA Cake,18.0,15.0,1.0,GN,0.0,SinFondant,1.0,Muy Alta,55.09
+479,A,NSA Cake,18.0,15.0,1.0,GN,0.0,SinFondant,0.0,Sin Tematica,43.09
+480,A,NSA Cake,18.0,15.0,1.0,GNL,1.0,FondantM,1.0,Basica,54.16
+481,A,NSA Cake,18.0,15.0,1.0,GNL,1.0,FondantM,1.0,Media,56.16
+482,A,NSA Cake,18.0,15.0,1.0,GNL,1.0,FondantM,1.0,Alta,59.16
+483,A,NSA Cake,18.0,15.0,1.0,GNL,1.0,FondantM,1.0,Muy Alta,63.16
+484,A,NSA Cake,18.0,15.0,1.0,GNL,1.0,FondantM,0.0,Sin Tematica,51.16
+485,A,NSA Cake,18.0,15.0,1.0,GNL,0.0,SinFondant,1.0,Basica,50.16
+486,A,NSA Cake,18.0,15.0,1.0,GNL,0.0,SinFondant,1.0,Media,52.16
+487,A,NSA Cake,18.0,15.0,1.0,GNL,0.0,SinFondant,1.0,Alta,55.16
+488,A,NSA Cake,18.0,15.0,1.0,GNL,0.0,SinFondant,1.0,Muy Alta,59.16
+489,A,NSA Cake,18.0,15.0,1.0,GNL,0.0,SinFondant,0.0,Sin Tematica,47.16
+490,A,NSA Cake,18.0,15.0,1.0,MerNZ,1.0,FondantM,1.0,Basica,58.59
+491,A,NSA Cake,18.0,15.0,1.0,MerNZ,1.0,FondantM,1.0,Media,60.59
+492,A,NSA Cake,18.0,15.0,1.0,MerNZ,1.0,FondantM,1.0,Alta,63.59
+493,A,NSA Cake,18.0,15.0,1.0,MerNZ,1.0,FondantM,1.0,Muy Alta,67.59
+494,A,NSA Cake,18.0,15.0,1.0,MerNZ,1.0,FondantM,0.0,Sin Tematica,55.59
+495,A,NSA Cake,18.0,15.0,1.0,MerNZ,0.0,SinFondant,1.0,Basica,54.59
+496,A,NSA Cake,18.0,15.0,1.0,MerNZ,0.0,SinFondant,1.0,Media,56.59
+497,A,NSA Cake,18.0,15.0,1.0,MerNZ,0.0,SinFondant,1.0,Alta,59.59
+498,A,NSA Cake,18.0,15.0,1.0,MerNZ,0.0,SinFondant,1.0,Muy Alta,63.59
+499,A,NSA Cake,18.0,15.0,1.0,MerNZ,0.0,SinFondant,0.0,Sin Tematica,51.59
+500,A,Carrot Cake,18.0,15.0,1.0,BC,1.0,FondantM,1.0,Basica,36.64
+501,A,Carrot Cake,18.0,15.0,1.0,BC,1.0,FondantM,1.0,Media,38.64
+502,A,Carrot Cake,18.0,15.0,1.0,BC,1.0,FondantM,1.0,Alta,41.64
+503,A,Carrot Cake,18.0,15.0,1.0,BC,1.0,FondantM,1.0,Muy Alta,45.64
+504,A,Carrot Cake,18.0,15.0,1.0,BC,1.0,FondantM,0.0,Sin Tematica,33.64
+505,A,Carrot Cake,18.0,15.0,1.0,BC,0.0,SinFondant,1.0,Basica,32.64
+506,A,Carrot Cake,18.0,15.0,1.0,BC,0.0,SinFondant,1.0,Media,34.64
+507,A,Carrot Cake,18.0,15.0,1.0,BC,0.0,SinFondant,1.0,Alta,37.64
+508,A,Carrot Cake,18.0,15.0,1.0,BC,0.0,SinFondant,1.0,Muy Alta,41.64
+509,A,Carrot Cake,18.0,15.0,1.0,BC,0.0,SinFondant,0.0,Sin Tematica,29.64
+510,A,Coco Cake,18.0,15.0,1.0,GN,1.0,FondantM,1.0,Basica,34.01
+511,A,Coco Cake,18.0,15.0,1.0,GN,1.0,FondantM,1.0,Media,36.01
+512,A,Coco Cake,18.0,15.0,1.0,GN,1.0,FondantM,1.0,Alta,39.01
+513,A,Coco Cake,18.0,15.0,1.0,GN,1.0,FondantM,1.0,Muy Alta,43.01
+514,A,Coco Cake,18.0,15.0,1.0,GN,1.0,FondantM,0.0,Sin Tematica,31.01
+515,A,Coco Cake,18.0,15.0,1.0,GN,0.0,SinFondant,1.0,Basica,30.01
+516,A,Coco Cake,18.0,15.0,1.0,GN,0.0,SinFondant,1.0,Media,32.01
+517,A,Coco Cake,18.0,15.0,1.0,GN,0.0,SinFondant,1.0,Alta,35.01
+518,A,Coco Cake,18.0,15.0,1.0,GN,0.0,SinFondant,1.0,Muy Alta,39.01
+519,A,Coco Cake,18.0,15.0,1.0,GN,0.0,SinFondant,0.0,Sin Tematica,27.01
+520,A,Coco Cake,18.0,15.0,1.0,GNL,1.0,FondantM,1.0,Basica,38.08
+521,A,Coco Cake,18.0,15.0,1.0,GNL,1.0,FondantM,1.0,Media,40.08
+522,A,Coco Cake,18.0,15.0,1.0,GNL,1.0,FondantM,1.0,Alta,43.08
+523,A,Coco Cake,18.0,15.0,1.0,GNL,1.0,FondantM,1.0,Muy Alta,47.08
+524,A,Coco Cake,18.0,15.0,1.0,GNL,1.0,FondantM,0.0,Sin Tematica,35.08
+525,A,Coco Cake,18.0,15.0,1.0,GNL,0.0,SinFondant,1.0,Basica,34.08
+526,A,Coco Cake,18.0,15.0,1.0,GNL,0.0,SinFondant,1.0,Media,36.08
+527,A,Coco Cake,18.0,15.0,1.0,GNL,0.0,SinFondant,1.0,Alta,39.08
+528,A,Coco Cake,18.0,15.0,1.0,GNL,0.0,SinFondant,1.0,Muy Alta,43.08
+529,A,Coco Cake,18.0,15.0,1.0,GNL,0.0,SinFondant,0.0,Sin Tematica,31.08
+530,A,Coco Cake,18.0,15.0,1.0,DL,1.0,FondantM,1.0,Basica,42.05
+531,A,Coco Cake,18.0,15.0,1.0,DL,1.0,FondantM,1.0,Media,44.05
+532,A,Coco Cake,18.0,15.0,1.0,DL,1.0,FondantM,1.0,Alta,47.05
+533,A,Coco Cake,18.0,15.0,1.0,DL,1.0,FondantM,1.0,Muy Alta,51.05
+534,A,Coco Cake,18.0,15.0,1.0,DL,1.0,FondantM,0.0,Sin Tematica,39.05
+535,A,Coco Cake,18.0,15.0,1.0,DL,0.0,SinFondant,1.0,Basica,38.05
+536,A,Coco Cake,18.0,15.0,1.0,DL,0.0,SinFondant,1.0,Media,40.05
+537,A,Coco Cake,18.0,15.0,1.0,DL,0.0,SinFondant,1.0,Alta,43.05
+538,A,Coco Cake,18.0,15.0,1.0,DL,0.0,SinFondant,1.0,Muy Alta,47.05
+539,A,Coco Cake,18.0,15.0,1.0,DL,0.0,SinFondant,0.0,Sin Tematica,35.05
+540,A,Limon Cake,18.0,15.0,1.0,LimC,1.0,FondantM,1.0,Basica,39.89
+541,A,Limon Cake,18.0,15.0,1.0,LimC,1.0,FondantM,1.0,Media,41.89
+542,A,Limon Cake,18.0,15.0,1.0,LimC,1.0,FondantM,1.0,Alta,44.89
+543,A,Limon Cake,18.0,15.0,1.0,LimC,1.0,FondantM,1.0,Muy Alta,48.89
+544,A,Limon Cake,18.0,15.0,1.0,LimC,1.0,FondantM,0.0,Sin Tematica,36.89
+545,A,Limon Cake,18.0,15.0,1.0,LimC,0.0,SinFondant,1.0,Basica,35.89
+546,A,Limon Cake,18.0,15.0,1.0,LimC,0.0,SinFondant,1.0,Media,37.89
+547,A,Limon Cake,18.0,15.0,1.0,LimC,0.0,SinFondant,1.0,Alta,40.89
+548,A,Limon Cake,18.0,15.0,1.0,LimC,0.0,SinFondant,1.0,Muy Alta,44.89
+549,A,Limon Cake,18.0,15.0,1.0,LimC,0.0,SinFondant,0.0,Sin Tematica,32.89
+550,A,Victoria Cake,12.0,9.0,1.0,GN,1.0,FondantM,1.0,Basica,15.07
+551,A,Victoria Cake,12.0,9.0,1.0,GN,1.0,FondantM,1.0,Media,17.07
+552,A,Victoria Cake,12.0,9.0,1.0,GN,1.0,FondantM,1.0,Alta,20.07
+553,A,Victoria Cake,12.0,9.0,1.0,GN,1.0,FondantM,1.0,Muy Alta,24.07
+554,A,Victoria Cake,12.0,9.0,1.0,GN,1.0,FondantM,0.0,Sin Tematica,12.07
+555,A,Victoria Cake,12.0,9.0,1.0,GN,0.0,SinFondant,1.0,Basica,12.67
+556,A,Victoria Cake,12.0,9.0,1.0,GN,0.0,SinFondant,1.0,Media,14.67
+557,A,Victoria Cake,12.0,9.0,1.0,GN,0.0,SinFondant,1.0,Alta,17.67
+558,A,Victoria Cake,12.0,9.0,1.0,GN,0.0,SinFondant,1.0,Muy Alta,21.67
+559,A,Victoria Cake,12.0,9.0,1.0,GN,0.0,SinFondant,0.0,Sin Tematica,9.67
+560,A,Victoria Cake,12.0,9.0,1.0,GNL,1.0,FondantM,1.0,Basica,17.1
+561,A,Victoria Cake,12.0,9.0,1.0,GNL,1.0,FondantM,1.0,Media,19.1
+562,A,Victoria Cake,12.0,9.0,1.0,GNL,1.0,FondantM,1.0,Alta,22.1
+563,A,Victoria Cake,12.0,9.0,1.0,GNL,1.0,FondantM,1.0,Muy Alta,26.1
+564,A,Victoria Cake,12.0,9.0,1.0,GNL,1.0,FondantM,0.0,Sin Tematica,14.1
+565,A,Victoria Cake,12.0,9.0,1.0,GNL,0.0,SinFondant,1.0,Basica,14.7
+566,A,Victoria Cake,12.0,9.0,1.0,GNL,0.0,SinFondant,1.0,Media,16.7
+567,A,Victoria Cake,12.0,9.0,1.0,GNL,0.0,SinFondant,1.0,Alta,19.7
+568,A,Victoria Cake,12.0,9.0,1.0,GNL,0.0,SinFondant,1.0,Muy Alta,23.7
+569,A,Victoria Cake,12.0,9.0,1.0,GNL,0.0,SinFondant,0.0,Sin Tematica,11.7
+570,A,Victoria Cake,12.0,9.0,1.0,GB,1.0,FondantM,1.0,Basica,18.86
+571,A,Victoria Cake,12.0,9.0,1.0,GB,1.0,FondantM,1.0,Media,20.86
+572,A,Victoria Cake,12.0,9.0,1.0,GB,1.0,FondantM,1.0,Alta,23.86
+573,A,Victoria Cake,12.0,9.0,1.0,GB,1.0,FondantM,1.0,Muy Alta,27.86
+574,A,Victoria Cake,12.0,9.0,1.0,GB,1.0,FondantM,0.0,Sin Tematica,15.86
+575,A,Victoria Cake,12.0,9.0,1.0,GB,0.0,SinFondant,1.0,Basica,16.46
+576,A,Victoria Cake,12.0,9.0,1.0,GB,0.0,SinFondant,1.0,Media,18.46
+577,A,Victoria Cake,12.0,9.0,1.0,GB,0.0,SinFondant,1.0,Alta,21.46
+578,A,Victoria Cake,12.0,9.0,1.0,GB,0.0,SinFondant,1.0,Muy Alta,25.46
+579,A,Victoria Cake,12.0,9.0,1.0,GB,0.0,SinFondant,0.0,Sin Tematica,13.46
+580,A,Victoria Cake,12.0,9.0,1.0,BC,1.0,FondantM,1.0,Basica,21.59
+581,A,Victoria Cake,12.0,9.0,1.0,BC,1.0,FondantM,1.0,Media,23.59
+582,A,Victoria Cake,12.0,9.0,1.0,BC,1.0,FondantM,1.0,Alta,26.59
+583,A,Victoria Cake,12.0,9.0,1.0,BC,1.0,FondantM,1.0,Muy Alta,30.59
+584,A,Victoria Cake,12.0,9.0,1.0,BC,1.0,FondantM,0.0,Sin Tematica,18.59
+585,A,Victoria Cake,12.0,9.0,1.0,BC,0.0,SinFondant,1.0,Basica,19.19
+586,A,Victoria Cake,12.0,9.0,1.0,BC,0.0,SinFondant,1.0,Media,21.19
+587,A,Victoria Cake,12.0,9.0,1.0,BC,0.0,SinFondant,1.0,Alta,24.19
+588,A,Victoria Cake,12.0,9.0,1.0,BC,0.0,SinFondant,1.0,Muy Alta,28.19
+589,A,Victoria Cake,12.0,9.0,1.0,BC,0.0,SinFondant,0.0,Sin Tematica,16.19
+590,A,Victoria Cake,12.0,9.0,1.0,BCO,1.0,FondantM,1.0,Basica,23.07
+591,A,Victoria Cake,12.0,9.0,1.0,BCO,1.0,FondantM,1.0,Media,25.07
+592,A,Victoria Cake,12.0,9.0,1.0,BCO,1.0,FondantM,1.0,Alta,28.07
+593,A,Victoria Cake,12.0,9.0,1.0,BCO,1.0,FondantM,1.0,Muy Alta,32.07
+594,A,Victoria Cake,12.0,9.0,1.0,BCO,1.0,FondantM,0.0,Sin Tematica,20.07
+595,A,Victoria Cake,12.0,9.0,1.0,BCO,0.0,SinFondant,1.0,Basica,20.67
+596,A,Victoria Cake,12.0,9.0,1.0,BCO,0.0,SinFondant,1.0,Media,22.67
+597,A,Victoria Cake,12.0,9.0,1.0,BCO,0.0,SinFondant,1.0,Alta,25.67
+598,A,Victoria Cake,12.0,9.0,1.0,BCO,0.0,SinFondant,1.0,Muy Alta,29.67
+599,A,Victoria Cake,12.0,9.0,1.0,BCO,0.0,SinFondant,0.0,Sin Tematica,17.67
+600,A,Victoria Cake,12.0,9.0,1.0,MerF,1.0,FondantM,1.0,Basica,25.1
+601,A,Victoria Cake,12.0,9.0,1.0,MerF,1.0,FondantM,1.0,Media,27.1
+602,A,Victoria Cake,12.0,9.0,1.0,MerF,1.0,FondantM,1.0,Alta,30.1
+603,A,Victoria Cake,12.0,9.0,1.0,MerF,1.0,FondantM,1.0,Muy Alta,34.1
+604,A,Victoria Cake,12.0,9.0,1.0,MerF,1.0,FondantM,0.0,Sin Tematica,22.1
+605,A,Victoria Cake,12.0,9.0,1.0,MerF,0.0,SinFondant,1.0,Basica,22.7
+606,A,Victoria Cake,12.0,9.0,1.0,MerF,0.0,SinFondant,1.0,Media,24.7
+607,A,Victoria Cake,12.0,9.0,1.0,MerF,0.0,SinFondant,1.0,Alta,27.7
+608,A,Victoria Cake,12.0,9.0,1.0,MerF,0.0,SinFondant,1.0,Muy Alta,31.7
+609,A,Victoria Cake,12.0,9.0,1.0,MerF,0.0,SinFondant,0.0,Sin Tematica,19.7
+610,A,Victoria Cake,12.0,9.0,1.0,MerFR,1.0,FondantM,1.0,Basica,25.1
+611,A,Victoria Cake,12.0,9.0,1.0,MerFR,1.0,FondantM,1.0,Media,27.1
+612,A,Victoria Cake,12.0,9.0,1.0,MerFR,1.0,FondantM,1.0,Alta,30.1
+613,A,Victoria Cake,12.0,9.0,1.0,MerFR,1.0,FondantM,1.0,Muy Alta,34.1
+614,A,Victoria Cake,12.0,9.0,1.0,MerFR,1.0,FondantM,0.0,Sin Tematica,22.1
+615,A,Victoria Cake,12.0,9.0,1.0,MerFR,0.0,SinFondant,1.0,Basica,22.7
+616,A,Victoria Cake,12.0,9.0,1.0,MerFR,0.0,SinFondant,1.0,Media,24.7
+617,A,Victoria Cake,12.0,9.0,1.0,MerFR,0.0,SinFondant,1.0,Alta,27.7
+618,A,Victoria Cake,12.0,9.0,1.0,MerFR,0.0,SinFondant,1.0,Muy Alta,31.7
+619,A,Victoria Cake,12.0,9.0,1.0,MerFR,0.0,SinFondant,0.0,Sin Tematica,19.7
+620,A,Victoria Cake,12.0,9.0,1.0,MerNZ,1.0,FondantM,1.0,Basica,23.83
+621,A,Victoria Cake,12.0,9.0,1.0,MerNZ,1.0,FondantM,1.0,Media,25.83
+622,A,Victoria Cake,12.0,9.0,1.0,MerNZ,1.0,FondantM,1.0,Alta,28.83
+623,A,Victoria Cake,12.0,9.0,1.0,MerNZ,1.0,FondantM,1.0,Muy Alta,32.83
+624,A,Victoria Cake,12.0,9.0,1.0,MerNZ,1.0,FondantM,0.0,Sin Tematica,20.83
+625,A,Victoria Cake,12.0,9.0,1.0,MerNZ,0.0,SinFondant,1.0,Basica,21.43
+626,A,Victoria Cake,12.0,9.0,1.0,MerNZ,0.0,SinFondant,1.0,Media,23.43
+627,A,Victoria Cake,12.0,9.0,1.0,MerNZ,0.0,SinFondant,1.0,Alta,26.43
+628,A,Victoria Cake,12.0,9.0,1.0,MerNZ,0.0,SinFondant,1.0,Muy Alta,30.43
+629,A,Victoria Cake,12.0,9.0,1.0,MerNZ,0.0,SinFondant,0.0,Sin Tematica,18.43
+630,A,Victoria Cake,12.0,9.0,1.0,DL,1.0,FondantM,1.0,Basica,23.61
+631,A,Victoria Cake,12.0,9.0,1.0,DL,1.0,FondantM,1.0,Media,25.61
+632,A,Victoria Cake,12.0,9.0,1.0,DL,1.0,FondantM,1.0,Alta,28.61
+633,A,Victoria Cake,12.0,9.0,1.0,DL,1.0,FondantM,1.0,Muy Alta,32.61
+634,A,Victoria Cake,12.0,9.0,1.0,DL,1.0,FondantM,0.0,Sin Tematica,20.61
+635,A,Victoria Cake,12.0,9.0,1.0,DL,0.0,SinFondant,1.0,Basica,21.21
+636,A,Victoria Cake,12.0,9.0,1.0,DL,0.0,SinFondant,1.0,Media,23.21
+637,A,Victoria Cake,12.0,9.0,1.0,DL,0.0,SinFondant,1.0,Alta,26.21
+638,A,Victoria Cake,12.0,9.0,1.0,DL,0.0,SinFondant,1.0,Muy Alta,30.21
+639,A,Victoria Cake,12.0,9.0,1.0,DL,0.0,SinFondant,0.0,Sin Tematica,18.21
+640,A,Victoria Cake,12.0,9.0,1.0,MerM,1.0,FondantM,1.0,Basica,23.87
+641,A,Victoria Cake,12.0,9.0,1.0,MerM,1.0,FondantM,1.0,Media,25.87
+642,A,Victoria Cake,12.0,9.0,1.0,MerM,1.0,FondantM,1.0,Alta,28.87
+643,A,Victoria Cake,12.0,9.0,1.0,MerM,1.0,FondantM,1.0,Muy Alta,32.87
+644,A,Victoria Cake,12.0,9.0,1.0,MerM,1.0,FondantM,0.0,Sin Tematica,20.87
+645,A,Victoria Cake,12.0,9.0,1.0,MerM,0.0,SinFondant,1.0,Basica,21.47
+646,A,Victoria Cake,12.0,9.0,1.0,MerM,0.0,SinFondant,1.0,Media,23.47
+647,A,Victoria Cake,12.0,9.0,1.0,MerM,0.0,SinFondant,1.0,Alta,26.47
+648,A,Victoria Cake,12.0,9.0,1.0,MerM,0.0,SinFondant,1.0,Muy Alta,30.47
+649,A,Victoria Cake,12.0,9.0,1.0,MerM,0.0,SinFondant,0.0,Sin Tematica,18.47
+650,A,Victoria Cake,12.0,9.0,1.0,LimC,1.0,FondantM,1.0,Basica,26.37
+651,A,Victoria Cake,12.0,9.0,1.0,LimC,1.0,FondantM,1.0,Media,28.37
+652,A,Victoria Cake,12.0,9.0,1.0,LimC,1.0,FondantM,1.0,Alta,31.37
+653,A,Victoria Cake,12.0,9.0,1.0,LimC,1.0,FondantM,1.0,Muy Alta,35.37
+654,A,Victoria Cake,12.0,9.0,1.0,LimC,1.0,FondantM,0.0,Sin Tematica,23.37
+655,A,Victoria Cake,12.0,9.0,1.0,LimC,0.0,SinFondant,1.0,Basica,23.97
+656,A,Victoria Cake,12.0,9.0,1.0,LimC,0.0,SinFondant,1.0,Media,25.97
+657,A,Victoria Cake,12.0,9.0,1.0,LimC,0.0,SinFondant,1.0,Alta,28.97
+658,A,Victoria Cake,12.0,9.0,1.0,LimC,0.0,SinFondant,1.0,Muy Alta,32.97
+659,A,Victoria Cake,12.0,9.0,1.0,LimC,0.0,SinFondant,0.0,Sin Tematica,20.97
+660,A,Victoria Cake,25.0,30.0,1.0,GN,1.0,FondantS,1.0,Basica,47.66
+661,A,Victoria Cake,25.0,30.0,1.0,GN,1.0,FondantS,1.0,Media,49.66
+662,A,Victoria Cake,25.0,30.0,1.0,GN,1.0,FondantS,1.0,Alta,52.66
+663,A,Victoria Cake,25.0,30.0,1.0,GN,1.0,FondantS,1.0,Muy Alta,56.66
+664,A,Victoria Cake,25.0,30.0,1.0,GN,1.0,FondantS,0.0,Sin Tematica,44.66
+665,A,Victoria Cake,25.0,30.0,1.0,GN,0.0,SinFondant,1.0,Basica,41.66
+666,A,Victoria Cake,25.0,30.0,1.0,GN,0.0,SinFondant,1.0,Media,43.66
+667,A,Victoria Cake,25.0,30.0,1.0,GN,0.0,SinFondant,1.0,Alta,46.66
+668,A,Victoria Cake,25.0,30.0,1.0,GN,0.0,SinFondant,1.0,Muy Alta,50.66
+669,A,Victoria Cake,25.0,30.0,1.0,GN,0.0,SinFondant,0.0,Sin Tematica,38.66
+670,A,Victoria Cake,25.0,30.0,1.0,GNL,1.0,FondantS,1.0,Basica,55.8
+671,A,Victoria Cake,25.0,30.0,1.0,GNL,1.0,FondantS,1.0,Media,57.8
+672,A,Victoria Cake,25.0,30.0,1.0,GNL,1.0,FondantS,1.0,Alta,60.8
+673,A,Victoria Cake,25.0,30.0,1.0,GNL,1.0,FondantS,1.0,Muy Alta,64.8
+674,A,Victoria Cake,25.0,30.0,1.0,GNL,1.0,FondantS,0.0,Sin Tematica,52.8
+675,A,Victoria Cake,25.0,30.0,1.0,GNL,0.0,SinFondant,1.0,Basica,49.8
+676,A,Victoria Cake,25.0,30.0,1.0,GNL,0.0,SinFondant,1.0,Media,51.8
+677,A,Victoria Cake,25.0,30.0,1.0,GNL,0.0,SinFondant,1.0,Alta,54.8
+678,A,Victoria Cake,25.0,30.0,1.0,GNL,0.0,SinFondant,1.0,Muy Alta,58.8
+679,A,Victoria Cake,25.0,30.0,1.0,GNL,0.0,SinFondant,0.0,Sin Tematica,46.8
+680,A,Victoria Cake,25.0,30.0,1.0,GB,1.0,FondantS,1.0,Basica,62.86
+681,A,Victoria Cake,25.0,30.0,1.0,GB,1.0,FondantS,1.0,Media,64.86
+682,A,Victoria Cake,25.0,30.0,1.0,GB,1.0,FondantS,1.0,Alta,67.86
+683,A,Victoria Cake,25.0,30.0,1.0,GB,1.0,FondantS,1.0,Muy Alta,71.86
+684,A,Victoria Cake,25.0,30.0,1.0,GB,1.0,FondantS,0.0,Sin Tematica,59.86
+685,A,Victoria Cake,25.0,30.0,1.0,GB,0.0,SinFondant,1.0,Basica,56.86
+686,A,Victoria Cake,25.0,30.0,1.0,GB,0.0,SinFondant,1.0,Media,58.86
+687,A,Victoria Cake,25.0,30.0,1.0,GB,0.0,SinFondant,1.0,Alta,61.86
+688,A,Victoria Cake,25.0,30.0,1.0,GB,0.0,SinFondant,1.0,Muy Alta,65.86
+689,A,Victoria Cake,25.0,30.0,1.0,GB,0.0,SinFondant,0.0,Sin Tematica,53.86
+690,A,Victoria Cake,25.0,30.0,1.0,BC,1.0,FondantS,1.0,Basica,73.77
+691,A,Victoria Cake,25.0,30.0,1.0,BC,1.0,FondantS,1.0,Media,75.77
+692,A,Victoria Cake,25.0,30.0,1.0,BC,1.0,FondantS,1.0,Alta,78.77
+693,A,Victoria Cake,25.0,30.0,1.0,BC,1.0,FondantS,1.0,Muy Alta,82.77
+694,A,Victoria Cake,25.0,30.0,1.0,BC,1.0,FondantS,0.0,Sin Tematica,70.77
+695,A,Victoria Cake,25.0,30.0,1.0,BC,0.0,SinFondant,1.0,Basica,67.77
+696,A,Victoria Cake,25.0,30.0,1.0,BC,0.0,SinFondant,1.0,Media,69.77
+697,A,Victoria Cake,25.0,30.0,1.0,BC,0.0,SinFondant,1.0,Alta,72.77
+698,A,Victoria Cake,25.0,30.0,1.0,BC,0.0,SinFondant,1.0,Muy Alta,76.77
+699,A,Victoria Cake,25.0,30.0,1.0,BC,0.0,SinFondant,0.0,Sin Tematica,64.77
+700,A,Victoria Cake,25.0,30.0,1.0,BCO,1.0,FondantS,1.0,Basica,79.68
+701,A,Victoria Cake,25.0,30.0,1.0,BCO,1.0,FondantS,1.0,Media,81.68
+702,A,Victoria Cake,25.0,30.0,1.0,BCO,1.0,FondantS,1.0,Alta,84.68
+703,A,Victoria Cake,25.0,30.0,1.0,BCO,1.0,FondantS,1.0,Muy Alta,88.68
+704,A,Victoria Cake,25.0,30.0,1.0,BCO,1.0,FondantS,0.0,Sin Tematica,76.68
+705,A,Victoria Cake,25.0,30.0,1.0,BCO,0.0,SinFondant,1.0,Basica,73.68
+706,A,Victoria Cake,25.0,30.0,1.0,BCO,0.0,SinFondant,1.0,Media,75.68
+707,A,Victoria Cake,25.0,30.0,1.0,BCO,0.0,SinFondant,1.0,Alta,78.68
+708,A,Victoria Cake,25.0,30.0,1.0,BCO,0.0,SinFondant,1.0,Muy Alta,82.68
+709,A,Victoria Cake,25.0,30.0,1.0,BCO,0.0,SinFondant,0.0,Sin Tematica,70.68
+710,A,Victoria Cake,25.0,30.0,1.0,MerF,1.0,FondantS,1.0,Basica,60.66
+711,A,Victoria Cake,25.0,30.0,1.0,MerF,1.0,FondantS,1.0,Media,62.66
+712,A,Victoria Cake,25.0,30.0,1.0,MerF,1.0,FondantS,1.0,Alta,65.66
+713,A,Victoria Cake,25.0,30.0,1.0,MerF,1.0,FondantS,1.0,Muy Alta,69.66
+714,A,Victoria Cake,25.0,30.0,1.0,MerF,1.0,FondantS,0.0,Sin Tematica,57.66
+715,A,Victoria Cake,25.0,30.0,1.0,MerF,0.0,SinFondant,1.0,Basica,54.66
+716,A,Victoria Cake,25.0,30.0,1.0,MerF,0.0,SinFondant,1.0,Media,56.66
+717,A,Victoria Cake,25.0,30.0,1.0,MerF,0.0,SinFondant,1.0,Alta,59.66
+718,A,Victoria Cake,25.0,30.0,1.0,MerF,0.0,SinFondant,1.0,Muy Alta,63.66
+719,A,Victoria Cake,25.0,30.0,1.0,MerF,0.0,SinFondant,0.0,Sin Tematica,51.66
+720,A,Victoria Cake,25.0,30.0,1.0,MerFR,1.0,FondantS,1.0,Basica,60.66
+721,A,Victoria Cake,25.0,30.0,1.0,MerFR,1.0,FondantS,1.0,Media,62.66
+722,A,Victoria Cake,25.0,30.0,1.0,MerFR,1.0,FondantS,1.0,Alta,65.66
+723,A,Victoria Cake,25.0,30.0,1.0,MerFR,1.0,FondantS,1.0,Muy Alta,69.66
+724,A,Victoria Cake,25.0,30.0,1.0,MerFR,1.0,FondantS,0.0,Sin Tematica,57.66
+725,A,Victoria Cake,25.0,30.0,1.0,MerFR,0.0,SinFondant,1.0,Basica,54.66
+726,A,Victoria Cake,25.0,30.0,1.0,MerFR,0.0,SinFondant,1.0,Media,56.66
+727,A,Victoria Cake,25.0,30.0,1.0,MerFR,0.0,SinFondant,1.0,Alta,59.66
+728,A,Victoria Cake,25.0,30.0,1.0,MerFR,0.0,SinFondant,1.0,Muy Alta,63.66
+729,A,Victoria Cake,25.0,30.0,1.0,MerFR,0.0,SinFondant,0.0,Sin Tematica,51.66
+730,A,Victoria Cake,25.0,30.0,1.0,MerNZ,1.0,FondantS,1.0,Basica,55.61
+731,A,Victoria Cake,25.0,30.0,1.0,MerNZ,1.0,FondantS,1.0,Media,57.61
+732,A,Victoria Cake,25.0,30.0,1.0,MerNZ,1.0,FondantS,1.0,Alta,60.61
+733,A,Victoria Cake,25.0,30.0,1.0,MerNZ,1.0,FondantS,1.0,Muy Alta,64.61
+734,A,Victoria Cake,25.0,30.0,1.0,MerNZ,1.0,FondantS,0.0,Sin Tematica,52.61
+735,A,Victoria Cake,25.0,30.0,1.0,MerNZ,0.0,SinFondant,1.0,Basica,49.61
+736,A,Victoria Cake,25.0,30.0,1.0,MerNZ,0.0,SinFondant,1.0,Media,51.61
+737,A,Victoria Cake,25.0,30.0,1.0,MerNZ,0.0,SinFondant,1.0,Alta,54.61
+738,A,Victoria Cake,25.0,30.0,1.0,MerNZ,0.0,SinFondant,1.0,Muy Alta,58.61
+739,A,Victoria Cake,25.0,30.0,1.0,MerNZ,0.0,SinFondant,0.0,Sin Tematica,46.61
+740,A,Victoria Cake,25.0,30.0,1.0,DL,1.0,FondantS,1.0,Basica,54.71
+741,A,Victoria Cake,25.0,30.0,1.0,DL,1.0,FondantS,1.0,Media,56.71
+742,A,Victoria Cake,25.0,30.0,1.0,DL,1.0,FondantS,1.0,Alta,59.71
+743,A,Victoria Cake,25.0,30.0,1.0,DL,1.0,FondantS,1.0,Muy Alta,63.71
+744,A,Victoria Cake,25.0,30.0,1.0,DL,1.0,FondantS,0.0,Sin Tematica,51.71
+745,A,Victoria Cake,25.0,30.0,1.0,DL,0.0,SinFondant,1.0,Basica,48.71
+746,A,Victoria Cake,25.0,30.0,1.0,DL,0.0,SinFondant,1.0,Media,50.71
+747,A,Victoria Cake,25.0,30.0,1.0,DL,0.0,SinFondant,1.0,Alta,53.71
+748,A,Victoria Cake,25.0,30.0,1.0,DL,0.0,SinFondant,1.0,Muy Alta,57.71
+749,A,Victoria Cake,25.0,30.0,1.0,DL,0.0,SinFondant,0.0,Sin Tematica,45.71
+750,A,Victoria Cake,25.0,30.0,1.0,MerM,1.0,FondantS,1.0,Basica,55.74
+751,A,Victoria Cake,25.0,30.0,1.0,MerM,1.0,FondantS,1.0,Media,57.74
+752,A,Victoria Cake,25.0,30.0,1.0,MerM,1.0,FondantS,1.0,Alta,60.74
+753,A,Victoria Cake,25.0,30.0,1.0,MerM,1.0,FondantS,1.0,Muy Alta,64.74
+754,A,Victoria Cake,25.0,30.0,1.0,MerM,1.0,FondantS,0.0,Sin Tematica,52.74
+755,A,Victoria Cake,25.0,30.0,1.0,MerM,0.0,SinFondant,1.0,Basica,49.74
+756,A,Victoria Cake,25.0,30.0,1.0,MerM,0.0,SinFondant,1.0,Media,51.74
+757,A,Victoria Cake,25.0,30.0,1.0,MerM,0.0,SinFondant,1.0,Alta,62.74
+758,A,Victoria Cake,25.0,30.0,1.0,MerM,0.0,SinFondant,1.0,Muy Alta,58.74
+759,A,Victoria Cake,25.0,30.0,1.0,MerM,0.0,SinFondant,0.0,Sin Tematica,46.74
+760,A,Victoria Cake,25.0,30.0,1.0,LimC,1.0,FondantS,1.0,Basica,65.75
+761,A,Victoria Cake,25.0,30.0,1.0,LimC,1.0,FondantS,1.0,Media,67.75
+762,A,Victoria Cake,25.0,30.0,1.0,LimC,1.0,FondantS,1.0,Alta,70.75
+763,A,Victoria Cake,25.0,30.0,1.0,LimC,1.0,FondantS,1.0,Muy Alta,74.75
+764,A,Victoria Cake,25.0,30.0,1.0,LimC,1.0,FondantS,0.0,Sin Tematica,62.75
+765,A,Victoria Cake,25.0,30.0,1.0,LimC,0.0,SinFondant,1.0,Basica,59.75
+766,A,Victoria Cake,25.0,30.0,1.0,LimC,0.0,SinFondant,1.0,Media,61.75
+767,A,Victoria Cake,25.0,30.0,1.0,LimC,0.0,SinFondant,1.0,Alta,64.75
+768,A,Victoria Cake,25.0,30.0,1.0,LimC,0.0,SinFondant,1.0,Muy Alta,68.75
+769,A,Victoria Cake,25.0,30.0,1.0,LimC,0.0,SinFondant,0.0,Sin Tematica,56.75
+770,A,Chocolat Cake,12.0,9.0,1.0,GN,1.0,FondantL,1.0,Basica,15.54
+771,A,Chocolat Cake,12.0,9.0,1.0,GN,1.0,FondantL,1.0,Media,17.54
+772,A,Chocolat Cake,12.0,9.0,1.0,GN,1.0,FondantL,1.0,Alta,20.54
+773,A,Chocolat Cake,12.0,9.0,1.0,GN,1.0,FondantL,1.0,Muy Alta,24.54
+774,A,Chocolat Cake,12.0,9.0,1.0,GN,1.0,FondantL,0.0,Sin Tematica,12.54
+775,A,Chocolat Cake,12.0,9.0,1.0,GN,0.0,SinFondant,1.0,Basica,13.14
+776,A,Chocolat Cake,12.0,9.0,1.0,GN,0.0,SinFondant,1.0,Media,15.14
+777,A,Chocolat Cake,12.0,9.0,1.0,GN,0.0,SinFondant,1.0,Alta,18.14
+778,A,Chocolat Cake,12.0,9.0,1.0,GN,0.0,SinFondant,1.0,Muy Alta,22.14
+779,A,Chocolat Cake,12.0,9.0,1.0,GN,0.0,SinFondant,0.0,Sin Tematica,10.14
+780,A,Chocolat Cake,12.0,9.0,1.0,GNL,1.0,FondantL,1.0,Basica,17.57
+781,A,Chocolat Cake,12.0,9.0,1.0,GNL,1.0,FondantL,1.0,Media,19.57
+782,A,Chocolat Cake,12.0,9.0,1.0,GNL,1.0,FondantL,1.0,Alta,22.57
+783,A,Chocolat Cake,12.0,9.0,1.0,GNL,1.0,FondantL,1.0,Muy Alta,26.57
+784,A,Chocolat Cake,12.0,9.0,1.0,GNL,1.0,FondantL,0.0,Sin Tematica,14.57
+785,A,Chocolat Cake,12.0,9.0,1.0,GNL,0.0,SinFondant,1.0,Basica,15.17
+786,A,Chocolat Cake,12.0,9.0,1.0,GNL,0.0,SinFondant,1.0,Media,17.17
+787,A,Chocolat Cake,12.0,9.0,1.0,GNL,0.0,SinFondant,1.0,Alta,20.17
+788,A,Chocolat Cake,12.0,9.0,1.0,GNL,0.0,SinFondant,1.0,Muy Alta,24.17
+789,A,Chocolat Cake,12.0,9.0,1.0,GNL,0.0,SinFondant,0.0,Sin Tematica,12.17
+790,A,Chocolat Cake,12.0,9.0,1.0,GB,1.0,FondantL,1.0,Basica,19.34
+791,A,Chocolat Cake,12.0,9.0,1.0,GB,1.0,FondantL,1.0,Media,21.34
+792,A,Chocolat Cake,12.0,9.0,1.0,GB,1.0,FondantL,1.0,Alta,24.34
+793,A,Chocolat Cake,12.0,9.0,1.0,GB,1.0,FondantL,1.0,Muy Alta,28.34
+794,A,Chocolat Cake,12.0,9.0,1.0,GB,1.0,FondantL,0.0,Sin Tematica,16.34
+795,A,Chocolat Cake,12.0,9.0,1.0,GB,0.0,SinFondant,1.0,Basica,16.94
+796,A,Chocolat Cake,12.0,9.0,1.0,GB,0.0,SinFondant,1.0,Media,18.94
+797,A,Chocolat Cake,12.0,9.0,1.0,GB,0.0,SinFondant,1.0,Alta,21.94
+798,A,Chocolat Cake,12.0,9.0,1.0,GB,0.0,SinFondant,1.0,Muy Alta,25.94
+799,A,Chocolat Cake,12.0,9.0,1.0,GB,0.0,SinFondant,0.0,Sin Tematica,13.94
+800,A,Chocolat Cake,12.0,9.0,1.0,BC,1.0,FondantL,1.0,Basica,22.06
+801,A,Chocolat Cake,12.0,9.0,1.0,BC,1.0,FondantL,1.0,Media,24.06
+802,A,Chocolat Cake,12.0,9.0,1.0,BC,1.0,FondantL,1.0,Alta,27.06
+803,A,Chocolat Cake,12.0,9.0,1.0,BC,1.0,FondantL,1.0,Muy Alta,31.06
+804,A,Chocolat Cake,12.0,9.0,1.0,BC,1.0,FondantL,0.0,Sin Tematica,19.06
+805,A,Chocolat Cake,12.0,9.0,1.0,BC,0.0,SinFondant,1.0,Basica,19.66
+806,A,Chocolat Cake,12.0,9.0,1.0,BC,0.0,SinFondant,1.0,Media,21.66
+807,A,Chocolat Cake,12.0,9.0,1.0,BC,0.0,SinFondant,1.0,Alta,24.66
+808,A,Chocolat Cake,12.0,9.0,1.0,BC,0.0,SinFondant,1.0,Muy Alta,28.66
+809,A,Chocolat Cake,12.0,9.0,1.0,BC,0.0,SinFondant,0.0,Sin Tematica,16.66
+810,A,Chocolat Cake,12.0,9.0,1.0,BCO,1.0,FondantL,1.0,Basica,23.54
+811,A,Chocolat Cake,12.0,9.0,1.0,BCO,1.0,FondantL,1.0,Media,25.54
+812,A,Chocolat Cake,12.0,9.0,1.0,BCO,1.0,FondantL,1.0,Alta,28.54
+813,A,Chocolat Cake,12.0,9.0,1.0,BCO,1.0,FondantL,1.0,Muy Alta,32.54
+814,A,Chocolat Cake,12.0,9.0,1.0,BCO,1.0,FondantL,0.0,Sin Tematica,20.54
+815,A,Chocolat Cake,12.0,9.0,1.0,BCO,0.0,SinFondant,1.0,Basica,21.14
+816,A,Chocolat Cake,12.0,9.0,1.0,BCO,0.0,SinFondant,1.0,Media,23.14
+817,A,Chocolat Cake,12.0,9.0,1.0,BCO,0.0,SinFondant,1.0,Alta,26.14
+818,A,Chocolat Cake,12.0,9.0,1.0,BCO,0.0,SinFondant,1.0,Muy Alta,30.14
+819,A,Chocolat Cake,12.0,9.0,1.0,BCO,0.0,SinFondant,0.0,Sin Tematica,18.14
+820,A,Chocolat Cake,12.0,9.0,1.0,MerF,1.0,FondantL,1.0,Basica,25.57
+821,A,Chocolat Cake,12.0,9.0,1.0,MerF,1.0,FondantL,1.0,Media,27.57
+822,A,Chocolat Cake,12.0,9.0,1.0,MerF,1.0,FondantL,1.0,Alta,30.57
+823,A,Chocolat Cake,12.0,9.0,1.0,MerF,1.0,FondantL,1.0,Muy Alta,34.57
+824,A,Chocolat Cake,12.0,9.0,1.0,MerF,1.0,FondantL,0.0,Sin Tematica,22.57
+825,A,Chocolat Cake,12.0,9.0,1.0,MerF,0.0,SinFondant,1.0,Basica,23.17
+826,A,Chocolat Cake,12.0,9.0,1.0,MerF,0.0,SinFondant,1.0,Media,25.17
+827,A,Chocolat Cake,12.0,9.0,1.0,MerF,0.0,SinFondant,1.0,Alta,28.17
+828,A,Chocolat Cake,12.0,9.0,1.0,MerF,0.0,SinFondant,1.0,Muy Alta,32.17
+829,A,Chocolat Cake,12.0,9.0,1.0,MerF,0.0,SinFondant,0.0,Sin Tematica,20.17
+830,A,Chocolat Cake,12.0,9.0,1.0,MerFR,1.0,FondantL,1.0,Basica,25.57
+831,A,Chocolat Cake,12.0,9.0,1.0,MerFR,1.0,FondantL,1.0,Media,27.57
+832,A,Chocolat Cake,12.0,9.0,1.0,MerFR,1.0,FondantL,1.0,Alta,30.57
+833,A,Chocolat Cake,12.0,9.0,1.0,MerFR,1.0,FondantL,1.0,Muy Alta,34.57
+834,A,Chocolat Cake,12.0,9.0,1.0,MerFR,1.0,FondantL,0.0,Sin Tematica,22.57
+835,A,Chocolat Cake,12.0,9.0,1.0,MerFR,0.0,SinFondant,1.0,Basica,23.17
+836,A,Chocolat Cake,12.0,9.0,1.0,MerFR,0.0,SinFondant,1.0,Media,25.17
+837,A,Chocolat Cake,12.0,9.0,1.0,MerFR,0.0,SinFondant,1.0,Alta,28.17
+838,A,Chocolat Cake,12.0,9.0,1.0,MerFR,0.0,SinFondant,1.0,Muy Alta,32.17
+839,A,Chocolat Cake,12.0,9.0,1.0,MerFR,0.0,SinFondant,0.0,Sin Tematica,20.17
+840,A,Chocolat Cake,12.0,9.0,1.0,MerNZ,1.0,FondantL,1.0,Basica,24.3
+841,A,Chocolat Cake,12.0,9.0,1.0,MerNZ,1.0,FondantL,1.0,Media,26.3
+842,A,Chocolat Cake,12.0,9.0,1.0,MerNZ,1.0,FondantL,1.0,Alta,29.3
+843,A,Chocolat Cake,12.0,9.0,1.0,MerNZ,1.0,FondantL,1.0,Muy Alta,33.3
+844,A,Chocolat Cake,12.0,9.0,1.0,MerNZ,1.0,FondantL,0.0,Sin Tematica,21.3
+845,A,Chocolat Cake,12.0,9.0,1.0,MerNZ,0.0,SinFondant,1.0,Basica,21.9
+846,A,Chocolat Cake,12.0,9.0,1.0,MerNZ,0.0,SinFondant,1.0,Media,23.9
+847,A,Chocolat Cake,12.0,9.0,1.0,MerNZ,0.0,SinFondant,1.0,Alta,26.9
+848,A,Chocolat Cake,12.0,9.0,1.0,MerNZ,0.0,SinFondant,1.0,Muy Alta,30.9
+849,A,Chocolat Cake,12.0,9.0,1.0,MerNZ,0.0,SinFondant,0.0,Sin Tematica,18.9
+850,A,Chocolat Cake,12.0,9.0,1.0,DL,1.0,FondantL,1.0,Basica,24.08
+851,A,Chocolat Cake,12.0,9.0,1.0,DL,1.0,FondantL,1.0,Media,26.08
+852,A,Chocolat Cake,12.0,9.0,1.0,DL,1.0,FondantL,1.0,Alta,29.08
+853,A,Chocolat Cake,12.0,9.0,1.0,DL,1.0,FondantL,1.0,Muy Alta,33.08
+854,A,Chocolat Cake,12.0,9.0,1.0,DL,1.0,FondantL,0.0,Sin Tematica,21.08
+855,A,Chocolat Cake,12.0,9.0,1.0,DL,0.0,SinFondant,1.0,Basica,21.68
+856,A,Chocolat Cake,12.0,9.0,1.0,DL,0.0,SinFondant,1.0,Media,23.68
+857,A,Chocolat Cake,12.0,9.0,1.0,DL,0.0,SinFondant,1.0,Alta,26.68
+858,A,Chocolat Cake,12.0,9.0,1.0,DL,0.0,SinFondant,1.0,Muy Alta,30.68
+859,A,Chocolat Cake,12.0,9.0,1.0,DL,0.0,SinFondant,0.0,Sin Tematica,18.68
+860,A,Chocolat Cake,12.0,9.0,1.0,MerM,1.0,FondantL,1.0,Basica,24.34
+861,A,Chocolat Cake,12.0,9.0,1.0,MerM,1.0,FondantL,1.0,Media,26.34
+862,A,Chocolat Cake,12.0,9.0,1.0,MerM,1.0,FondantL,1.0,Alta,29.34
+863,A,Chocolat Cake,12.0,9.0,1.0,MerM,1.0,FondantL,1.0,Muy Alta,33.34
+864,A,Chocolat Cake,12.0,9.0,1.0,MerM,1.0,FondantL,0.0,Sin Tematica,21.34
+865,A,Chocolat Cake,12.0,9.0,1.0,MerM,0.0,SinFondant,1.0,Basica,21.94
+866,A,Chocolat Cake,12.0,9.0,1.0,MerM,0.0,SinFondant,1.0,Media,23.94
+867,A,Chocolat Cake,12.0,9.0,1.0,MerM,0.0,SinFondant,1.0,Alta,26.94
+868,A,Chocolat Cake,12.0,9.0,1.0,MerM,0.0,SinFondant,1.0,Muy Alta,30.94
+869,A,Chocolat Cake,12.0,9.0,1.0,MerM,0.0,SinFondant,0.0,Sin Tematica,18.94
+870,A,Chocolat Cake,12.0,9.0,1.0,LimC,1.0,FondantL,1.0,Basica,26.84
+871,A,Chocolat Cake,12.0,9.0,1.0,LimC,1.0,FondantL,1.0,Media,28.84
+872,A,Chocolat Cake,12.0,9.0,1.0,LimC,1.0,FondantL,1.0,Alta,31.84
+873,A,Chocolat Cake,12.0,9.0,1.0,LimC,1.0,FondantL,1.0,Muy Alta,35.84
+874,A,Chocolat Cake,12.0,9.0,1.0,LimC,1.0,FondantL,0.0,Sin Tematica,23.84
+875,A,Chocolat Cake,12.0,9.0,1.0,LimC,0.0,SinFondant,1.0,Basica,24.44
+876,A,Chocolat Cake,12.0,9.0,1.0,LimC,0.0,SinFondant,1.0,Media,26.44
+877,A,Chocolat Cake,12.0,9.0,1.0,LimC,0.0,SinFondant,1.0,Alta,29.44
+878,A,Chocolat Cake,12.0,9.0,1.0,LimC,0.0,SinFondant,1.0,Muy Alta,33.44
+879,A,Chocolat Cake,12.0,9.0,1.0,LimC,0.0,SinFondant,0.0,Sin Tematica,21.44
+880,A,Chocolat Cake,25.0,30.0,1.0,GN,1.0,FondantS,1.0,Basica,49.55
+881,A,Chocolat Cake,25.0,30.0,1.0,GN,1.0,FondantS,1.0,Media,51.55
+882,A,Chocolat Cake,25.0,30.0,1.0,GN,1.0,FondantS,1.0,Alta,54.55
+883,A,Chocolat Cake,25.0,30.0,1.0,GN,1.0,FondantS,1.0,Muy Alta,58.55
+884,A,Chocolat Cake,25.0,30.0,1.0,GN,1.0,FondantS,0.0,Sin Tematica,46.55
+885,A,Chocolat Cake,25.0,30.0,1.0,GN,0.0,SinFondant,1.0,Basica,43.55
+886,A,Chocolat Cake,25.0,30.0,1.0,GN,0.0,SinFondant,1.0,Media,45.55
+887,A,Chocolat Cake,25.0,30.0,1.0,GN,0.0,SinFondant,1.0,Alta,48.55
+888,A,Chocolat Cake,25.0,30.0,1.0,GN,0.0,SinFondant,1.0,Muy Alta,52.55
+889,A,Chocolat Cake,25.0,30.0,1.0,GN,0.0,SinFondant,0.0,Sin Tematica,40.55
+890,A,Chocolat Cake,25.0,30.0,1.0,GNL,1.0,FondantS,1.0,Basica,57.69
+891,A,Chocolat Cake,25.0,30.0,1.0,GNL,1.0,FondantS,1.0,Media,59.69
+892,A,Chocolat Cake,25.0,30.0,1.0,GNL,1.0,FondantS,1.0,Alta,62.69
+893,A,Chocolat Cake,25.0,30.0,1.0,GNL,1.0,FondantS,1.0,Muy Alta,66.69
+894,A,Chocolat Cake,25.0,30.0,1.0,GNL,1.0,FondantS,0.0,Sin Tematica,54.69
+895,A,Chocolat Cake,25.0,30.0,1.0,GNL,0.0,SinFondant,1.0,Basica,51.69
+896,A,Chocolat Cake,25.0,30.0,1.0,GNL,0.0,SinFondant,1.0,Media,53.69
+897,A,Chocolat Cake,25.0,30.0,1.0,GNL,0.0,SinFondant,1.0,Alta,56.69
+898,A,Chocolat Cake,25.0,30.0,1.0,GNL,0.0,SinFondant,1.0,Muy Alta,60.69
+899,A,Chocolat Cake,25.0,30.0,1.0,GNL,0.0,SinFondant,0.0,Sin Tematica,48.69
+900,A,Chocolat Cake,25.0,30.0,1.0,GB,1.0,FondantS,1.0,Basica,64.74
+901,A,Chocolat Cake,25.0,30.0,1.0,GB,1.0,FondantS,1.0,Media,66.74
+902,A,Chocolat Cake,25.0,30.0,1.0,GB,1.0,FondantS,1.0,Alta,69.74
+903,A,Chocolat Cake,25.0,30.0,1.0,GB,1.0,FondantS,1.0,Muy Alta,73.74
+904,A,Chocolat Cake,25.0,30.0,1.0,GB,1.0,FondantS,0.0,Sin Tematica,61.74
+905,A,Chocolat Cake,25.0,30.0,1.0,GB,0.0,SinFondant,1.0,Basica,58.74
+906,A,Chocolat Cake,25.0,30.0,1.0,GB,0.0,SinFondant,1.0,Media,60.74
+907,A,Chocolat Cake,25.0,30.0,1.0,GB,0.0,SinFondant,1.0,Alta,63.74
+908,A,Chocolat Cake,25.0,30.0,1.0,GB,0.0,SinFondant,1.0,Muy Alta,67.74
+909,A,Chocolat Cake,25.0,30.0,1.0,GB,0.0,SinFondant,0.0,Sin Tematica,55.74
+910,A,Chocolat Cake,25.0,30.0,1.0,BC,1.0,FondantS,1.0,Basica,75.66
+911,A,Chocolat Cake,25.0,30.0,1.0,BC,1.0,FondantS,1.0,Media,77.66
+912,A,Chocolat Cake,25.0,30.0,1.0,BC,1.0,FondantS,1.0,Alta,80.66
+913,A,Chocolat Cake,25.0,30.0,1.0,BC,1.0,FondantS,1.0,Muy Alta,84.66
+914,A,Chocolat Cake,25.0,30.0,1.0,BC,1.0,FondantS,0.0,Sin Tematica,72.66
+915,A,Chocolat Cake,25.0,30.0,1.0,BC,0.0,SinFondant,1.0,Basica,69.66
+916,A,Chocolat Cake,25.0,30.0,1.0,BC,0.0,SinFondant,1.0,Media,71.66
+917,A,Chocolat Cake,25.0,30.0,1.0,BC,0.0,SinFondant,1.0,Alta,74.66
+918,A,Chocolat Cake,25.0,30.0,1.0,BC,0.0,SinFondant,1.0,Muy Alta,78.66
+919,A,Chocolat Cake,25.0,30.0,1.0,BC,0.0,SinFondant,0.0,Sin Tematica,66.66
+920,A,Chocolat Cake,25.0,30.0,1.0,BCO,1.0,FondantS,1.0,Basica,81.57
+921,A,Chocolat Cake,25.0,30.0,1.0,BCO,1.0,FondantS,1.0,Media,83.57
+922,A,Chocolat Cake,25.0,30.0,1.0,BCO,1.0,FondantS,1.0,Alta,86.57
+923,A,Chocolat Cake,25.0,30.0,1.0,BCO,1.0,FondantS,1.0,Muy Alta,90.57
+924,A,Chocolat Cake,25.0,30.0,1.0,BCO,1.0,FondantS,0.0,Sin Tematica,78.57
+925,A,Chocolat Cake,25.0,30.0,1.0,BCO,0.0,SinFondant,1.0,Basica,75.57
+926,A,Chocolat Cake,25.0,30.0,1.0,BCO,0.0,SinFondant,1.0,Media,77.57
+927,A,Chocolat Cake,25.0,30.0,1.0,BCO,0.0,SinFondant,1.0,Alta,80.57
+928,A,Chocolat Cake,25.0,30.0,1.0,BCO,0.0,SinFondant,1.0,Muy Alta,84.57
+929,A,Chocolat Cake,25.0,30.0,1.0,BCO,0.0,SinFondant,0.0,Sin Tematica,72.57
+930,A,Chocolat Cake,25.0,30.0,1.0,MerF,1.0,FondantS,1.0,Basica,62.55
+931,A,Chocolat Cake,25.0,30.0,1.0,MerF,1.0,FondantS,1.0,Media,64.55
+932,A,Chocolat Cake,25.0,30.0,1.0,MerF,1.0,FondantS,1.0,Alta,67.55
+933,A,Chocolat Cake,25.0,30.0,1.0,MerF,1.0,FondantS,1.0,Muy Alta,71.55
+934,A,Chocolat Cake,25.0,30.0,1.0,MerF,1.0,FondantS,0.0,Sin Tematica,59.55
+935,A,Chocolat Cake,25.0,30.0,1.0,MerF,0.0,SinFondant,1.0,Basica,56.55
+936,A,Chocolat Cake,25.0,30.0,1.0,MerF,0.0,SinFondant,1.0,Media,58.55
+937,A,Chocolat Cake,25.0,30.0,1.0,MerF,0.0,SinFondant,1.0,Alta,61.55
+938,A,Chocolat Cake,25.0,30.0,1.0,MerF,0.0,SinFondant,1.0,Muy Alta,65.55
+939,A,Chocolat Cake,25.0,30.0,1.0,MerF,0.0,SinFondant,0.0,Sin Tematica,53.55
+940,A,Chocolat Cake,25.0,30.0,1.0,MerFR,1.0,FondantS,1.0,Basica,62.55
+941,A,Chocolat Cake,25.0,30.0,1.0,MerFR,1.0,FondantS,1.0,Media,64.55
+942,A,Chocolat Cake,25.0,30.0,1.0,MerFR,1.0,FondantS,1.0,Alta,67.55
+943,A,Chocolat Cake,25.0,30.0,1.0,MerFR,1.0,FondantS,1.0,Muy Alta,71.55
+944,A,Chocolat Cake,25.0,30.0,1.0,MerFR,1.0,FondantS,0.0,Sin Tematica,59.55
+945,A,Chocolat Cake,25.0,30.0,1.0,MerFR,0.0,SinFondant,1.0,Basica,56.55
+946,A,Chocolat Cake,25.0,30.0,1.0,MerFR,0.0,SinFondant,1.0,Media,58.55
+947,A,Chocolat Cake,25.0,30.0,1.0,MerFR,0.0,SinFondant,1.0,Alta,61.55
+948,A,Chocolat Cake,25.0,30.0,1.0,MerFR,0.0,SinFondant,1.0,Muy Alta,65.55
+949,A,Chocolat Cake,25.0,30.0,1.0,MerFR,0.0,SinFondant,0.0,Sin Tematica,53.55
+950,A,Chocolat Cake,25.0,30.0,1.0,MerNZ,1.0,FondantS,1.0,Basica,57.49
+951,A,Chocolat Cake,25.0,30.0,1.0,MerNZ,1.0,FondantS,1.0,Media,59.49
+952,A,Chocolat Cake,25.0,30.0,1.0,MerNZ,1.0,FondantS,1.0,Alta,62.49
+953,A,Chocolat Cake,25.0,30.0,1.0,MerNZ,1.0,FondantS,1.0,Muy Alta,66.49
+954,A,Chocolat Cake,25.0,30.0,1.0,MerNZ,1.0,FondantS,0.0,Sin Tematica,54.49
+955,A,Chocolat Cake,25.0,30.0,1.0,MerNZ,0.0,SinFondant,1.0,Basica,51.49
+956,A,Chocolat Cake,25.0,30.0,1.0,MerNZ,0.0,SinFondant,1.0,Media,53.49
+957,A,Chocolat Cake,25.0,30.0,1.0,MerNZ,0.0,SinFondant,1.0,Alta,56.49
+958,A,Chocolat Cake,25.0,30.0,1.0,MerNZ,0.0,SinFondant,1.0,Muy Alta,60.49
+959,A,Chocolat Cake,25.0,30.0,1.0,MerNZ,0.0,SinFondant,0.0,Sin Tematica,48.49
+960,A,Chocolat Cake,25.0,30.0,1.0,DL,1.0,FondantS,1.0,Basica,56.6
+961,A,Chocolat Cake,25.0,30.0,1.0,DL,1.0,FondantS,1.0,Media,58.6
+962,A,Chocolat Cake,25.0,30.0,1.0,DL,1.0,FondantS,1.0,Alta,61.6
+963,A,Chocolat Cake,25.0,30.0,1.0,DL,1.0,FondantS,1.0,Muy Alta,65.6
+964,A,Chocolat Cake,25.0,30.0,1.0,DL,1.0,FondantS,0.0,Sin Tematica,53.6
+965,A,Chocolat Cake,25.0,30.0,1.0,DL,0.0,SinFondant,1.0,Basica,50.6
+966,A,Chocolat Cake,25.0,30.0,1.0,DL,0.0,SinFondant,1.0,Media,52.6
+967,A,Chocolat Cake,25.0,30.0,1.0,DL,0.0,SinFondant,1.0,Alta,55.6
+968,A,Chocolat Cake,25.0,30.0,1.0,DL,0.0,SinFondant,1.0,Muy Alta,59.6
+969,A,Chocolat Cake,25.0,30.0,1.0,DL,0.0,SinFondant,0.0,Sin Tematica,47.6
+970,A,Chocolat Cake,25.0,30.0,1.0,MerM,1.0,FondantS,1.0,Basica,57.63
+971,A,Chocolat Cake,25.0,30.0,1.0,MerM,1.0,FondantS,1.0,Media,59.63
+972,A,Chocolat Cake,25.0,30.0,1.0,MerM,1.0,FondantS,1.0,Alta,62.63
+973,A,Chocolat Cake,25.0,30.0,1.0,MerM,1.0,FondantS,1.0,Muy Alta,66.63
+974,A,Chocolat Cake,25.0,30.0,1.0,MerM,1.0,FondantS,0.0,Sin Tematica,54.63
+975,A,Chocolat Cake,25.0,30.0,1.0,MerM,0.0,SinFondant,1.0,Basica,51.63
+976,A,Chocolat Cake,25.0,30.0,1.0,MerM,0.0,SinFondant,1.0,Media,53.63
+977,A,Chocolat Cake,25.0,30.0,1.0,MerM,0.0,SinFondant,1.0,Alta,56.63
+978,A,Chocolat Cake,25.0,30.0,1.0,MerM,0.0,SinFondant,1.0,Muy Alta,60.63
+979,A,Chocolat Cake,25.0,30.0,1.0,MerM,0.0,SinFondant,0.0,Sin Tematica,48.63
+980,A,Chocolat Cake,25.0,30.0,1.0,LimC,1.0,FondantS,1.0,Basica,67.63
+981,A,Chocolat Cake,25.0,30.0,1.0,LimC,1.0,FondantS,1.0,Media,69.63
+982,A,Chocolat Cake,25.0,30.0,1.0,LimC,1.0,FondantS,1.0,Alta,72.63
+983,A,Chocolat Cake,25.0,30.0,1.0,LimC,1.0,FondantS,1.0,Muy Alta,76.63
+984,A,Chocolat Cake,25.0,30.0,1.0,LimC,1.0,FondantS,0.0,Sin Tematica,64.63
+985,A,Chocolat Cake,25.0,30.0,1.0,LimC,0.0,SinFondant,1.0,Basica,61.63
+986,A,Chocolat Cake,25.0,30.0,1.0,LimC,0.0,SinFondant,1.0,Media,63.63
+987,A,Chocolat Cake,25.0,30.0,1.0,LimC,0.0,SinFondant,1.0,Alta,66.63
+988,A,Chocolat Cake,25.0,30.0,1.0,LimC,0.0,SinFondant,1.0,Muy Alta,70.63
+989,A,Chocolat Cake,25.0,30.0,1.0,LimC,0.0,SinFondant,0.0,Sin Tematica,58.63
+990,A,Oreo Cake,25.0,30.0,1.0,BCO,1.0,FondantL,1.0,Basica,69.61
+991,A,Oreo Cake,25.0,30.0,1.0,BCO,1.0,FondantL,1.0,Media,71.61
+992,A,Oreo Cake,25.0,30.0,1.0,BCO,1.0,FondantL,1.0,Alta,74.61
+993,A,Oreo Cake,25.0,30.0,1.0,BCO,1.0,FondantL,1.0,Muy Alta,78.61
+994,A,Oreo Cake,25.0,30.0,1.0,BCO,1.0,FondantL,0.0,Sin Tematica,66.61
+995,A,Oreo Cake,25.0,30.0,1.0,BCO,0.0,SinFondant,1.0,Basica,63.61
+996,A,Oreo Cake,25.0,30.0,1.0,BCO,0.0,SinFondant,1.0,Media,65.61
+997,A,Oreo Cake,25.0,30.0,1.0,BCO,0.0,SinFondant,1.0,Alta,68.61
+998,A,Oreo Cake,25.0,30.0,1.0,BCO,0.0,SinFondant,1.0,Muy Alta,72.61
+999,A,Oreo Cake,25.0,30.0,1.0,BCO,0.0,SinFondant,0.0,Sin Tematica,60.61
+1000,A,Oreo Cake,12.0,9.0,1.0,BCO,1.0,FondantL,1.0,Basica,20.55
+1001,A,Oreo Cake,12.0,9.0,1.0,BCO,1.0,FondantL,1.0,Media,22.55
+1002,A,Oreo Cake,12.0,9.0,1.0,BCO,1.0,FondantL,1.0,Alta,25.55
+1003,A,Oreo Cake,12.0,9.0,1.0,BCO,1.0,FondantL,1.0,Muy Alta,29.55
+1004,A,Oreo Cake,12.0,9.0,1.0,BCO,1.0,FondantL,0.0,Sin Tematica,17.55
+1005,A,Oreo Cake,12.0,9.0,1.0,BCO,0.0,SinFondant,1.0,Basica,18.15
+1006,A,Oreo Cake,12.0,9.0,1.0,BCO,0.0,SinFondant,1.0,Media,20.15
+1007,A,Oreo Cake,12.0,9.0,1.0,BCO,0.0,SinFondant,1.0,Alta,23.15
+1008,A,Oreo Cake,12.0,9.0,1.0,BCO,0.0,SinFondant,1.0,Muy Alta,27.15
+1009,A,Oreo Cake,12.0,9.0,1.0,BCO,0.0,SinFondant,0.0,Sin Tematica,15.15
+1010,A,ReDVelvet Cake,25.0,30.0,1.0,BC,1.0,FondantL,1.0,Basica,124.82
+1011,A,ReDVelvet Cake,25.0,30.0,1.0,BC,1.0,FondantL,1.0,Media,126.82
+1012,A,ReDVelvet Cake,25.0,30.0,1.0,BC,1.0,FondantL,1.0,Alta,129.82
+1013,A,ReDVelvet Cake,25.0,30.0,1.0,BC,1.0,FondantL,1.0,Muy Alta,133.82
+1014,A,ReDVelvet Cake,25.0,30.0,1.0,BC,1.0,FondantL,0.0,Sin Tematica,121.82
+1015,A,ReDVelvet Cake,25.0,30.0,1.0,BC,0.0,SinFondant,1.0,Basica,118.82
+1016,A,ReDVelvet Cake,25.0,30.0,1.0,BC,0.0,SinFondant,1.0,Media,120.82
+1017,A,ReDVelvet Cake,25.0,30.0,1.0,BC,0.0,SinFondant,1.0,Alta,123.82
+1018,A,ReDVelvet Cake,25.0,30.0,1.0,BC,0.0,SinFondant,1.0,Muy Alta,127.82
+1019,A,ReDVelvet Cake,25.0,30.0,1.0,BC,0.0,SinFondant,0.0,Sin Tematica,115.82
+1020,A,ReDVelvet Cake,12.0,9.0,1.0,BC,1.0,FondantL,1.0,Basica,34.36
+1021,A,ReDVelvet Cake,12.0,9.0,1.0,BC,1.0,FondantL,1.0,Media,36.36
+1022,A,ReDVelvet Cake,12.0,9.0,1.0,BC,1.0,FondantL,1.0,Alta,39.36
+1023,A,ReDVelvet Cake,12.0,9.0,1.0,BC,1.0,FondantL,1.0,Muy Alta,43.36
+1024,A,ReDVelvet Cake,12.0,9.0,1.0,BC,1.0,FondantL,0.0,Sin Tematica,31.36
+1025,A,ReDVelvet Cake,12.0,9.0,1.0,BC,0.0,SinFondant,1.0,Basica,31.96
+1026,A,ReDVelvet Cake,12.0,9.0,1.0,BC,0.0,SinFondant,1.0,Media,33.96
+1027,A,ReDVelvet Cake,12.0,9.0,1.0,BC,0.0,SinFondant,1.0,Alta,36.96
+1028,A,ReDVelvet Cake,12.0,9.0,1.0,BC,0.0,SinFondant,1.0,Muy Alta,40.96
+1029,A,ReDVelvet Cake,12.0,9.0,1.0,BC,0.0,SinFondant,0.0,Sin Tematica,28.96
+1030,A,Carrot Cake,25.0,30.0,1.0,BC,1.0,FondantL,1.0,Basica,68.28
+1031,A,Carrot Cake,25.0,30.0,1.0,BC,1.0,FondantL,1.0,Media,70.28
+1032,A,Carrot Cake,25.0,30.0,1.0,BC,1.0,FondantL,1.0,Alta,73.28
+1033,A,Carrot Cake,25.0,30.0,1.0,BC,1.0,FondantL,1.0,Muy Alta,77.28
+1034,A,Carrot Cake,25.0,30.0,1.0,BC,1.0,FondantL,0.0,Sin Tematica,65.28
+1035,A,Carrot Cake,25.0,30.0,1.0,BC,0.0,SinFondant,1.0,Basica,62.28
+1036,A,Carrot Cake,25.0,30.0,1.0,BC,0.0,SinFondant,1.0,Media,64.28
+1037,A,Carrot Cake,25.0,30.0,1.0,BC,0.0,SinFondant,1.0,Alta,67.28
+1038,A,Carrot Cake,25.0,30.0,1.0,BC,0.0,SinFondant,1.0,Muy Alta,71.28
+1039,A,Carrot Cake,25.0,30.0,1.0,BC,0.0,SinFondant,0.0,Sin Tematica,59.28
+1040,A,Carrot Cake,12.0,9.0,1.0,BC,1.0,FondantL,1.0,Basica,20.22
+1041,A,Carrot Cake,12.0,9.0,1.0,BC,1.0,FondantL,1.0,Media,22.22
+1042,A,Carrot Cake,12.0,9.0,1.0,BC,1.0,FondantL,1.0,Alta,25.22
+1043,A,Carrot Cake,12.0,9.0,1.0,BC,1.0,FondantL,1.0,Muy Alta,29.22
+1044,A,Carrot Cake,12.0,9.0,1.0,BC,1.0,FondantL,0.0,Sin Tematica,17.22
+1045,A,Carrot Cake,12.0,9.0,1.0,BC,0.0,SinFondant,1.0,Basica,17.82
+1046,A,Carrot Cake,12.0,9.0,1.0,BC,0.0,SinFondant,1.0,Media,19.82
+1047,A,Carrot Cake,12.0,9.0,1.0,BC,0.0,SinFondant,1.0,Alta,22.82
+1048,A,Carrot Cake,12.0,9.0,1.0,BC,0.0,SinFondant,1.0,Muy Alta,26.82
+1049,A,Carrot Cake,12.0,9.0,1.0,BC,0.0,SinFondant,0.0,Sin Tematica,14.82
+1050,A,NPDCake,25.0,30.0,1.0,DL,1.0,FondantL,1.0,Basica,67.74
+1051,A,NPDCake,25.0,30.0,1.0,DL,1.0,FondantL,1.0,Media,69.74
+1052,A,NPDCake,25.0,30.0,1.0,DL,1.0,FondantL,1.0,Alta,72.74
+1053,A,NPDCake,25.0,30.0,1.0,DL,1.0,FondantL,1.0,Muy Alta,76.74
+1054,A,NPDCake,25.0,30.0,1.0,DL,1.0,FondantL,0.0,Sin Tematica,64.74
+1055,A,NPDCake,25.0,30.0,1.0,DL,0.0,SinFondant,1.0,Basica,61.74
+1056,A,NPDCake,25.0,30.0,1.0,DL,0.0,SinFondant,1.0,Media,63.74
+1057,A,NPDCake,25.0,30.0,1.0,DL,0.0,SinFondant,1.0,Alta,66.74
+1058,A,NPDCake,25.0,30.0,1.0,DL,0.0,SinFondant,1.0,Muy Alta,70.74
+1059,A,NPDCake,25.0,30.0,1.0,DL,0.0,SinFondant,0.0,Sin Tematica,58.74
+1060,A,NPDCake,12.0,9.0,1.0,DL,1.0,FondantL,1.0,Basica,26.87
+1061,A,NPDCake,12.0,9.0,1.0,DL,1.0,FondantL,1.0,Media,28.87
+1062,A,NPDCake,12.0,9.0,1.0,DL,1.0,FondantL,1.0,Alta,31.87
+1063,A,NPDCake,12.0,9.0,1.0,DL,1.0,FondantL,1.0,Muy Alta,35.87
+1064,A,NPDCake,12.0,9.0,1.0,DL,1.0,FondantL,0.0,Sin Tematica,23.87
+1065,A,NPDCake,12.0,9.0,1.0,DL,0.0,SinFondant,1.0,Basica,24.47
+1066,A,NPDCake,12.0,9.0,1.0,DL,0.0,SinFondant,1.0,Media,26.47
+1067,A,NPDCake,12.0,9.0,1.0,DL,0.0,SinFondant,1.0,Alta,29.47
+1068,A,NPDCake,12.0,9.0,1.0,DL,0.0,SinFondant,1.0,Muy Alta,33.47
+1069,A,NPDCake,12.0,9.0,1.0,DL,0.0,SinFondant,0.0,Sin Tematica,21.47
+1070,A,NSA Cake,12.0,9.0,1.0,MerNZ,1.0,FondantL,1.0,Basica,35.71
+1071,A,NSA Cake,12.0,9.0,1.0,MerNZ,1.0,FondantL,1.0,Media,37.71
+1072,A,NSA Cake,12.0,9.0,1.0,MerNZ,1.0,FondantL,1.0,Alta,40.71
+1073,A,NSA Cake,12.0,9.0,1.0,MerNZ,1.0,FondantL,1.0,Muy Alta,44.71
+1074,A,NSA Cake,12.0,9.0,1.0,MerNZ,1.0,FondantL,0.0,Sin Tematica,32.71
+1075,A,NSA Cake,12.0,9.0,1.0,MerNZ,0.0,SinFondant,1.0,Basica,33.31
+1076,A,NSA Cake,12.0,9.0,1.0,MerNZ,0.0,SinFondant,1.0,Media,35.31
+1077,A,NSA Cake,12.0,9.0,1.0,MerNZ,0.0,SinFondant,1.0,Alta,38.31
+1078,A,NSA Cake,12.0,9.0,1.0,MerNZ,0.0,SinFondant,1.0,Muy Alta,42.31
+1079,A,NSA Cake,12.0,9.0,1.0,MerNZ,0.0,SinFondant,0.0,Sin Tematica,30.31
+1080,A,NSA Cake,25.0,30.0,1.0,MerNZ,1.0,FondantL,1.0,Basica,103.13
+1081,A,NSA Cake,25.0,30.0,1.0,MerNZ,1.0,FondantL,1.0,Media,105.13
+1082,A,NSA Cake,25.0,30.0,1.0,MerNZ,1.0,FondantL,1.0,Alta,108.13
+1083,A,NSA Cake,25.0,30.0,1.0,MerNZ,1.0,FondantL,1.0,Muy Alta,112.13
+1084,A,NSA Cake,25.0,30.0,1.0,MerNZ,1.0,FondantL,0.0,Sin Tematica,100.13
+1085,A,NSA Cake,25.0,30.0,1.0,MerNZ,0.0,SinFondant,1.0,Basica,97.13
+1086,A,NSA Cake,25.0,30.0,1.0,MerNZ,0.0,SinFondant,1.0,Media,99.13
+1087,A,NSA Cake,25.0,30.0,1.0,MerNZ,0.0,SinFondant,1.0,Alta,102.13
+1088,A,NSA Cake,25.0,30.0,1.0,MerNZ,0.0,SinFondant,1.0,Muy Alta,106.13
+1089,A,NSA Cake,25.0,30.0,1.0,MerNZ,0.0,SinFondant,0.0,Sin Tematica,94.13
+1090,A,Coco Cake,25.0,30.0,1.0,DL,1.0,FondantL,1.0,Basica,70.07
+1091,A,Coco Cake,25.0,30.0,1.0,DL,1.0,FondantL,1.0,Media,72.07
+1092,A,Coco Cake,25.0,30.0,1.0,DL,1.0,FondantL,1.0,Alta,75.07
+1093,A,Coco Cake,25.0,30.0,1.0,DL,1.0,FondantL,1.0,Muy Alta,79.07
+1094,A,Coco Cake,25.0,30.0,1.0,DL,1.0,FondantL,0.0,Sin Tematica,67.07
+1095,A,Coco Cake,25.0,30.0,1.0,DL,0.0,SinFondant,1.0,Basica,64.07
+1096,A,Coco Cake,25.0,30.0,1.0,DL,0.0,SinFondant,1.0,Media,66.07
+1097,A,Coco Cake,25.0,30.0,1.0,DL,0.0,SinFondant,1.0,Alta,69.07
+1098,A,Coco Cake,25.0,30.0,1.0,DL,0.0,SinFondant,1.0,Muy Alta,73.07
+1099,A,Coco Cake,25.0,30.0,1.0,DL,0.0,SinFondant,0.0,Sin Tematica,61.07
+1100,A,Coco Cake,12.0,9.0,1.0,DL,1.0,FondantL,1.0,Basica,27.45
+1101,A,Coco Cake,12.0,9.0,1.0,DL,1.0,FondantL,1.0,Media,29.45
+1102,A,Coco Cake,12.0,9.0,1.0,DL,1.0,FondantL,1.0,Alta,32.45
+1103,A,Coco Cake,12.0,9.0,1.0,DL,1.0,FondantL,1.0,Muy Alta,36.45
+1104,A,Coco Cake,12.0,9.0,1.0,DL,1.0,FondantL,0.0,Sin Tematica,24.45
+1105,A,Coco Cake,12.0,9.0,1.0,DL,0.0,SinFondant,1.0,Basica,25.05
+1106,A,Coco Cake,12.0,9.0,1.0,DL,0.0,SinFondant,1.0,Media,27.05
+1107,A,Coco Cake,12.0,9.0,1.0,DL,0.0,SinFondant,1.0,Alta,30.05
+1108,A,Coco Cake,12.0,9.0,1.0,DL,0.0,SinFondant,1.0,Muy Alta,34.05
+1109,A,Coco Cake,12.0,9.0,1.0,DL,0.0,SinFondant,0.0,Sin Tematica,22.05
+1110,A,Limon Cake,25.0,30.0,1.0,LimC,1.0,FondantS,1.0,Basica,65.74
+1111,A,Limon Cake,25.0,30.0,1.0,LimC,1.0,FondantS,1.0,Media,67.74
+1112,A,Limon Cake,25.0,30.0,1.0,LimC,1.0,FondantS,1.0,Alta,70.74
+1113,A,Limon Cake,25.0,30.0,1.0,LimC,1.0,FondantS,1.0,Muy Alta,74.74
+1114,A,Limon Cake,25.0,30.0,1.0,LimC,1.0,FondantS,0.0,Sin Tematica,62.74
+1115,A,Limon Cake,25.0,30.0,1.0,LimC,0.0,SinFondant,1.0,Basica,59.74
+1116,A,Limon Cake,25.0,30.0,1.0,LimC,0.0,SinFondant,1.0,Media,61.74
+1117,A,Limon Cake,25.0,30.0,1.0,LimC,0.0,SinFondant,1.0,Alta,64.74
+1118,A,Limon Cake,25.0,30.0,1.0,LimC,0.0,SinFondant,1.0,Muy Alta,68.74
+1119,A,Limon Cake,25.0,30.0,1.0,LimC,0.0,SinFondant,0.0,Sin Tematica,56.74
+1120,A,Limon Cake,12.0,9.0,1.0,LimC,1.0,FondantL,1.0,Basica,26.37
+1121,A,Limon Cake,12.0,9.0,1.0,LimC,1.0,FondantL,1.0,Media,28.37
+1122,A,Limon Cake,12.0,9.0,1.0,LimC,1.0,FondantL,1.0,Alta,31.37
+1123,A,Limon Cake,12.0,9.0,1.0,LimC,1.0,FondantL,1.0,Muy Alta,35.37
+1124,A,Limon Cake,12.0,9.0,1.0,LimC,1.0,FondantL,0.0,Sin Tematica,23.37
+1125,A,Limon Cake,12.0,9.0,1.0,LimC,0.0,SinFondant,1.0,Basica,23.97
+1126,A,Limon Cake,12.0,9.0,1.0,LimC,0.0,SinFondant,1.0,Media,25.97
+1127,A,Limon Cake,12.0,9.0,1.0,LimC,0.0,SinFondant,1.0,Alta,28.97
+1128,A,Limon Cake,12.0,9.0,1.0,LimC,0.0,SinFondant,1.0,Muy Alta,32.97
+1129,A,Limon Cake,12.0,9.0,1.0,LimC,0.0,SinFondant,0.0,Sin Tematica,20.97
+1130,B,Victoria Cake,12.0,9.0,1.0,GN,0.0,0,1.0,Basica,39.0
+1131,B,Victoria Cake,12.0,9.0,1.0,GB,0.0,0,1.0,Basica,39.0
+1132,B,Victoria Cake,12.0,9.0,1.0,DL,0.0,0,1.0,Basica,39.0
+1133,B,Victoria Cake,12.0,9.0,1.0,GNL,0.0,0,1.0,Basica,39.0
+1134,B,Chocolat Cake,12.0,9.0,1.0,GN,0.0,0,1.0,Basica,39.0
+1135,B,Chocolat Cake,12.0,9.0,1.0,GB,0.0,0,1.0,Basica,39.0
+1136,B,Chocolat Cake,12.0,9.0,1.0,DL,0.0,0,1.0,Basica,39.0
+1137,B,Chocolat Cake,12.0,9.0,1.0,GNL,0.0,0,1.0,Basica,39.0
+1138,B,ReDVelvet Cake,12.0,9.0,1.0,BC,0.0,0,1.0,Basica,42.0
+1139,B,Carrot Cake,12.0,9.0,1.0,BC,0.0,0,1.0,Basica,42.0
+1140,B,Victoria Cake,18.0,15.0,1.0,GN,0.0,0,1.0,Alta,80.0
+1141,B,Victoria Cake,18.0,15.0,1.0,GB,0.0,0,1.0,Alta,80.0
+1142,B,Victoria Cake,18.0,15.0,1.0,DL,0.0,0,1.0,Alta,80.0
+1143,B,Victoria Cake,18.0,15.0,1.0,GNL,0.0,0,1.0,Alta,80.0
+1144,B,Chocolat Cake,18.0,15.0,1.0,GN,0.0,0,1.0,Alta,80.0
+1145,B,Chocolat Cake,18.0,15.0,1.0,GB,0.0,0,1.0,Alta,80.0
+1146,B,Chocolat Cake,18.0,15.0,1.0,DL,0.0,0,1.0,Alta,80.0
+1147,B,Chocolat Cake,18.0,15.0,1.0,GNL,0.0,0,1.0,Alta,80.0
+1148,B,ReDVelvet Cake,18.0,15.0,1.0,BC,0.0,0,1.0,Alta,80.0
+1149,B,Carrot Cake,18.0,15.0,1.0,BC,0.0,0,1.0,Alta,80.0
+1150,B,Victoria Cake,25.0,30.0,1.0,GN,0.0,0,1.0,Muy Alta,95.0
+1151,B,Victoria Cake,25.0,30.0,1.0,GB,0.0,0,1.0,Muy Alta,95.0
+1152,B,Victoria Cake,25.0,30.0,1.0,DL,0.0,0,1.0,Muy Alta,95.0
+1153,B,Victoria Cake,25.0,30.0,1.0,GNL,0.0,0,1.0,Muy Alta,95.0
+1154,B,Chocolat Cake,25.0,30.0,1.0,GN,0.0,0,1.0,Muy Alta,95.0
+1155,B,Chocolat Cake,25.0,30.0,1.0,GB,0.0,0,1.0,Muy Alta,95.0
+1156,B,Chocolat Cake,25.0,30.0,1.0,DL,0.0,0,1.0,Muy Alta,95.0
+1157,B,Chocolat Cake,25.0,30.0,1.0,GNL,0.0,0,1.0,Muy Alta,95.0
+1158,C,Chocolat Cake,12.0,9.0,1.0,GN,0.0,0,1.0,Basica,45.0
+1159,C,Victoria Cake,12.0,9.0,1.0,GN,0.0,0,1.0,Basica,45.0
+1160,C,ReDVelvet Cake,12.0,9.0,1.0,BC,0.0,0,1.0,Basica,45.0
+1161,C,Carrot Cake,12.0,9.0,1.0,BC,0.0,0,1.0,Basica,45.0
+1162,C,Chocolat Cake,18.0,15.0,1.0,GN,0.0,0,1.0,Basica,60.0
+1163,C,Victoria Cake,18.0,15.0,1.0,GN,0.0,0,1.0,Basica,60.0
+1164,C,ReDVelvet Cake,18.0,15.0,1.0,BC,0.0,0,1.0,Basica,60.0
+1165,C,Carrot Cake,18.0,15.0,1.0,BC,0.0,0,1.0,Basica,60.0
+1166,C,Chocolat Cake,25.0,30.0,1.0,GN,0.0,0,1.0,Basica,75.0
+1167,C,Victoria Cake,25.0,30.0,1.0,GN,0.0,0,1.0,Basica,75.0
+1168,C,ReDVelvet Cake,25.0,30.0,1.0,BC,0.0,0,1.0,Basica,75.0
+1169,C,Carrot Cake,25.0,30.0,1.0,BC,0.0,0,1.0,Basica,75.0
+1170,C,Chocolat Cake,12.0,9.0,1.0,GN,0.0,0,1.0,Alta,75.0
+1171,C,Victoria Cake,12.0,9.0,1.0,GN,0.0,0,1.0,Alta,75.0
+1172,C,ReDVelvet Cake,12.0,9.0,1.0,BC,0.0,0,1.0,Alta,75.0
+1173,C,Carrot Cake,12.0,9.0,1.0,BC,0.0,0,1.0,Alta,75.0
+1174,C,Chocolat Cake,18.0,15.0,1.0,GN,0.0,0,1.0,Alta,75.0
+1175,C,Victoria Cake,18.0,15.0,1.0,GN,0.0,0,1.0,Alta,75.0
+1176,C,ReDVelvet Cake,18.0,15.0,1.0,BC,0.0,0,1.0,Alta,75.0
+1177,C,Carrot Cake,18.0,15.0,1.0,BC,0.0,0,1.0,Alta,75.0
+1178,C,Chocolat Cake,25.0,30.0,1.0,GN,0.0,0,1.0,Alta,75.0
+1179,C,Victoria Cake,25.0,30.0,1.0,GN,0.0,0,1.0,Alta,75.0
+1180,C,ReDVelvet Cake,25.0,30.0,1.0,BC,0.0,0,1.0,Alta,75.0
+1181,C,Carrot Cake,25.0,30.0,1.0,BC,0.0,0,1.0,Alta,75.0
+1182,C,Chocolat Cake,12.0,9.0,1.0,GN,0.0,0,1.0,Muy Alta,95.0
+1183,C,Victoria Cake,12.0,9.0,1.0,GN,0.0,0,1.0,Muy Alta,95.0
+1184,C,ReDVelvet Cake,12.0,9.0,1.0,BC,0.0,0,1.0,Muy Alta,95.0
+1185,C,Carrot Cake,12.0,9.0,1.0,BC,0.0,0,1.0,Muy Alta,95.0
+1186,C,Chocolat Cake,18.0,15.0,1.0,GN,0.0,0,1.0,Muy Alta,95.0
+1187,C,Victoria Cake,18.0,15.0,1.0,GN,0.0,0,1.0,Muy Alta,95.0
+1188,C,ReDVelvet Cake,18.0,15.0,1.0,BC,0.0,0,1.0,Muy Alta,95.0
+1189,C,Carrot Cake,18.0,15.0,1.0,BC,0.0,0,1.0,Muy Alta,95.0
+1190,C,Chocolat Cake,25.0,30.0,1.0,GN,0.0,0,1.0,Muy Alta,95.0
+1191,C,Victoria Cake,25.0,30.0,1.0,GN,0.0,0,1.0,Muy Alta,95.0
+1192,C,ReDVelvet Cake,25.0,30.0,1.0,BC,0.0,0,1.0,Muy Alta,95.0
+1193,C,Carrot Cake,25.0,30.0,1.0,BC,0.0,0,1.0,Muy Alta,95.0
+1194,C,Chocolat Cake,12.0,9.0,1.0,GN,0.0,0,0.0,Sin Tematica,30.0
+1195,C,Victoria Cake,12.0,9.0,1.0,GN,0.0,0,0.0,Sin Tematica,30.0
+1196,C,ReDVelvet Cake,12.0,9.0,1.0,BC,0.0,0,0.0,Sin Tematica,30.0
+1197,C,Carrot Cake,12.0,9.0,1.0,BC,0.0,0,0.0,Sin Tematica,30.0
+1198,C,Chocolat Cake,18.0,15.0,1.0,GN,0.0,0,0.0,Sin Tematica,35.0
+1199,C,Victoria Cake,18.0,15.0,1.0,GN,0.0,0,0.0,Sin Tematica,35.0
+1200,C,ReDVelvet Cake,18.0,15.0,1.0,BC,0.0,0,0.0,Sin Tematica,35.0
+1201,C,Carrot Cake,18.0,15.0,1.0,BC,0.0,0,0.0,Sin Tematica,35.0
+1202,C,Chocolat Cake,25.0,30.0,1.0,GN,0.0,0,0.0,Sin Tematica,40.0
+1203,C,Victoria Cake,25.0,30.0,1.0,GN,0.0,0,0.0,Sin Tematica,40.0
+1204,C,ReDVelvet Cake,25.0,30.0,1.0,BC,0.0,0,0.0,Sin Tematica,40.0
+1205,C,Carrot Cake,25.0,30.0,1.0,BC,0.0,0,0.0,Sin Tematica,40.0
